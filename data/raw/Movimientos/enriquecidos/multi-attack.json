@@ -1,0 +1,16 @@
+{
+    "id": 718,
+    "nombre_en": "multi-attack",
+    "nombre_es": "Multiataque",
+    "tipo": "normal",
+    "categoria": "physical",
+    "potencia": 120,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "silvally"
+    ]
+}

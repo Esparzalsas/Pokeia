@@ -1,0 +1,15 @@
+{
+    "pokemon": [
+        {
+            "nombre": "gogoat",
+            "oculta": true
+        },
+        {
+            "nombre": "skiddo",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Manto Frondoso",
+    "descripcion": "Aumenta la Defensa mientras dura el efecto de Campo de Hierba.",
+    "generacion_introduccion": "generation-vi"
+}

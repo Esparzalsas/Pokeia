@@ -1,0 +1,16 @@
+{
+    "id": 745,
+    "nombre_en": "snipe-shot",
+    "nombre_es": "Disparo Certero",
+    "tipo": "water",
+    "categoria": "special",
+    "potencia": 80,
+    "precision": 100,
+    "pp": 15,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "inteleon"
+    ]
+}

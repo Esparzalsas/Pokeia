@@ -1,0 +1,33 @@
+{
+    "id": 303,
+    "nombre_en": "slack-off",
+    "nombre_es": "Relajo",
+    "tipo": "normal",
+    "categoria": "status",
+    "potencia": null,
+    "precision": null,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-iii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "slowpoke",
+        "slowbro",
+        "slowking",
+        "slakoth",
+        "vigoroth",
+        "slaking",
+        "chimchar",
+        "monferno",
+        "infernape",
+        "hippopotas",
+        "hippowdon",
+        "mr-rime",
+        "fuecoco",
+        "bellibolt",
+        "slowbro-mega",
+        "slowpoke-galar",
+        "slowbro-galar",
+        "slowking-galar"
+    ]
+}

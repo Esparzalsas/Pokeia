@@ -1,0 +1,19 @@
+{
+    "id": 711,
+    "nombre_en": "prismatic-laser",
+    "nombre_es": "Láser Prisma",
+    "tipo": "psychic",
+    "categoria": "special",
+    "potencia": 160,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "necrozma",
+        "necrozma-dusk",
+        "necrozma-dawn",
+        "necrozma-ultra"
+    ]
+}

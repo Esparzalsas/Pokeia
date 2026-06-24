@@ -1,0 +1,22 @@
+{
+    "id": 169,
+    "nombre_en": "spider-web",
+    "nombre_es": "Telaraña",
+    "tipo": "bug",
+    "categoria": "status",
+    "potencia": null,
+    "precision": null,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-ii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "spinarak",
+        "ariados",
+        "joltik",
+        "galvantula",
+        "dewpider",
+        "araquanid",
+        "araquanid-totem"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "id": 467,
+    "nombre_en": "shadow-force",
+    "nombre_es": "Golpe Umbrío",
+    "tipo": "ghost",
+    "categoria": "physical",
+    "potencia": 120,
+    "precision": 100,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-iv",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "giratina-altered",
+        "giratina-origin"
+    ]
+}

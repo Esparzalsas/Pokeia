@@ -1,0 +1,67 @@
+{
+    "pokemon": [
+        {
+            "nombre": "banette",
+            "oculta": true
+        },
+        {
+            "nombre": "corsola-galar",
+            "oculta": true
+        },
+        {
+            "nombre": "dragapult",
+            "oculta": true
+        },
+        {
+            "nombre": "drakloak",
+            "oculta": true
+        },
+        {
+            "nombre": "dreepy",
+            "oculta": true
+        },
+        {
+            "nombre": "frillish",
+            "oculta": false
+        },
+        {
+            "nombre": "froslass",
+            "oculta": true
+        },
+        {
+            "nombre": "gengar-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "gengar",
+            "oculta": false
+        },
+        {
+            "nombre": "jellicent",
+            "oculta": false
+        },
+        {
+            "nombre": "marowak-alola",
+            "oculta": false
+        },
+        {
+            "nombre": "marowak-totem",
+            "oculta": false
+        },
+        {
+            "nombre": "polteageist",
+            "oculta": true
+        },
+        {
+            "nombre": "shuppet",
+            "oculta": true
+        },
+        {
+            "nombre": "sinistea",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Cuerpo Maldito",
+    "descripcion": "Puede anular el movimiento usado en su contra.",
+    "generacion_introduccion": "generation-v"
+}

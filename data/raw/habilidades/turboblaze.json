@@ -1,0 +1,15 @@
+{
+    "pokemon": [
+        {
+            "nombre": "kyurem-white",
+            "oculta": false
+        },
+        {
+            "nombre": "reshiram",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Turbollama",
+    "descripcion": "Usa movimientos sin que importen las habilidades.",
+    "generacion_introduccion": "generation-v"
+}

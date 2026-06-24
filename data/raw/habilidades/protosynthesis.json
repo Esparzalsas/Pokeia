@@ -1,0 +1,47 @@
+{
+    "pokemon": [
+        {
+            "nombre": "brute-bonnet",
+            "oculta": false
+        },
+        {
+            "nombre": "flutter-mane",
+            "oculta": false
+        },
+        {
+            "nombre": "gouging-fire",
+            "oculta": false
+        },
+        {
+            "nombre": "great-tusk",
+            "oculta": false
+        },
+        {
+            "nombre": "raging-bolt",
+            "oculta": false
+        },
+        {
+            "nombre": "roaring-moon",
+            "oculta": false
+        },
+        {
+            "nombre": "sandy-shocks",
+            "oculta": false
+        },
+        {
+            "nombre": "scream-tail",
+            "oculta": false
+        },
+        {
+            "nombre": "slither-wing",
+            "oculta": false
+        },
+        {
+            "nombre": "walking-wake",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Paleosíntesis",
+    "descripcion": null,
+    "generacion_introduccion": "generation-ix"
+}

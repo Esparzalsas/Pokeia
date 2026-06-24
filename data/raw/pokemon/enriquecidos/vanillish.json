@@ -1,0 +1,72 @@
+{
+    "id": 583,
+    "nombre": "vanillish",
+    "tipos": [
+        "ice"
+    ],
+    "stats_base": {
+        "hp": 51,
+        "attack": 65,
+        "defense": 65,
+        "special-attack": 80,
+        "special-defense": 75,
+        "speed": 59
+    },
+    "habilidades": {
+        "normales": [
+            "ice-body",
+            "snow-cloak"
+        ],
+        "oculta": "weak-armor"
+    },
+    "movimientos": [
+        "mist",
+        "ice-beam",
+        "blizzard",
+        "toxic",
+        "double-team",
+        "harden",
+        "light-screen",
+        "self-destruct",
+        "acid-armor",
+        "explosion",
+        "rest",
+        "substitute",
+        "snore",
+        "protect",
+        "icy-wind",
+        "endure",
+        "swagger",
+        "attract",
+        "sleep-talk",
+        "return",
+        "frustration",
+        "hidden-power",
+        "rain-dance",
+        "mirror-coat",
+        "uproar",
+        "hail",
+        "facade",
+        "taunt",
+        "magic-coat",
+        "imprison",
+        "secret-power",
+        "hyper-voice",
+        "astonish",
+        "signal-beam",
+        "sheer-cold",
+        "icicle-spear",
+        "iron-defense",
+        "water-pulse",
+        "magnet-rise",
+        "avalanche",
+        "mirror-shot",
+        "flash-cannon",
+        "round",
+        "ally-switch",
+        "frost-breath",
+        "confide"
+    ],
+    "peso": 410,
+    "altura": 11
+}

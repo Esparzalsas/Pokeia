@@ -1,0 +1,14 @@
+{
+    "id": 655,
+    "nombre_en": "black-hole-eclipse--special",
+    "nombre_es": "Agujero Negro Aniquilador",
+    "tipo": "dark",
+    "categoria": "special",
+    "potencia": null,
+    "precision": null,
+    "pp": 1,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

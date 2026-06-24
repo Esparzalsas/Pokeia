@@ -1,0 +1,18 @@
+{
+    "id": 544,
+    "nombre_en": "gear-grind",
+    "nombre_es": "Rueda Doble",
+    "tipo": "steel",
+    "categoria": "physical",
+    "potencia": 50,
+    "precision": 85,
+    "pp": 15,
+    "prioridad": 0,
+    "generacion": "generation-v",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "klink",
+        "klang",
+        "klinklang"
+    ]
+}

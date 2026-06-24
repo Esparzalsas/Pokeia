@@ -1,0 +1,31 @@
+{
+    "pokemon": [
+        {
+            "nombre": "braixen",
+            "oculta": true
+        },
+        {
+            "nombre": "delphox",
+            "oculta": true
+        },
+        {
+            "nombre": "fennekin",
+            "oculta": true
+        },
+        {
+            "nombre": "hoopa-unbound",
+            "oculta": false
+        },
+        {
+            "nombre": "hoopa",
+            "oculta": false
+        },
+        {
+            "nombre": "klefki",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Prestidigitador",
+    "descripcion": "Roba el objeto del Pokémon al que alcance con un movimiento.",
+    "generacion_introduccion": "generation-vi"
+}

@@ -1,0 +1,67 @@
+{
+    "pokemon": [
+        {
+            "nombre": "articuno",
+            "oculta": true
+        },
+        {
+            "nombre": "beartic",
+            "oculta": false
+        },
+        {
+            "nombre": "cetoddle",
+            "oculta": false
+        },
+        {
+            "nombre": "cubchoo",
+            "oculta": false
+        },
+        {
+            "nombre": "froslass",
+            "oculta": false
+        },
+        {
+            "nombre": "glaceon",
+            "oculta": false
+        },
+        {
+            "nombre": "mamoswine",
+            "oculta": false
+        },
+        {
+            "nombre": "ninetales-alola",
+            "oculta": false
+        },
+        {
+            "nombre": "piloswine",
+            "oculta": false
+        },
+        {
+            "nombre": "sandshrew-alola",
+            "oculta": false
+        },
+        {
+            "nombre": "sandslash-alola",
+            "oculta": false
+        },
+        {
+            "nombre": "swinub",
+            "oculta": false
+        },
+        {
+            "nombre": "vanillish",
+            "oculta": false
+        },
+        {
+            "nombre": "vanillite",
+            "oculta": false
+        },
+        {
+            "nombre": "vulpix-alola",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Manto Níveo",
+    "descripcion": "Sube la Evasión durante una tormenta de granizo.",
+    "generacion_introduccion": "generation-iv"
+}

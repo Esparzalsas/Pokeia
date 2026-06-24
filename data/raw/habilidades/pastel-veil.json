@@ -1,0 +1,15 @@
+{
+    "pokemon": [
+        {
+            "nombre": "ponyta-galar",
+            "oculta": false
+        },
+        {
+            "nombre": "rapidash-galar",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Velo Pastel",
+    "descripcion": "Se protege a sí mismo y a sus aliados del envenenamiento.",
+    "generacion_introduccion": "generation-viii"
+}

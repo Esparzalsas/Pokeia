@@ -1,0 +1,30 @@
+{
+    "id": 513,
+    "nombre_en": "reflect-type",
+    "nombre_es": "Clonatipo",
+    "tipo": "normal",
+    "categoria": "status",
+    "potencia": null,
+    "precision": null,
+    "pp": 15,
+    "prioridad": 0,
+    "generacion": "generation-v",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "tentacruel",
+        "gastly",
+        "gengar",
+        "staryu",
+        "omanyte",
+        "mew",
+        "castform",
+        "latias",
+        "stunfisk",
+        "toedscruel",
+        "castform-sunny",
+        "castform-rainy",
+        "castform-snowy",
+        "latias-mega",
+        "stunfisk-galar"
+    ]
+}

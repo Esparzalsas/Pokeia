@@ -1,0 +1,26 @@
+{
+    "id": 147,
+    "nombre_en": "spore",
+    "nombre_es": "Espora",
+    "tipo": "grass",
+    "categoria": "status",
+    "potencia": null,
+    "precision": 100,
+    "pp": 15,
+    "prioridad": 0,
+    "generacion": "generation-i",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "paras",
+        "parasect",
+        "shroomish",
+        "breloom",
+        "foongus",
+        "amoonguss",
+        "morelull",
+        "shiinotic",
+        "toedscool",
+        "toedscruel",
+        "brute-bonnet"
+    ]
+}

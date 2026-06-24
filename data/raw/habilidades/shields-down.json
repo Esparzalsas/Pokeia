@@ -1,0 +1,63 @@
+{
+    "pokemon": [
+        {
+            "nombre": "minior-blue-meteor",
+            "oculta": false
+        },
+        {
+            "nombre": "minior-blue",
+            "oculta": false
+        },
+        {
+            "nombre": "minior-green-meteor",
+            "oculta": false
+        },
+        {
+            "nombre": "minior-green",
+            "oculta": false
+        },
+        {
+            "nombre": "minior-indigo-meteor",
+            "oculta": false
+        },
+        {
+            "nombre": "minior-indigo",
+            "oculta": false
+        },
+        {
+            "nombre": "minior-orange-meteor",
+            "oculta": false
+        },
+        {
+            "nombre": "minior-orange",
+            "oculta": false
+        },
+        {
+            "nombre": "minior-red-meteor",
+            "oculta": false
+        },
+        {
+            "nombre": "minior-red",
+            "oculta": false
+        },
+        {
+            "nombre": "minior-violet-meteor",
+            "oculta": false
+        },
+        {
+            "nombre": "minior-violet",
+            "oculta": false
+        },
+        {
+            "nombre": "minior-yellow-meteor",
+            "oculta": false
+        },
+        {
+            "nombre": "minior-yellow",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Escudo Limitado",
+    "descripcion": "Rompe su coraza cuando sus PS se ven reducidos a la mitad y adopta una forma ofensiva.",
+    "generacion_introduccion": "generation-vii"
+}

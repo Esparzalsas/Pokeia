@@ -1,0 +1,17 @@
+{
+    "id": 558,
+    "nombre_en": "fusion-flare",
+    "nombre_es": "Llama Fusión",
+    "tipo": "fire",
+    "categoria": "special",
+    "potencia": 100,
+    "precision": 100,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-v",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "reshiram",
+        "kyurem-white"
+    ]
+}

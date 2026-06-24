@@ -1,0 +1,14 @@
+{
+    "id": 697,
+    "nombre_en": "oceanic-operetta",
+    "nombre_es": "Sinfonía de la Diva Marina",
+    "tipo": "water",
+    "categoria": "special",
+    "potencia": 195,
+    "precision": null,
+    "pp": 1,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

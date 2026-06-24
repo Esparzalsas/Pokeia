@@ -1,0 +1,14 @@
+{
+    "id": 725,
+    "nombre_en": "menacing-moonraze-maelstrom",
+    "nombre_es": "Deflagración Lunar",
+    "tipo": "ghost",
+    "categoria": "special",
+    "potencia": 200,
+    "precision": null,
+    "pp": 1,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

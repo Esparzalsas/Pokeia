@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "cherrim",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Don Floral",
+    "descripcion": "Potencia los Pokémon del equipo si está soleado.",
+    "generacion_introduccion": "generation-iv"
+}

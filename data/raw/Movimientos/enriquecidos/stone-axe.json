@@ -1,0 +1,16 @@
+{
+    "id": 830,
+    "nombre_en": "stone-axe",
+    "nombre_es": null,
+    "tipo": "rock",
+    "categoria": "physical",
+    "potencia": 65,
+    "precision": 90,
+    "pp": 15,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "kleavor"
+    ]
+}

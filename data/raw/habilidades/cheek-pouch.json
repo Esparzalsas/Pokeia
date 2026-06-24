@@ -1,0 +1,35 @@
+{
+    "pokemon": [
+        {
+            "nombre": "bunnelby",
+            "oculta": false
+        },
+        {
+            "nombre": "dedenne",
+            "oculta": false
+        },
+        {
+            "nombre": "diggersby",
+            "oculta": false
+        },
+        {
+            "nombre": "greedent",
+            "oculta": false
+        },
+        {
+            "nombre": "maushold-family-of-four",
+            "oculta": false
+        },
+        {
+            "nombre": "maushold-family-of-three",
+            "oculta": false
+        },
+        {
+            "nombre": "skwovet",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Carrillo",
+    "descripcion": "Recupera PS al comer bayas.",
+    "generacion_introduccion": "generation-vi"
+}

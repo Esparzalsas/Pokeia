@@ -1,0 +1,15 @@
+{
+    "pokemon": [
+        {
+            "nombre": "wishiwashi-school",
+            "oculta": false
+        },
+        {
+            "nombre": "wishiwashi-solo",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Banco",
+    "descripcion": "Forma bancos con sus congéneres cuando tiene muchos PS, lo cual le otorga más fuerza. Cuando le quedan pocos PS, el banco se dispersa.",
+    "generacion_introduccion": "generation-vii"
+}

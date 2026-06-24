@@ -1,0 +1,16 @@
+{
+    "id": 874,
+    "nombre_en": "make-it-rain",
+    "nombre_es": null,
+    "tipo": "steel",
+    "categoria": "special",
+    "potencia": 120,
+    "precision": 100,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "gholdengo"
+    ]
+}

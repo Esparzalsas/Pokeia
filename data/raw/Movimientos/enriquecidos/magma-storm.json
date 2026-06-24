@@ -1,0 +1,16 @@
+{
+    "id": 463,
+    "nombre_en": "magma-storm",
+    "nombre_es": "Lluvia Ígnea",
+    "tipo": "fire",
+    "categoria": "special",
+    "potencia": 100,
+    "precision": 75,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-iv",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "heatran"
+    ]
+}

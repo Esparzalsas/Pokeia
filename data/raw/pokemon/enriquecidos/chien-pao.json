@@ -1,0 +1,71 @@
+{
+    "id": 1002,
+    "nombre": "chien-pao",
+    "tipos": [
+        "dark",
+        "ice"
+    ],
+    "stats_base": {
+        "hp": 80,
+        "attack": 120,
+        "defense": 80,
+        "special-attack": 90,
+        "special-defense": 65,
+        "speed": 135
+    },
+    "habilidades": {
+        "normales": [
+            "sword-of-ruin"
+        ],
+        "oculta": null
+    },
+    "movimientos": [
+        "swords-dance",
+        "take-down",
+        "mist",
+        "blizzard",
+        "hyper-beam",
+        "recover",
+        "haze",
+        "rest",
+        "substitute",
+        "spite",
+        "powder-snow",
+        "protect",
+        "scary-face",
+        "icy-wind",
+        "endure",
+        "false-swipe",
+        "mean-look",
+        "sleep-talk",
+        "rain-dance",
+        "crunch",
+        "facade",
+        "taunt",
+        "brick-break",
+        "sheer-cold",
+        "aerial-ace",
+        "payback",
+        "sucker-punch",
+        "dark-pulse",
+        "night-slash",
+        "giga-impact",
+        "avalanche",
+        "ice-shard",
+        "ice-fang",
+        "hex",
+        "acrobatics",
+        "sacred-sword",
+        "snarl",
+        "icicle-crash",
+        "throat-chop",
+        "psychic-fangs",
+        "lash-out",
+        "tera-blast",
+        "ice-spinner",
+        "ruination",
+        "snowscape"
+    ],
+    "peso": 1522,
+    "altura": 19
+}

@@ -1,0 +1,55 @@
+{
+    "pokemon": [
+        {
+            "nombre": "corphish",
+            "oculta": false
+        },
+        {
+            "nombre": "crabominable",
+            "oculta": false
+        },
+        {
+            "nombre": "crabrawler",
+            "oculta": false
+        },
+        {
+            "nombre": "crawdaunt",
+            "oculta": false
+        },
+        {
+            "nombre": "gligar",
+            "oculta": false
+        },
+        {
+            "nombre": "gliscor",
+            "oculta": false
+        },
+        {
+            "nombre": "kingler-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "kingler",
+            "oculta": false
+        },
+        {
+            "nombre": "krabby",
+            "oculta": false
+        },
+        {
+            "nombre": "mawile",
+            "oculta": false
+        },
+        {
+            "nombre": "pinsir",
+            "oculta": false
+        },
+        {
+            "nombre": "trapinch",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Corte Fuerte",
+    "descripcion": "Evita que disminuya el Ataque.",
+    "generacion_introduccion": "generation-iii"
+}

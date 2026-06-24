@@ -1,0 +1,17 @@
+{
+    "id": 709,
+    "nombre_en": "accelerock",
+    "nombre_es": "Roca Veloz",
+    "tipo": "rock",
+    "categoria": "physical",
+    "potencia": 40,
+    "precision": 100,
+    "pp": 20,
+    "prioridad": 1,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "lycanroc-midday",
+        "lycanroc-dusk"
+    ]
+}

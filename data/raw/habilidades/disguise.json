@@ -1,0 +1,23 @@
+{
+    "pokemon": [
+        {
+            "nombre": "mimikyu-busted",
+            "oculta": false
+        },
+        {
+            "nombre": "mimikyu-disguised",
+            "oculta": false
+        },
+        {
+            "nombre": "mimikyu-totem-busted",
+            "oculta": false
+        },
+        {
+            "nombre": "mimikyu-totem-disguised",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Disfraz",
+    "descripcion": "Permite eludir un único ataque valiéndose de la tela que le cubre el cuerpo.",
+    "generacion_introduccion": "generation-vii"
+}

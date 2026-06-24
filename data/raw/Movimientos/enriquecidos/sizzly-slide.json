@@ -1,0 +1,16 @@
+{
+    "id": 735,
+    "nombre_en": "sizzly-slide",
+    "nombre_es": "Flarembestida",
+    "tipo": "fire",
+    "categoria": "physical",
+    "potencia": 60,
+    "precision": 100,
+    "pp": 20,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "eevee-starter"
+    ]
+}

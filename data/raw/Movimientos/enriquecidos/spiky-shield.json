@@ -1,0 +1,26 @@
+{
+    "id": 596,
+    "nombre_en": "spiky-shield",
+    "nombre_es": "Barrera Espinosa",
+    "tipo": "grass",
+    "categoria": "status",
+    "potencia": null,
+    "precision": null,
+    "pp": 10,
+    "prioridad": 4,
+    "generacion": "generation-vi",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "cacturne",
+        "pansage",
+        "maractus",
+        "chesnaught",
+        "togedemaru",
+        "glimmora",
+        "ogerpon",
+        "togedemaru-totem",
+        "ogerpon-wellspring-mask",
+        "ogerpon-hearthflame-mask",
+        "ogerpon-cornerstone-mask"
+    ]
+}

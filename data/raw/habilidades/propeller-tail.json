@@ -1,0 +1,15 @@
+{
+    "pokemon": [
+        {
+            "nombre": "arrokuda",
+            "oculta": true
+        },
+        {
+            "nombre": "barraskewda",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Hélice Caudal",
+    "descripcion": "Impide que el rival pueda atraer ataques hacia sí mismo por efecto de su habilidad o sus movimientos.",
+    "generacion_introduccion": "generation-viii"
+}

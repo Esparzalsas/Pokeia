@@ -1,0 +1,17 @@
+{
+    "id": 465,
+    "nombre_en": "seed-flare",
+    "nombre_es": "Fogonazo",
+    "tipo": "grass",
+    "categoria": "special",
+    "potencia": 120,
+    "precision": 85,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-iv",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "shaymin-land",
+        "shaymin-sky"
+    ]
+}

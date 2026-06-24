@@ -1,0 +1,17 @@
+{
+    "id": 552,
+    "nombre_en": "fiery-dance",
+    "nombre_es": "Danza Llama",
+    "tipo": "fire",
+    "categoria": "special",
+    "potencia": 80,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-v",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "volcarona",
+        "iron-moth"
+    ]
+}

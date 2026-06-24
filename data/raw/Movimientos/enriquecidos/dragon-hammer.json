@@ -1,0 +1,18 @@
+{
+    "id": 692,
+    "nombre_en": "dragon-hammer",
+    "nombre_es": "Martillo Dragón",
+    "tipo": "dragon",
+    "categoria": "physical",
+    "potencia": 90,
+    "precision": 100,
+    "pp": 15,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "tropius",
+        "raging-bolt",
+        "exeggutor-alola"
+    ]
+}

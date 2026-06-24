@@ -1,0 +1,27 @@
+{
+    "pokemon": [
+        {
+            "nombre": "centiskorch-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "centiskorch",
+            "oculta": false
+        },
+        {
+            "nombre": "heatmor",
+            "oculta": true
+        },
+        {
+            "nombre": "sizzlipede",
+            "oculta": false
+        },
+        {
+            "nombre": "torkoal",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Humo Blanco",
+    "descripcion": "Evita que bajen las características.",
+    "generacion_introduccion": "generation-iii"
+}

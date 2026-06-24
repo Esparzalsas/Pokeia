@@ -1,0 +1,17 @@
+{
+    "id": 618,
+    "nombre_en": "origin-pulse",
+    "nombre_es": "Pulso Primigenio",
+    "tipo": "water",
+    "categoria": "special",
+    "potencia": 110,
+    "precision": 85,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-vi",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "kyogre",
+        "kyogre-primal"
+    ]
+}

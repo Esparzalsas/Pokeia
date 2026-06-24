@@ -1,0 +1,111 @@
+{
+    "pokemon": [
+        {
+            "nombre": "barboach",
+            "oculta": false
+        },
+        {
+            "nombre": "bounsweet",
+            "oculta": false
+        },
+        {
+            "nombre": "dondozo",
+            "oculta": false
+        },
+        {
+            "nombre": "feebas",
+            "oculta": false
+        },
+        {
+            "nombre": "illumise",
+            "oculta": false
+        },
+        {
+            "nombre": "jynx",
+            "oculta": false
+        },
+        {
+            "nombre": "lickilicky",
+            "oculta": false
+        },
+        {
+            "nombre": "lickitung",
+            "oculta": false
+        },
+        {
+            "nombre": "mamoswine",
+            "oculta": false
+        },
+        {
+            "nombre": "numel",
+            "oculta": false
+        },
+        {
+            "nombre": "piloswine",
+            "oculta": false
+        },
+        {
+            "nombre": "salandit",
+            "oculta": true
+        },
+        {
+            "nombre": "salazzle-totem",
+            "oculta": true
+        },
+        {
+            "nombre": "salazzle",
+            "oculta": true
+        },
+        {
+            "nombre": "sealeo",
+            "oculta": true
+        },
+        {
+            "nombre": "slowbro",
+            "oculta": false
+        },
+        {
+            "nombre": "slowking",
+            "oculta": false
+        },
+        {
+            "nombre": "slowpoke",
+            "oculta": false
+        },
+        {
+            "nombre": "smoochum",
+            "oculta": false
+        },
+        {
+            "nombre": "spheal",
+            "oculta": true
+        },
+        {
+            "nombre": "steenee",
+            "oculta": false
+        },
+        {
+            "nombre": "swinub",
+            "oculta": false
+        },
+        {
+            "nombre": "wailmer",
+            "oculta": false
+        },
+        {
+            "nombre": "wailord",
+            "oculta": false
+        },
+        {
+            "nombre": "walrein",
+            "oculta": true
+        },
+        {
+            "nombre": "whiscash",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Despiste",
+    "descripcion": "Evita que el Pokémon sea atraído o provocado.",
+    "generacion_introduccion": "generation-iii"
+}

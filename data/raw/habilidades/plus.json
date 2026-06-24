@@ -1,0 +1,47 @@
+{
+    "pokemon": [
+        {
+            "nombre": "ampharos",
+            "oculta": true
+        },
+        {
+            "nombre": "dedenne",
+            "oculta": true
+        },
+        {
+            "nombre": "flaaffy",
+            "oculta": true
+        },
+        {
+            "nombre": "klang",
+            "oculta": false
+        },
+        {
+            "nombre": "klink",
+            "oculta": false
+        },
+        {
+            "nombre": "klinklang",
+            "oculta": false
+        },
+        {
+            "nombre": "mareep",
+            "oculta": true
+        },
+        {
+            "nombre": "plusle",
+            "oculta": false
+        },
+        {
+            "nombre": "toxtricity-amped-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "toxtricity-amped",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Más",
+    "descripcion": "Potencia el At. Esp. si algún otro Pokémon tiene Más o Menos.",
+    "generacion_introduccion": "generation-iii"
+}

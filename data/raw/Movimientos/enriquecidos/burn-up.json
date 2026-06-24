@@ -1,0 +1,27 @@
+{
+    "id": 682,
+    "nombre_en": "burn-up",
+    "nombre_es": "Llama Final",
+    "tipo": "fire",
+    "categoria": "special",
+    "potencia": 130,
+    "precision": 100,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "growlithe",
+        "arcanine",
+        "moltres",
+        "cyndaquil",
+        "quilava",
+        "typhlosion",
+        "ho-oh",
+        "tepig",
+        "carkol",
+        "coalossal",
+        "sizzlipede",
+        "centiskorch"
+    ]
+}

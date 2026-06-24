@@ -1,0 +1,99 @@
+{
+    "pokemon": [
+        {
+            "nombre": "bayleef",
+            "oculta": true
+        },
+        {
+            "nombre": "bounsweet",
+            "oculta": false
+        },
+        {
+            "nombre": "budew",
+            "oculta": true
+        },
+        {
+            "nombre": "chikorita",
+            "oculta": true
+        },
+        {
+            "nombre": "fomantis",
+            "oculta": false
+        },
+        {
+            "nombre": "hoppip",
+            "oculta": false
+        },
+        {
+            "nombre": "jumpluff",
+            "oculta": false
+        },
+        {
+            "nombre": "leafeon",
+            "oculta": false
+        },
+        {
+            "nombre": "lilligant-hisui",
+            "oculta": true
+        },
+        {
+            "nombre": "lilligant",
+            "oculta": true
+        },
+        {
+            "nombre": "lurantis-totem",
+            "oculta": false
+        },
+        {
+            "nombre": "lurantis",
+            "oculta": false
+        },
+        {
+            "nombre": "meganium",
+            "oculta": true
+        },
+        {
+            "nombre": "petilil",
+            "oculta": true
+        },
+        {
+            "nombre": "roselia",
+            "oculta": true
+        },
+        {
+            "nombre": "skiploom",
+            "oculta": false
+        },
+        {
+            "nombre": "steenee",
+            "oculta": false
+        },
+        {
+            "nombre": "swadloon",
+            "oculta": false
+        },
+        {
+            "nombre": "tangela",
+            "oculta": false
+        },
+        {
+            "nombre": "tangrowth",
+            "oculta": false
+        },
+        {
+            "nombre": "tsareena",
+            "oculta": false
+        },
+        {
+            "nombre": "zarude-dada",
+            "oculta": false
+        },
+        {
+            "nombre": "zarude",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Defensa Hoja",
+    "descripcion": "Evita los problemas de estado si hace sol.",
+    "generacion_introduccion": "generation-iv"
+}

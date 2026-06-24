@@ -1,0 +1,16 @@
+{
+    "id": 592,
+    "nombre_en": "steam-eruption",
+    "nombre_es": "Chorro de Vapor",
+    "tipo": "water",
+    "categoria": "special",
+    "potencia": 110,
+    "precision": 95,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-vi",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "volcanion"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "pokemon": [
+        {
+            "nombre": "buizel",
+            "oculta": true
+        },
+        {
+            "nombre": "dondozo",
+            "oculta": true
+        },
+        {
+            "nombre": "finizen",
+            "oculta": false
+        },
+        {
+            "nombre": "finizen",
+            "oculta": true
+        },
+        {
+            "nombre": "finneon",
+            "oculta": true
+        },
+        {
+            "nombre": "floatzel",
+            "oculta": true
+        },
+        {
+            "nombre": "goldeen",
+            "oculta": false
+        },
+        {
+            "nombre": "huntail",
+            "oculta": true
+        },
+        {
+            "nombre": "lumineon",
+            "oculta": true
+        },
+        {
+            "nombre": "mantine",
+            "oculta": true
+        },
+        {
+            "nombre": "mantyke",
+            "oculta": true
+        },
+        {
+            "nombre": "seaking",
+            "oculta": false
+        },
+        {
+            "nombre": "wailmer",
+            "oculta": false
+        },
+        {
+            "nombre": "wailord",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Velo Agua",
+    "descripcion": "Evita las quemaduras.",
+    "generacion_introduccion": "generation-iii"
+}

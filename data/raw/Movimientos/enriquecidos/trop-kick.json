@@ -1,0 +1,16 @@
+{
+    "id": 688,
+    "nombre_en": "trop-kick",
+    "nombre_es": "Patada Tropical",
+    "tipo": "grass",
+    "categoria": "physical",
+    "potencia": 70,
+    "precision": 100,
+    "pp": 15,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "tsareena"
+    ]
+}

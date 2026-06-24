@@ -1,0 +1,20 @@
+{
+    "id": 879,
+    "nombre_en": "electro-drift",
+    "nombre_es": null,
+    "tipo": "electric",
+    "categoria": "special",
+    "potencia": 100,
+    "precision": 100,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "miraidon",
+        "miraidon-low-power-mode",
+        "miraidon-drive-mode",
+        "miraidon-aquatic-mode",
+        "miraidon-glide-mode"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "id": 653,
+    "nombre_en": "devastating-drake--special",
+    "nombre_es": "Dracoaliento Devastador",
+    "tipo": "dragon",
+    "categoria": "special",
+    "potencia": null,
+    "precision": null,
+    "pp": 1,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

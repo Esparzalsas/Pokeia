@@ -1,0 +1,14 @@
+{
+    "id": 625,
+    "nombre_en": "all-out-pummeling--special",
+    "nombre_es": "Ráfaga Demoledora",
+    "tipo": "fighting",
+    "categoria": "special",
+    "potencia": null,
+    "precision": null,
+    "pp": 1,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

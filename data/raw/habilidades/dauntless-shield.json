@@ -1,0 +1,15 @@
+{
+    "pokemon": [
+        {
+            "nombre": "zamazenta-crowned",
+            "oculta": false
+        },
+        {
+            "nombre": "zamazenta",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Escudo Recio",
+    "descripcion": "Aumenta su Defensa al entrar en combate.",
+    "generacion_introduccion": "generation-viii"
+}

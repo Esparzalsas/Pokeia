@@ -1,0 +1,14 @@
+{
+    "id": 897,
+    "nombre_en": "wicked-torque",
+    "nombre_es": null,
+    "tipo": "dark",
+    "categoria": "physical",
+    "potencia": 80,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

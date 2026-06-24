@@ -1,0 +1,127 @@
+{
+    "pokemon": [
+        {
+            "nombre": "combee",
+            "oculta": true
+        },
+        {
+            "nombre": "corsola",
+            "oculta": false
+        },
+        {
+            "nombre": "darumaka-galar",
+            "oculta": false
+        },
+        {
+            "nombre": "darumaka",
+            "oculta": false
+        },
+        {
+            "nombre": "deino",
+            "oculta": false
+        },
+        {
+            "nombre": "delibird",
+            "oculta": false
+        },
+        {
+            "nombre": "dracozolt",
+            "oculta": false
+        },
+        {
+            "nombre": "durant",
+            "oculta": false
+        },
+        {
+            "nombre": "flapple-gmax",
+            "oculta": true
+        },
+        {
+            "nombre": "flapple",
+            "oculta": true
+        },
+        {
+            "nombre": "lilligant-hisui",
+            "oculta": false
+        },
+        {
+            "nombre": "nidoran-f",
+            "oculta": true
+        },
+        {
+            "nombre": "nidoran-m",
+            "oculta": true
+        },
+        {
+            "nombre": "nidorina",
+            "oculta": true
+        },
+        {
+            "nombre": "nidorino",
+            "oculta": true
+        },
+        {
+            "nombre": "raticate-alola",
+            "oculta": false
+        },
+        {
+            "nombre": "raticate-totem-alola",
+            "oculta": false
+        },
+        {
+            "nombre": "raticate",
+            "oculta": true
+        },
+        {
+            "nombre": "rattata-alola",
+            "oculta": false
+        },
+        {
+            "nombre": "rattata",
+            "oculta": true
+        },
+        {
+            "nombre": "remoraid",
+            "oculta": false
+        },
+        {
+            "nombre": "rufflet",
+            "oculta": true
+        },
+        {
+            "nombre": "squawkabilly-blue-plumage",
+            "oculta": false
+        },
+        {
+            "nombre": "squawkabilly-green-plumage",
+            "oculta": false
+        },
+        {
+            "nombre": "squawkabilly-white-plumage",
+            "oculta": false
+        },
+        {
+            "nombre": "squawkabilly-yellow-plumage",
+            "oculta": false
+        },
+        {
+            "nombre": "togekiss",
+            "oculta": false
+        },
+        {
+            "nombre": "togepi",
+            "oculta": false
+        },
+        {
+            "nombre": "togetic",
+            "oculta": false
+        },
+        {
+            "nombre": "zweilous",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Entusiasmo",
+    "descripcion": "Aumenta el Ataque, pero reduce la Precisión.",
+    "generacion_introduccion": "generation-iii"
+}

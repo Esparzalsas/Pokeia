@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "darkrai",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Mal Sueño",
+    "descripcion": "Reduce los PS de cualquier rival que esté dormido.",
+    "generacion_introduccion": "generation-iv"
+}

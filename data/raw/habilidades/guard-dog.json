@@ -1,0 +1,15 @@
+{
+    "pokemon": [
+        {
+            "nombre": "mabosstiff",
+            "oculta": false
+        },
+        {
+            "nombre": "okidogi",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Perro Guardián",
+    "descripcion": null,
+    "generacion_introduccion": "generation-ix"
+}

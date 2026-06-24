@@ -1,0 +1,14 @@
+{
+    "id": 723,
+    "nombre_en": "light-that-burns-the-sky",
+    "nombre_es": "Fotodestrucción Apocalíptica",
+    "tipo": "psychic",
+    "categoria": "special",
+    "potencia": 200,
+    "precision": null,
+    "pp": 1,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

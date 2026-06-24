@@ -1,0 +1,35 @@
+{
+    "id": 664,
+    "nombre": "scatterbug",
+    "tipos": [
+        "bug"
+    ],
+    "stats_base": {
+        "hp": 38,
+        "attack": 35,
+        "defense": 40,
+        "special-attack": 27,
+        "special-defense": 25,
+        "speed": 35
+    },
+    "habilidades": {
+        "normales": [
+            "shield-dust",
+            "compound-eyes"
+        ],
+        "oculta": "friend-guard"
+    },
+    "movimientos": [
+        "tackle",
+        "poison-powder",
+        "stun-spore",
+        "string-shot",
+        "bug-bite",
+        "rage-powder",
+        "struggle-bug",
+        "tera-blast",
+        "pounce"
+    ],
+    "peso": 25,
+    "altura": 3
+}

@@ -1,0 +1,27 @@
+{
+    "pokemon": [
+        {
+            "nombre": "glimmet",
+            "oculta": true
+        },
+        {
+            "nombre": "glimmora",
+            "oculta": true
+        },
+        {
+            "nombre": "salandit",
+            "oculta": false
+        },
+        {
+            "nombre": "salazzle-totem",
+            "oculta": false
+        },
+        {
+            "nombre": "salazzle",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Corrosión",
+    "descripcion": "Permite envenenar incluso a rivales de tipo Acero o Veneno.",
+    "generacion_introduccion": "generation-vii"
+}

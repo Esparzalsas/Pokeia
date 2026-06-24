@@ -1,0 +1,67 @@
+{
+    "pokemon": [
+        {
+            "nombre": "bombirdier",
+            "oculta": false
+        },
+        {
+            "nombre": "chatot",
+            "oculta": true
+        },
+        {
+            "nombre": "corvisquire",
+            "oculta": true
+        },
+        {
+            "nombre": "ducklett",
+            "oculta": false
+        },
+        {
+            "nombre": "fletchling",
+            "oculta": false
+        },
+        {
+            "nombre": "mandibuzz",
+            "oculta": false
+        },
+        {
+            "nombre": "pidgeot",
+            "oculta": true
+        },
+        {
+            "nombre": "pidgeotto",
+            "oculta": true
+        },
+        {
+            "nombre": "pidgey",
+            "oculta": true
+        },
+        {
+            "nombre": "pidove",
+            "oculta": false
+        },
+        {
+            "nombre": "rookidee",
+            "oculta": true
+        },
+        {
+            "nombre": "swanna",
+            "oculta": false
+        },
+        {
+            "nombre": "tranquill",
+            "oculta": false
+        },
+        {
+            "nombre": "unfezant",
+            "oculta": false
+        },
+        {
+            "nombre": "vullaby",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Sacapecho",
+    "descripcion": "Protege de los ataques que bajan la Defensa.",
+    "generacion_introduccion": "generation-v"
+}

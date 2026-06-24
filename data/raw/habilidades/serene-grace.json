@@ -1,0 +1,67 @@
+{
+    "pokemon": [
+        {
+            "nombre": "blissey",
+            "oculta": false
+        },
+        {
+            "nombre": "chansey",
+            "oculta": false
+        },
+        {
+            "nombre": "deerling",
+            "oculta": true
+        },
+        {
+            "nombre": "dudunsparce-three-segment",
+            "oculta": false
+        },
+        {
+            "nombre": "dudunsparce-two-segment",
+            "oculta": false
+        },
+        {
+            "nombre": "dunsparce",
+            "oculta": false
+        },
+        {
+            "nombre": "happiny",
+            "oculta": false
+        },
+        {
+            "nombre": "jirachi",
+            "oculta": false
+        },
+        {
+            "nombre": "meloetta-aria",
+            "oculta": false
+        },
+        {
+            "nombre": "meloetta-pirouette",
+            "oculta": false
+        },
+        {
+            "nombre": "sawsbuck",
+            "oculta": true
+        },
+        {
+            "nombre": "shaymin-sky",
+            "oculta": false
+        },
+        {
+            "nombre": "togekiss",
+            "oculta": false
+        },
+        {
+            "nombre": "togepi",
+            "oculta": false
+        },
+        {
+            "nombre": "togetic",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Dicha",
+    "descripcion": "Aumenta la probabilidad de que haya efectos secundarios.",
+    "generacion_introduccion": "generation-iii"
+}

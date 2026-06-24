@@ -1,0 +1,25 @@
+{
+    "id": 325,
+    "nombre_en": "shadow-punch",
+    "nombre_es": "Puño Sombra",
+    "tipo": "ghost",
+    "categoria": "physical",
+    "potencia": 60,
+    "precision": null,
+    "pp": 20,
+    "prioridad": 0,
+    "generacion": "generation-iii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "grimer",
+        "haunter",
+        "gengar",
+        "dusclops",
+        "dusknoir",
+        "golett",
+        "golurk",
+        "marshadow",
+        "annihilape",
+        "gengar-mega"
+    ]
+}

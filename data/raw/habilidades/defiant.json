@@ -1,0 +1,71 @@
+{
+    "pokemon": [
+        {
+            "nombre": "annihilape",
+            "oculta": true
+        },
+        {
+            "nombre": "bisharp",
+            "oculta": false
+        },
+        {
+            "nombre": "braviary",
+            "oculta": true
+        },
+        {
+            "nombre": "falinks",
+            "oculta": true
+        },
+        {
+            "nombre": "farfetchd",
+            "oculta": true
+        },
+        {
+            "nombre": "kingambit",
+            "oculta": false
+        },
+        {
+            "nombre": "mankey",
+            "oculta": true
+        },
+        {
+            "nombre": "obstagoon",
+            "oculta": true
+        },
+        {
+            "nombre": "ogerpon",
+            "oculta": false
+        },
+        {
+            "nombre": "passimian",
+            "oculta": true
+        },
+        {
+            "nombre": "pawniard",
+            "oculta": false
+        },
+        {
+            "nombre": "primeape",
+            "oculta": true
+        },
+        {
+            "nombre": "purugly",
+            "oculta": true
+        },
+        {
+            "nombre": "thundurus-incarnate",
+            "oculta": true
+        },
+        {
+            "nombre": "tornadus-incarnate",
+            "oculta": true
+        },
+        {
+            "nombre": "zapdos-galar",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Competitivo",
+    "descripcion": "Sube el Ataque cuando el rival le baja las características.",
+    "generacion_introduccion": "generation-v"
+}

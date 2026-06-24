@@ -1,0 +1,16 @@
+{
+    "id": 455,
+    "nombre_en": "defend-order",
+    "nombre_es": "A Defender",
+    "tipo": "bug",
+    "categoria": "status",
+    "potencia": null,
+    "precision": null,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-iv",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "vespiquen"
+    ]
+}

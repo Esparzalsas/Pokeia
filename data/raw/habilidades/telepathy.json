@@ -1,0 +1,119 @@
+{
+    "pokemon": [
+        {
+            "nombre": "beheeyem",
+            "oculta": false
+        },
+        {
+            "nombre": "blipbug",
+            "oculta": true
+        },
+        {
+            "nombre": "dialga-origin",
+            "oculta": true
+        },
+        {
+            "nombre": "dialga",
+            "oculta": true
+        },
+        {
+            "nombre": "dottler",
+            "oculta": true
+        },
+        {
+            "nombre": "elgyem",
+            "oculta": false
+        },
+        {
+            "nombre": "gardevoir",
+            "oculta": true
+        },
+        {
+            "nombre": "giratina-altered",
+            "oculta": true
+        },
+        {
+            "nombre": "kirlia",
+            "oculta": true
+        },
+        {
+            "nombre": "medicham",
+            "oculta": true
+        },
+        {
+            "nombre": "meditite",
+            "oculta": true
+        },
+        {
+            "nombre": "munna",
+            "oculta": true
+        },
+        {
+            "nombre": "musharna",
+            "oculta": true
+        },
+        {
+            "nombre": "noibat",
+            "oculta": true
+        },
+        {
+            "nombre": "noivern",
+            "oculta": true
+        },
+        {
+            "nombre": "oranguru",
+            "oculta": false
+        },
+        {
+            "nombre": "orbeetle-gmax",
+            "oculta": true
+        },
+        {
+            "nombre": "orbeetle",
+            "oculta": true
+        },
+        {
+            "nombre": "palkia-origin",
+            "oculta": true
+        },
+        {
+            "nombre": "palkia",
+            "oculta": true
+        },
+        {
+            "nombre": "rabsca",
+            "oculta": true
+        },
+        {
+            "nombre": "ralts",
+            "oculta": true
+        },
+        {
+            "nombre": "tapu-bulu",
+            "oculta": true
+        },
+        {
+            "nombre": "tapu-fini",
+            "oculta": true
+        },
+        {
+            "nombre": "tapu-koko",
+            "oculta": true
+        },
+        {
+            "nombre": "tapu-lele",
+            "oculta": true
+        },
+        {
+            "nombre": "wobbuffet",
+            "oculta": true
+        },
+        {
+            "nombre": "wynaut",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Telepatía",
+    "descripcion": "Elude los ataques de aliados en batalla.",
+    "generacion_introduccion": "generation-v"
+}

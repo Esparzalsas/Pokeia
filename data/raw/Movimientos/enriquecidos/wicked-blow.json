@@ -1,0 +1,16 @@
+{
+    "id": 817,
+    "nombre_en": "wicked-blow",
+    "nombre_es": "Golpe Oscuro",
+    "tipo": "dark",
+    "categoria": "physical",
+    "potencia": 75,
+    "precision": 100,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "urshifu-single-strike"
+    ]
+}

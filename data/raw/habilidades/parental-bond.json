@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "kangaskhan-mega",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Amor Filial",
+    "descripcion": "Ataque en familia.",
+    "generacion_introduccion": "generation-vi"
+}

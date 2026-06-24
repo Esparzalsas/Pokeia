@@ -1,0 +1,18 @@
+{
+    "id": 539,
+    "nombre_en": "night-daze",
+    "nombre_es": "Pulso Noche",
+    "tipo": "dark",
+    "categoria": "special",
+    "potencia": 85,
+    "precision": 95,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-v",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "zorua",
+        "zoroark",
+        "lunala"
+    ]
+}

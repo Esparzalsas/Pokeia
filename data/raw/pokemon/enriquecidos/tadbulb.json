@@ -1,0 +1,66 @@
+{
+    "id": 938,
+    "nombre": "tadbulb",
+    "tipos": [
+        "electric"
+    ],
+    "stats_base": {
+        "hp": 61,
+        "attack": 31,
+        "defense": 41,
+        "special-attack": 59,
+        "special-defense": 35,
+        "speed": 45
+    },
+    "habilidades": {
+        "normales": [
+            "own-tempo",
+            "static"
+        ],
+        "oculta": "damp"
+    },
+    "movimientos": [
+        "tackle",
+        "water-gun",
+        "thunder-shock",
+        "thunderbolt",
+        "thunder-wave",
+        "thunder",
+        "confuse-ray",
+        "light-screen",
+        "reflect",
+        "swift",
+        "rest",
+        "substitute",
+        "flail",
+        "protect",
+        "mud-slap",
+        "zap-cannon",
+        "endure",
+        "spark",
+        "sleep-talk",
+        "rain-dance",
+        "charge",
+        "hyper-voice",
+        "weather-ball",
+        "muddy-water",
+        "mud-shot",
+        "water-pulse",
+        "sucker-punch",
+        "discharge",
+        "charge-beam",
+        "electro-ball",
+        "soak",
+        "acid-spray",
+        "volt-switch",
+        "electroweb",
+        "wild-charge",
+        "parabolic-charge",
+        "eerie-impulse",
+        "electric-terrain",
+        "tera-blast",
+        "chilling-water"
+    ],
+    "peso": 4,
+    "altura": 3
+}

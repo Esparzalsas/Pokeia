@@ -1,0 +1,64 @@
+{
+    "id": 912,
+    "nombre": "quaxly",
+    "tipos": [
+        "water"
+    ],
+    "stats_base": {
+        "hp": 55,
+        "attack": 65,
+        "defense": 45,
+        "special-attack": 50,
+        "special-defense": 45,
+        "speed": 50
+    },
+    "habilidades": {
+        "normales": [
+            "torrent"
+        ],
+        "oculta": "moxie"
+    },
+    "movimientos": [
+        "pound",
+        "wing-attack",
+        "take-down",
+        "growl",
+        "water-gun",
+        "hydro-pump",
+        "surf",
+        "low-kick",
+        "focus-energy",
+        "swift",
+        "rest",
+        "protect",
+        "detect",
+        "endure",
+        "baton-pass",
+        "encore",
+        "rapid-spin",
+        "rain-dance",
+        "psych-up",
+        "whirlpool",
+        "facade",
+        "helping-hand",
+        "air-cutter",
+        "aerial-ace",
+        "roost",
+        "last-resort",
+        "air-slash",
+        "brave-bird",
+        "aqua-jet",
+        "double-hit",
+        "acrobatics",
+        "water-pledge",
+        "work-up",
+        "disarming-voice",
+        "misty-terrain",
+        "liquidation",
+        "tera-blast",
+        "chilling-water",
+        "aqua-cutter"
+    ],
+    "peso": 61,
+    "altura": 5
+}

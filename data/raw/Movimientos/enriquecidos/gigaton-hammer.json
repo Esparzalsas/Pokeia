@@ -1,0 +1,16 @@
+{
+    "id": 893,
+    "nombre_en": "gigaton-hammer",
+    "nombre_es": null,
+    "tipo": "steel",
+    "categoria": "physical",
+    "potencia": 160,
+    "precision": 100,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "tinkaton"
+    ]
+}

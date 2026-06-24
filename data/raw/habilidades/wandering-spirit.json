@@ -1,0 +1,15 @@
+{
+    "pokemon": [
+        {
+            "nombre": "runerigus",
+            "oculta": false
+        },
+        {
+            "nombre": "yamask-galar",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Alma Errante",
+    "descripcion": "Si le alcanza un movimiento de contacto, intercambia su habilidad con la del agresor.",
+    "generacion_introduccion": "generation-viii"
+}

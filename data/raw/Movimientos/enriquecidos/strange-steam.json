@@ -1,0 +1,16 @@
+{
+    "id": 790,
+    "nombre_en": "strange-steam",
+    "nombre_es": "Cautivapor",
+    "tipo": "fairy",
+    "categoria": "special",
+    "potencia": 90,
+    "precision": 95,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "weezing-galar"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "id": 779,
+    "nombre_en": "snap-trap",
+    "nombre_es": "Cepo",
+    "tipo": "grass",
+    "categoria": "physical",
+    "potencia": 35,
+    "precision": 100,
+    "pp": 15,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "stunfisk-galar"
+    ]
+}

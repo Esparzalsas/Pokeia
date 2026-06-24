@@ -1,0 +1,24 @@
+{
+    "id": 895,
+    "nombre_en": "aqua-cutter",
+    "nombre_es": null,
+    "tipo": "water",
+    "categoria": "physical",
+    "potencia": 70,
+    "precision": 100,
+    "pp": 20,
+    "prioridad": 0,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "gallade",
+        "oshawott",
+        "dewott",
+        "samurott",
+        "cramorant",
+        "quaxly",
+        "quaxwell",
+        "quaquaval",
+        "veluza"
+    ]
+}

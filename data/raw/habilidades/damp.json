@@ -1,0 +1,87 @@
+{
+    "pokemon": [
+        {
+            "nombre": "bellibolt",
+            "oculta": true
+        },
+        {
+            "nombre": "frillish",
+            "oculta": true
+        },
+        {
+            "nombre": "golduck",
+            "oculta": false
+        },
+        {
+            "nombre": "horsea",
+            "oculta": true
+        },
+        {
+            "nombre": "jellicent",
+            "oculta": true
+        },
+        {
+            "nombre": "kingdra",
+            "oculta": true
+        },
+        {
+            "nombre": "marshtomp",
+            "oculta": true
+        },
+        {
+            "nombre": "mudkip",
+            "oculta": true
+        },
+        {
+            "nombre": "paras",
+            "oculta": true
+        },
+        {
+            "nombre": "parasect",
+            "oculta": true
+        },
+        {
+            "nombre": "politoed",
+            "oculta": false
+        },
+        {
+            "nombre": "poliwag",
+            "oculta": false
+        },
+        {
+            "nombre": "poliwhirl",
+            "oculta": false
+        },
+        {
+            "nombre": "poliwrath",
+            "oculta": false
+        },
+        {
+            "nombre": "psyduck",
+            "oculta": false
+        },
+        {
+            "nombre": "quagsire",
+            "oculta": false
+        },
+        {
+            "nombre": "seadra",
+            "oculta": true
+        },
+        {
+            "nombre": "swampert",
+            "oculta": true
+        },
+        {
+            "nombre": "tadbulb",
+            "oculta": true
+        },
+        {
+            "nombre": "wooper",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Humedad",
+    "descripcion": "Evita que un Pokémon pueda autodestruirse.",
+    "generacion_introduccion": "generation-iii"
+}

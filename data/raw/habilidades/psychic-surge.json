@@ -1,0 +1,19 @@
+{
+    "pokemon": [
+        {
+            "nombre": "indeedee-female",
+            "oculta": true
+        },
+        {
+            "nombre": "indeedee-male",
+            "oculta": true
+        },
+        {
+            "nombre": "tapu-lele",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Psicogénesis",
+    "descripcion": "Crea un campo psíquico al entrar en combate.",
+    "generacion_introduccion": "generation-vii"
+}

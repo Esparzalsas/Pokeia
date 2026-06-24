@@ -1,0 +1,17 @@
+{
+    "id": 547,
+    "nombre_en": "relic-song",
+    "nombre_es": "Canto Arcaico",
+    "tipo": "normal",
+    "categoria": "special",
+    "potencia": 75,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-v",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "meloetta-aria",
+        "meloetta-pirouette"
+    ]
+}

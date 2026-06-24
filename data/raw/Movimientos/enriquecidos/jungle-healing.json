@@ -1,0 +1,17 @@
+{
+    "id": 816,
+    "nombre_en": "jungle-healing",
+    "nombre_es": "Cura Selvática",
+    "tipo": "grass",
+    "categoria": "status",
+    "potencia": null,
+    "precision": null,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "zarude",
+        "zarude-dada"
+    ]
+}

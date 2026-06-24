@@ -1,0 +1,22 @@
+{
+    "id": 671,
+    "nombre_en": "spotlight",
+    "nombre_es": "Foco",
+    "tipo": "normal",
+    "categoria": "status",
+    "potencia": null,
+    "precision": null,
+    "pp": 15,
+    "prioridad": 3,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "clefairy",
+        "clefable",
+        "starmie",
+        "lanturn",
+        "spinda",
+        "morelull",
+        "shiinotic"
+    ]
+}

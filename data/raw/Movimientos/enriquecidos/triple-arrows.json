@@ -1,0 +1,16 @@
+{
+    "id": 843,
+    "nombre_en": "triple-arrows",
+    "nombre_es": null,
+    "tipo": "fighting",
+    "categoria": "physical",
+    "potencia": 90,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "decidueye-hisui"
+    ]
+}

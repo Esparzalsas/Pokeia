@@ -1,0 +1,21 @@
+{
+    "id": 131,
+    "nombre_en": "spike-cannon",
+    "nombre_es": "Clavo Cañón",
+    "tipo": "normal",
+    "categoria": "physical",
+    "potencia": 20,
+    "precision": 100,
+    "pp": 15,
+    "prioridad": 0,
+    "generacion": "generation-i",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "cloyster",
+        "omanyte",
+        "omastar",
+        "corsola",
+        "mareanie",
+        "toxapex"
+    ]
+}

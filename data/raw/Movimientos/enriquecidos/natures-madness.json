@@ -1,0 +1,19 @@
+{
+    "id": 717,
+    "nombre_en": "natures-madness",
+    "nombre_es": "Furia Natural",
+    "tipo": "fairy",
+    "categoria": "special",
+    "potencia": null,
+    "precision": 90,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "tapu-koko",
+        "tapu-lele",
+        "tapu-bulu",
+        "tapu-fini"
+    ]
+}

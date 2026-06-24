@@ -1,0 +1,35 @@
+{
+    "pokemon": [
+        {
+            "nombre": "croagunk",
+            "oculta": false
+        },
+        {
+            "nombre": "heliolisk",
+            "oculta": false
+        },
+        {
+            "nombre": "helioptile",
+            "oculta": false
+        },
+        {
+            "nombre": "jynx",
+            "oculta": true
+        },
+        {
+            "nombre": "paras",
+            "oculta": false
+        },
+        {
+            "nombre": "parasect",
+            "oculta": false
+        },
+        {
+            "nombre": "toxicroak",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Piel Seca",
+    "descripcion": "Pierde PS si hace calor. Los recupera con agua.",
+    "generacion_introduccion": "generation-iv"
+}

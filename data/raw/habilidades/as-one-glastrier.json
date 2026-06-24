@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "calyrex-ice",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Unidad Ecuestre",
+    "descripcion": "El Pokémon tiene dos habilidades: Relincho Blanco de Glastrier y Nerviosismo de Calyrex.",
+    "generacion_introduccion": "generation-viii"
+}

@@ -1,0 +1,19 @@
+{
+    "id": 877,
+    "nombre_en": "ruination",
+    "nombre_es": null,
+    "tipo": "dark",
+    "categoria": "special",
+    "potencia": 1,
+    "precision": 90,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "wo-chien",
+        "chien-pao",
+        "ting-lu",
+        "chi-yu"
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "pokemon": [
+        {
+            "nombre": "aipom",
+            "oculta": false
+        },
+        {
+            "nombre": "buneary",
+            "oculta": false
+        },
+        {
+            "nombre": "caterpie",
+            "oculta": true
+        },
+        {
+            "nombre": "dodrio",
+            "oculta": false
+        },
+        {
+            "nombre": "doduo",
+            "oculta": false
+        },
+        {
+            "nombre": "dudunsparce-three-segment",
+            "oculta": false
+        },
+        {
+            "nombre": "dudunsparce-two-segment",
+            "oculta": false
+        },
+        {
+            "nombre": "dunsparce",
+            "oculta": false
+        },
+        {
+            "nombre": "eevee-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "eevee-starter",
+            "oculta": false
+        },
+        {
+            "nombre": "eevee",
+            "oculta": false
+        },
+        {
+            "nombre": "furret",
+            "oculta": false
+        },
+        {
+            "nombre": "gimmighoul-roaming",
+            "oculta": false
+        },
+        {
+            "nombre": "gimmighoul-roaming",
+            "oculta": true
+        },
+        {
+            "nombre": "kricketot",
+            "oculta": true
+        },
+        {
+            "nombre": "lillipup",
+            "oculta": true
+        },
+        {
+            "nombre": "maschiff",
+            "oculta": false
+        },
+        {
+            "nombre": "nickit",
+            "oculta": false
+        },
+        {
+            "nombre": "nincada",
+            "oculta": true
+        },
+        {
+            "nombre": "oddish",
+            "oculta": true
+        },
+        {
+            "nombre": "pachirisu",
+            "oculta": false
+        },
+        {
+            "nombre": "patrat",
+            "oculta": false
+        },
+        {
+            "nombre": "ponyta-galar",
+            "oculta": false
+        },
+        {
+            "nombre": "ponyta",
+            "oculta": false
+        },
+        {
+            "nombre": "poochyena",
+            "oculta": false
+        },
+        {
+            "nombre": "rapidash-galar",
+            "oculta": false
+        },
+        {
+            "nombre": "rapidash",
+            "oculta": false
+        },
+        {
+            "nombre": "raticate",
+            "oculta": false
+        },
+        {
+            "nombre": "rattata",
+            "oculta": false
+        },
+        {
+            "nombre": "sentret",
+            "oculta": false
+        },
+        {
+            "nombre": "snubbull",
+            "oculta": false
+        },
+        {
+            "nombre": "tandemaus",
+            "oculta": false
+        },
+        {
+            "nombre": "thievul",
+            "oculta": false
+        },
+        {
+            "nombre": "venonat",
+            "oculta": true
+        },
+        {
+            "nombre": "weedle",
+            "oculta": true
+        },
+        {
+            "nombre": "wooloo",
+            "oculta": false
+        },
+        {
+            "nombre": "wurmple",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Fuga",
+    "descripcion": "Permite escapar de todos los Pokémon salvajes.",
+    "generacion_introduccion": "generation-iii"
+}

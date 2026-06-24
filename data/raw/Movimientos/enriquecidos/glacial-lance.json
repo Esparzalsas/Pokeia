@@ -1,0 +1,16 @@
+{
+    "id": 824,
+    "nombre_en": "glacial-lance",
+    "nombre_es": "Lanza Glacial",
+    "tipo": "ice",
+    "categoria": "physical",
+    "potencia": 120,
+    "precision": 100,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "calyrex-ice"
+    ]
+}

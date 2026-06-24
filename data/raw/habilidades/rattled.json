@@ -1,0 +1,91 @@
+{
+    "pokemon": [
+        {
+            "nombre": "basculin-white-striped",
+            "oculta": false
+        },
+        {
+            "nombre": "bonsly",
+            "oculta": true
+        },
+        {
+            "nombre": "clamperl",
+            "oculta": true
+        },
+        {
+            "nombre": "cubchoo",
+            "oculta": true
+        },
+        {
+            "nombre": "dudunsparce-three-segment",
+            "oculta": true
+        },
+        {
+            "nombre": "dudunsparce-two-segment",
+            "oculta": true
+        },
+        {
+            "nombre": "dunsparce",
+            "oculta": true
+        },
+        {
+            "nombre": "gimmighoul",
+            "oculta": false
+        },
+        {
+            "nombre": "granbull",
+            "oculta": true
+        },
+        {
+            "nombre": "ledyba",
+            "oculta": true
+        },
+        {
+            "nombre": "magikarp",
+            "oculta": true
+        },
+        {
+            "nombre": "meowth-alola",
+            "oculta": true
+        },
+        {
+            "nombre": "persian-alola",
+            "oculta": true
+        },
+        {
+            "nombre": "poochyena",
+            "oculta": true
+        },
+        {
+            "nombre": "snubbull",
+            "oculta": true
+        },
+        {
+            "nombre": "sudowoodo",
+            "oculta": true
+        },
+        {
+            "nombre": "toxel",
+            "oculta": false
+        },
+        {
+            "nombre": "whismur",
+            "oculta": true
+        },
+        {
+            "nombre": "wiglett",
+            "oculta": false
+        },
+        {
+            "nombre": "wugtrio",
+            "oculta": false
+        },
+        {
+            "nombre": "yamper",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Cobardía",
+    "descripcion": "El miedo a algunos ataques sube su Velocidad.",
+    "generacion_introduccion": "generation-v"
+}

@@ -1,0 +1,16 @@
+{
+    "id": 733,
+    "nombre_en": "bouncy-bubble",
+    "nombre_es": "Vapodrenaje",
+    "tipo": "water",
+    "categoria": "special",
+    "potencia": 60,
+    "precision": 100,
+    "pp": 20,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "eevee-starter"
+    ]
+}

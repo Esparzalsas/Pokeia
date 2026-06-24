@@ -1,0 +1,35 @@
+{
+    "pokemon": [
+        {
+            "nombre": "beldum",
+            "oculta": true
+        },
+        {
+            "nombre": "duraludon-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "duraludon",
+            "oculta": false
+        },
+        {
+            "nombre": "metagross",
+            "oculta": true
+        },
+        {
+            "nombre": "metang",
+            "oculta": true
+        },
+        {
+            "nombre": "registeel",
+            "oculta": true
+        },
+        {
+            "nombre": "scizor",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Metal Liviano",
+    "descripcion": "Reduce a la mitad el peso del Pokémon.",
+    "generacion_introduccion": "generation-v"
+}

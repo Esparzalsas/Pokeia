@@ -1,0 +1,20 @@
+{
+    "id": 443,
+    "nombre_en": "magnet-bomb",
+    "nombre_es": "Bomba Imán",
+    "tipo": "steel",
+    "categoria": "physical",
+    "potencia": 60,
+    "precision": null,
+    "pp": 20,
+    "prioridad": 0,
+    "generacion": "generation-iv",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "magnemite",
+        "magneton",
+        "magnezone",
+        "probopass",
+        "genesect"
+    ]
+}

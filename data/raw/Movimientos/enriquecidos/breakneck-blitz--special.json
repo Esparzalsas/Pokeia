@@ -1,0 +1,14 @@
+{
+    "id": 623,
+    "nombre_en": "breakneck-blitz--special",
+    "nombre_es": "Carrera Arrolladora",
+    "tipo": "normal",
+    "categoria": "special",
+    "potencia": null,
+    "precision": null,
+    "pp": 1,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

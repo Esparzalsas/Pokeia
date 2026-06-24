@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "slowking-galar",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Medicina Extraña",
+    "descripcion": "Al entrar en combate, rezuma una substancia medicinal por la caracola que revierte los cambios en las características de los aliados.",
+    "generacion_introduccion": "generation-viii"
+}

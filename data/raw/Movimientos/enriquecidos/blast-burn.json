@@ -1,0 +1,29 @@
+{
+    "id": 307,
+    "nombre_en": "blast-burn",
+    "nombre_es": "Anillo Ígneo",
+    "tipo": "fire",
+    "categoria": "special",
+    "potencia": 150,
+    "precision": 90,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-iii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "charizard",
+        "mew",
+        "typhlosion",
+        "blaziken",
+        "infernape",
+        "emboar",
+        "delphox",
+        "incineroar",
+        "cinderace",
+        "skeledirge",
+        "charizard-mega-x",
+        "charizard-mega-y",
+        "blaziken-mega",
+        "typhlosion-hisui"
+    ]
+}

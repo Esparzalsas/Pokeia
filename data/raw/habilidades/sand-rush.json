@@ -1,0 +1,47 @@
+{
+    "pokemon": [
+        {
+            "nombre": "dracovish",
+            "oculta": true
+        },
+        {
+            "nombre": "dracozolt",
+            "oculta": true
+        },
+        {
+            "nombre": "drilbur",
+            "oculta": false
+        },
+        {
+            "nombre": "excadrill",
+            "oculta": false
+        },
+        {
+            "nombre": "herdier",
+            "oculta": false
+        },
+        {
+            "nombre": "houndstone",
+            "oculta": false
+        },
+        {
+            "nombre": "lycanroc-midday",
+            "oculta": false
+        },
+        {
+            "nombre": "sandshrew",
+            "oculta": true
+        },
+        {
+            "nombre": "sandslash",
+            "oculta": true
+        },
+        {
+            "nombre": "stoutland",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Ímpetu Arena",
+    "descripcion": "Aumenta la Velocidad durante las tormentas de arena.",
+    "generacion_introduccion": "generation-v"
+}

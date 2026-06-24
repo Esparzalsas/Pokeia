@@ -1,0 +1,53 @@
+{
+    "id": 885,
+    "nombre": "dreepy",
+    "tipos": [
+        "dragon",
+        "ghost"
+    ],
+    "stats_base": {
+        "hp": 28,
+        "attack": 60,
+        "defense": 30,
+        "special-attack": 40,
+        "special-defense": 30,
+        "speed": 82
+    },
+    "habilidades": {
+        "normales": [
+            "clear-body",
+            "infiltrator"
+        ],
+        "oculta": "cursed-body"
+    },
+    "movimientos": [
+        "bite",
+        "disable",
+        "thunder-wave",
+        "quick-attack",
+        "double-team",
+        "confuse-ray",
+        "swift",
+        "rest",
+        "substitute",
+        "snore",
+        "curse",
+        "protect",
+        "endure",
+        "attract",
+        "sleep-talk",
+        "baton-pass",
+        "facade",
+        "helping-hand",
+        "grudge",
+        "astonish",
+        "sucker-punch",
+        "draco-meteor",
+        "round",
+        "dragon-tail",
+        "infestation",
+        "tera-blast"
+    ],
+    "peso": 20,
+    "altura": 5
+}

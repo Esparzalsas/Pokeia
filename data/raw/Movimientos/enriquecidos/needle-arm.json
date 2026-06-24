@@ -1,0 +1,20 @@
+{
+    "id": 302,
+    "nombre_en": "needle-arm",
+    "nombre_es": "Brazo Pincho",
+    "tipo": "grass",
+    "categoria": "physical",
+    "potencia": 60,
+    "precision": 100,
+    "pp": 15,
+    "prioridad": 0,
+    "generacion": "generation-iii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "cacnea",
+        "cacturne",
+        "maractus",
+        "quilladin",
+        "chesnaught"
+    ]
+}

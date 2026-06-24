@@ -1,0 +1,71 @@
+{
+    "pokemon": [
+        {
+            "nombre": "annihilape",
+            "oculta": false
+        },
+        {
+            "nombre": "delibird",
+            "oculta": false
+        },
+        {
+            "nombre": "electabuzz",
+            "oculta": true
+        },
+        {
+            "nombre": "electivire",
+            "oculta": true
+        },
+        {
+            "nombre": "elekid",
+            "oculta": true
+        },
+        {
+            "nombre": "lillipup",
+            "oculta": false
+        },
+        {
+            "nombre": "lycanroc-midnight",
+            "oculta": false
+        },
+        {
+            "nombre": "magby",
+            "oculta": true
+        },
+        {
+            "nombre": "magmar",
+            "oculta": true
+        },
+        {
+            "nombre": "magmortar",
+            "oculta": true
+        },
+        {
+            "nombre": "mankey",
+            "oculta": false
+        },
+        {
+            "nombre": "mr-mime-galar",
+            "oculta": false
+        },
+        {
+            "nombre": "primeape",
+            "oculta": false
+        },
+        {
+            "nombre": "rockruff",
+            "oculta": false
+        },
+        {
+            "nombre": "tyrogue",
+            "oculta": true
+        },
+        {
+            "nombre": "vigoroth",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Espíritu Vital",
+    "descripcion": "Evita el quedarse dormido.",
+    "generacion_introduccion": "generation-iii"
+}

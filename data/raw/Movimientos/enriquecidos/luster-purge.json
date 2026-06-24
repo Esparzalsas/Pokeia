@@ -1,0 +1,17 @@
+{
+    "id": 295,
+    "nombre_en": "luster-purge",
+    "nombre_es": "Resplandor",
+    "tipo": "psychic",
+    "categoria": "special",
+    "potencia": 95,
+    "precision": 100,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-iii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "latios",
+        "latios-mega"
+    ]
+}

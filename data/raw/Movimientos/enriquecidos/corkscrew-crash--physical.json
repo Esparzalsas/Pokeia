@@ -1,0 +1,14 @@
+{
+    "id": 638,
+    "nombre_en": "corkscrew-crash--physical",
+    "nombre_es": "Hélice Trepanadora",
+    "tipo": "steel",
+    "categoria": "physical",
+    "potencia": null,
+    "precision": null,
+    "pp": 1,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

@@ -1,0 +1,22 @@
+{
+    "id": 198,
+    "nombre_en": "bone-rush",
+    "nombre_es": "Ataque Óseo",
+    "tipo": "ground",
+    "categoria": "physical",
+    "potencia": 25,
+    "precision": 90,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-ii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "cubone",
+        "marowak",
+        "lucario",
+        "mandibuzz",
+        "lucario-mega",
+        "marowak-alola",
+        "marowak-totem"
+    ]
+}

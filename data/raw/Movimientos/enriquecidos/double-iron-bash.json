@@ -1,0 +1,16 @@
+{
+    "id": 742,
+    "nombre_en": "double-iron-bash",
+    "nombre_es": "Ferropuño Doble",
+    "tipo": "steel",
+    "categoria": "physical",
+    "potencia": 60,
+    "precision": 100,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "melmetal"
+    ]
+}

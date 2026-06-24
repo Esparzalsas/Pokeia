@@ -1,0 +1,25 @@
+{
+    "id": 536,
+    "nombre_en": "leaf-tornado",
+    "nombre_es": "Ciclón de Hojas",
+    "tipo": "grass",
+    "categoria": "special",
+    "potencia": 65,
+    "precision": 90,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-v",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "victreebel",
+        "shiftry",
+        "tropius",
+        "carnivine",
+        "snivy",
+        "servine",
+        "serperior",
+        "comfey",
+        "gossifleur",
+        "eldegoss"
+    ]
+}

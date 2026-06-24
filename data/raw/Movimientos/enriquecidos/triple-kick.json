@@ -1,0 +1,17 @@
+{
+    "id": 167,
+    "nombre_en": "triple-kick",
+    "nombre_es": "Triple Patada",
+    "tipo": "fighting",
+    "categoria": "physical",
+    "potencia": 10,
+    "precision": 90,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-ii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "hitmontop",
+        "pheromosa"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "id": 876,
+    "nombre_en": "hydro-steam",
+    "nombre_es": "Hidrovapor",
+    "tipo": "water",
+    "categoria": "special",
+    "potencia": 80,
+    "precision": 100,
+    "pp": 15,
+    "prioridad": 0,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "walking-wake"
+    ]
+}

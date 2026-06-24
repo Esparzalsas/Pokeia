@@ -1,0 +1,23 @@
+{
+    "pokemon": [
+        {
+            "nombre": "urshifu-rapid-strike-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "urshifu-rapid-strike",
+            "oculta": false
+        },
+        {
+            "nombre": "urshifu-single-strike-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "urshifu-single-strike",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Puño Invisible",
+    "descripcion": "Si usa un movimiento de contacto, puede infligir daño al objetivo aunque este se proteja.",
+    "generacion_introduccion": "generation-viii"
+}

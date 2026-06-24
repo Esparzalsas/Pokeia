@@ -1,0 +1,163 @@
+{
+    "pokemon": [
+        {
+            "nombre": "appletun-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "appletun",
+            "oculta": false
+        },
+        {
+            "nombre": "applin",
+            "oculta": false
+        },
+        {
+            "nombre": "bellsprout",
+            "oculta": true
+        },
+        {
+            "nombre": "dipplin",
+            "oculta": false
+        },
+        {
+            "nombre": "flapple-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "flapple",
+            "oculta": false
+        },
+        {
+            "nombre": "greedent",
+            "oculta": true
+        },
+        {
+            "nombre": "grimer-alola",
+            "oculta": false
+        },
+        {
+            "nombre": "grumpig",
+            "oculta": true
+        },
+        {
+            "nombre": "gulpin",
+            "oculta": true
+        },
+        {
+            "nombre": "heatmor",
+            "oculta": false
+        },
+        {
+            "nombre": "lechonk",
+            "oculta": false
+        },
+        {
+            "nombre": "linoone-galar",
+            "oculta": false
+        },
+        {
+            "nombre": "linoone",
+            "oculta": false
+        },
+        {
+            "nombre": "muk-alola",
+            "oculta": false
+        },
+        {
+            "nombre": "munchlax",
+            "oculta": true
+        },
+        {
+            "nombre": "oinkologne-female",
+            "oculta": false
+        },
+        {
+            "nombre": "oinkologne-male",
+            "oculta": false
+        },
+        {
+            "nombre": "panpour",
+            "oculta": false
+        },
+        {
+            "nombre": "pansage",
+            "oculta": false
+        },
+        {
+            "nombre": "pansear",
+            "oculta": false
+        },
+        {
+            "nombre": "raticate-alola",
+            "oculta": false
+        },
+        {
+            "nombre": "raticate-totem-alola",
+            "oculta": false
+        },
+        {
+            "nombre": "rattata-alola",
+            "oculta": false
+        },
+        {
+            "nombre": "shuckle",
+            "oculta": false
+        },
+        {
+            "nombre": "simipour",
+            "oculta": false
+        },
+        {
+            "nombre": "simisage",
+            "oculta": false
+        },
+        {
+            "nombre": "simisear",
+            "oculta": false
+        },
+        {
+            "nombre": "skwovet",
+            "oculta": true
+        },
+        {
+            "nombre": "slowpoke-galar",
+            "oculta": false
+        },
+        {
+            "nombre": "snorlax-gmax",
+            "oculta": true
+        },
+        {
+            "nombre": "snorlax",
+            "oculta": true
+        },
+        {
+            "nombre": "spoink",
+            "oculta": true
+        },
+        {
+            "nombre": "swalot",
+            "oculta": true
+        },
+        {
+            "nombre": "victreebel",
+            "oculta": true
+        },
+        {
+            "nombre": "weepinbell",
+            "oculta": true
+        },
+        {
+            "nombre": "zigzagoon-galar",
+            "oculta": false
+        },
+        {
+            "nombre": "zigzagoon",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Gula",
+    "descripcion": "Fomenta el uso rápido de la baya que porte.",
+    "generacion_introduccion": "generation-iv"
+}

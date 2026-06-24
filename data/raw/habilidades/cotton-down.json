@@ -1,0 +1,15 @@
+{
+    "pokemon": [
+        {
+            "nombre": "eldegoss",
+            "oculta": false
+        },
+        {
+            "nombre": "gossifleur",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Pelusa",
+    "descripcion": "Al ser alcanzado por un ataque, suelta una pelusa de algodón que reduce la Velocidad de todos los demás Pokémon.",
+    "generacion_introduccion": "generation-viii"
+}

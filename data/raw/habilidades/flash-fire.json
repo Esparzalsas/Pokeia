@@ -1,0 +1,123 @@
+{
+    "pokemon": [
+        {
+            "nombre": "arcanine-hisui",
+            "oculta": false
+        },
+        {
+            "nombre": "arcanine",
+            "oculta": false
+        },
+        {
+            "nombre": "armarouge",
+            "oculta": false
+        },
+        {
+            "nombre": "carkol",
+            "oculta": true
+        },
+        {
+            "nombre": "centiskorch-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "centiskorch",
+            "oculta": false
+        },
+        {
+            "nombre": "ceruledge",
+            "oculta": false
+        },
+        {
+            "nombre": "chandelure",
+            "oculta": false
+        },
+        {
+            "nombre": "charcadet",
+            "oculta": false
+        },
+        {
+            "nombre": "coalossal-gmax",
+            "oculta": true
+        },
+        {
+            "nombre": "coalossal",
+            "oculta": true
+        },
+        {
+            "nombre": "cyndaquil",
+            "oculta": true
+        },
+        {
+            "nombre": "flareon",
+            "oculta": false
+        },
+        {
+            "nombre": "growlithe-hisui",
+            "oculta": false
+        },
+        {
+            "nombre": "growlithe",
+            "oculta": false
+        },
+        {
+            "nombre": "heatmor",
+            "oculta": false
+        },
+        {
+            "nombre": "heatran",
+            "oculta": false
+        },
+        {
+            "nombre": "houndoom",
+            "oculta": false
+        },
+        {
+            "nombre": "houndour",
+            "oculta": false
+        },
+        {
+            "nombre": "lampent",
+            "oculta": false
+        },
+        {
+            "nombre": "litwick",
+            "oculta": false
+        },
+        {
+            "nombre": "ninetales",
+            "oculta": false
+        },
+        {
+            "nombre": "ponyta",
+            "oculta": false
+        },
+        {
+            "nombre": "quilava",
+            "oculta": true
+        },
+        {
+            "nombre": "rapidash",
+            "oculta": false
+        },
+        {
+            "nombre": "rolycoly",
+            "oculta": true
+        },
+        {
+            "nombre": "sizzlipede",
+            "oculta": false
+        },
+        {
+            "nombre": "typhlosion",
+            "oculta": true
+        },
+        {
+            "nombre": "vulpix",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Absorbe Fuego",
+    "descripcion": "Potencia movimientos de tipo Fuego si ha sufrido antes alguno.",
+    "generacion_introduccion": "generation-iii"
+}

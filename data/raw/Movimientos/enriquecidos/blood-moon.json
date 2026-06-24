@@ -1,0 +1,16 @@
+{
+    "id": 901,
+    "nombre_en": "blood-moon",
+    "nombre_es": null,
+    "tipo": "normal",
+    "categoria": "special",
+    "potencia": 140,
+    "precision": 100,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "ursaluna-bloodmoon"
+    ]
+}

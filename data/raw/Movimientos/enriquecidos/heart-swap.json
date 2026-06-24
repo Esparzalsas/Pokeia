@@ -1,0 +1,18 @@
+{
+    "id": 391,
+    "nombre_en": "heart-swap",
+    "nombre_es": "Cambia Almas",
+    "tipo": "psychic",
+    "categoria": "status",
+    "potencia": null,
+    "precision": null,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-iv",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "manaphy",
+        "magearna",
+        "magearna-original"
+    ]
+}

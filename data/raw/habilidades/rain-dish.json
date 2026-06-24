@@ -1,0 +1,63 @@
+{
+    "pokemon": [
+        {
+            "nombre": "blastoise-gmax",
+            "oculta": true
+        },
+        {
+            "nombre": "blastoise",
+            "oculta": true
+        },
+        {
+            "nombre": "lombre",
+            "oculta": false
+        },
+        {
+            "nombre": "lotad",
+            "oculta": false
+        },
+        {
+            "nombre": "ludicolo",
+            "oculta": false
+        },
+        {
+            "nombre": "morelull",
+            "oculta": true
+        },
+        {
+            "nombre": "pelipper",
+            "oculta": true
+        },
+        {
+            "nombre": "shiinotic",
+            "oculta": true
+        },
+        {
+            "nombre": "squirtle",
+            "oculta": true
+        },
+        {
+            "nombre": "surskit",
+            "oculta": true
+        },
+        {
+            "nombre": "tentacool",
+            "oculta": true
+        },
+        {
+            "nombre": "tentacruel",
+            "oculta": true
+        },
+        {
+            "nombre": "wartortle",
+            "oculta": true
+        },
+        {
+            "nombre": "wingull",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Cura Lluvia",
+    "descripcion": "Recupera PS de forma gradual cuando llueve.",
+    "generacion_introduccion": "generation-iii"
+}

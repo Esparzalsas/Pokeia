@@ -1,0 +1,15 @@
+{
+    "pokemon": [
+        {
+            "nombre": "glimmet",
+            "oculta": false
+        },
+        {
+            "nombre": "glimmora",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Capa Tóxica",
+    "descripcion": null,
+    "generacion_introduccion": "generation-ix"
+}

@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "rayquaza",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Bucle Aire",
+    "descripcion": "Anula los efectos del tiempo atmosférico.",
+    "generacion_introduccion": "generation-iii"
+}

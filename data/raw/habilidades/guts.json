@@ -1,0 +1,111 @@
+{
+    "pokemon": [
+        {
+            "nombre": "conkeldurr",
+            "oculta": false
+        },
+        {
+            "nombre": "flareon",
+            "oculta": true
+        },
+        {
+            "nombre": "gurdurr",
+            "oculta": false
+        },
+        {
+            "nombre": "hariyama",
+            "oculta": false
+        },
+        {
+            "nombre": "heracross",
+            "oculta": false
+        },
+        {
+            "nombre": "larvitar",
+            "oculta": false
+        },
+        {
+            "nombre": "luxio",
+            "oculta": true
+        },
+        {
+            "nombre": "luxray",
+            "oculta": true
+        },
+        {
+            "nombre": "machamp-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "machamp",
+            "oculta": false
+        },
+        {
+            "nombre": "machoke",
+            "oculta": false
+        },
+        {
+            "nombre": "machop",
+            "oculta": false
+        },
+        {
+            "nombre": "makuhita",
+            "oculta": false
+        },
+        {
+            "nombre": "obstagoon",
+            "oculta": false
+        },
+        {
+            "nombre": "raticate",
+            "oculta": false
+        },
+        {
+            "nombre": "rattata",
+            "oculta": false
+        },
+        {
+            "nombre": "shinx",
+            "oculta": true
+        },
+        {
+            "nombre": "squawkabilly-blue-plumage",
+            "oculta": true
+        },
+        {
+            "nombre": "squawkabilly-green-plumage",
+            "oculta": true
+        },
+        {
+            "nombre": "swellow",
+            "oculta": false
+        },
+        {
+            "nombre": "taillow",
+            "oculta": false
+        },
+        {
+            "nombre": "throh",
+            "oculta": false
+        },
+        {
+            "nombre": "timburr",
+            "oculta": false
+        },
+        {
+            "nombre": "tyrogue",
+            "oculta": false
+        },
+        {
+            "nombre": "ursaluna",
+            "oculta": false
+        },
+        {
+            "nombre": "ursaring",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Agallas",
+    "descripcion": "Sube el Ataque si sufre un problema de estado.",
+    "generacion_introduccion": "generation-iii"
+}

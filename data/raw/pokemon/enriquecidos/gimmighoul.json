@@ -1,0 +1,43 @@
+{
+    "id": 999,
+    "nombre": "gimmighoul",
+    "tipos": [
+        "ghost"
+    ],
+    "stats_base": {
+        "hp": 45,
+        "attack": 30,
+        "defense": 70,
+        "special-attack": 75,
+        "special-defense": 70,
+        "speed": 10
+    },
+    "habilidades": {
+        "normales": [
+            "rattled"
+        ],
+        "oculta": null
+    },
+    "movimientos": [
+        "tackle",
+        "take-down",
+        "night-shade",
+        "confuse-ray",
+        "light-screen",
+        "reflect",
+        "rest",
+        "substitute",
+        "thief",
+        "protect",
+        "endure",
+        "sleep-talk",
+        "shadow-ball",
+        "astonish",
+        "power-gem",
+        "nasty-plot",
+        "hex",
+        "tera-blast"
+    ],
+    "peso": 50,
+    "altura": 3
+}

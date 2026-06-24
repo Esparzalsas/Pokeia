@@ -1,0 +1,69 @@
+{
+    "id": 837,
+    "nombre": "rolycoly",
+    "tipos": [
+        "rock"
+    ],
+    "stats_base": {
+        "hp": 30,
+        "attack": 40,
+        "defense": 50,
+        "special-attack": 40,
+        "special-defense": 50,
+        "speed": 30
+    },
+    "habilidades": {
+        "normales": [
+            "steam-engine",
+            "heatproof"
+        ],
+        "oculta": "flash-fire"
+    },
+    "movimientos": [
+        "tackle",
+        "body-slam",
+        "take-down",
+        "dig",
+        "smokescreen",
+        "reflect",
+        "self-destruct",
+        "explosion",
+        "rest",
+        "rock-slide",
+        "substitute",
+        "snore",
+        "curse",
+        "protect",
+        "mud-slap",
+        "spikes",
+        "sandstorm",
+        "endure",
+        "attract",
+        "sleep-talk",
+        "rapid-spin",
+        "ancient-power",
+        "will-o-wisp",
+        "facade",
+        "rock-tomb",
+        "sand-tomb",
+        "iron-defense",
+        "block",
+        "rock-blast",
+        "gyro-ball",
+        "rock-polish",
+        "power-gem",
+        "iron-head",
+        "stone-edge",
+        "stealth-rock",
+        "smack-down",
+        "round",
+        "incinerate",
+        "bulldoze",
+        "heat-crash",
+        "meteor-beam",
+        "tera-blast",
+        "temper-flare"
+    ],
+    "peso": 120,
+    "altura": 3
+}

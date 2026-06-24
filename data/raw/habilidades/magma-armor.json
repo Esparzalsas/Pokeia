@@ -1,0 +1,19 @@
+{
+    "pokemon": [
+        {
+            "nombre": "camerupt",
+            "oculta": false
+        },
+        {
+            "nombre": "magcargo",
+            "oculta": false
+        },
+        {
+            "nombre": "slugma",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Escudo Magma",
+    "descripcion": "Evita la congelación.",
+    "generacion_introduccion": "generation-iii"
+}

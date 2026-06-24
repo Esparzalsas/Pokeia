@@ -1,0 +1,64 @@
+{
+    "id": 829,
+    "nombre": "gossifleur",
+    "tipos": [
+        "grass"
+    ],
+    "stats_base": {
+        "hp": 40,
+        "attack": 40,
+        "defense": 60,
+        "special-attack": 40,
+        "special-defense": 60,
+        "speed": 10
+    },
+    "habilidades": {
+        "normales": [
+            "cotton-down",
+            "regenerator"
+        ],
+        "oculta": "effect-spore"
+    },
+    "movimientos": [
+        "sing",
+        "leech-seed",
+        "growth",
+        "razor-leaf",
+        "solar-beam",
+        "poison-powder",
+        "stun-spore",
+        "sleep-powder",
+        "light-screen",
+        "rest",
+        "substitute",
+        "snore",
+        "protect",
+        "giga-drain",
+        "endure",
+        "charm",
+        "attract",
+        "sleep-talk",
+        "rapid-spin",
+        "sweet-scent",
+        "synthesis",
+        "sunny-day",
+        "facade",
+        "helping-hand",
+        "hyper-voice",
+        "aromatherapy",
+        "bullet-seed",
+        "magical-leaf",
+        "worry-seed",
+        "energy-ball",
+        "leaf-storm",
+        "grass-knot",
+        "round",
+        "leaf-tornado",
+        "grassy-terrain",
+        "leafage",
+        "pollen-puff",
+        "grassy-glide"
+    ],
+    "peso": 22,
+    "altura": 4
+}

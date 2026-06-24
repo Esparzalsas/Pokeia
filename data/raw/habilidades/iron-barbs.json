@@ -1,0 +1,23 @@
+{
+    "pokemon": [
+        {
+            "nombre": "ferroseed",
+            "oculta": false
+        },
+        {
+            "nombre": "ferrothorn",
+            "oculta": false
+        },
+        {
+            "nombre": "togedemaru-totem",
+            "oculta": false
+        },
+        {
+            "nombre": "togedemaru",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Punta Acero",
+    "descripcion": "Hiere al hacer contacto.",
+    "generacion_introduccion": "generation-v"
+}

@@ -1,0 +1,19 @@
+{
+    "pokemon": [
+        {
+            "nombre": "medicham-mega",
+            "oculta": false
+        },
+        {
+            "nombre": "medicham",
+            "oculta": false
+        },
+        {
+            "nombre": "meditite",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Energía Pura",
+    "descripcion": "Aumenta el Ataque.",
+    "generacion_introduccion": "generation-iii"
+}

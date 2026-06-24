@@ -1,0 +1,35 @@
+{
+    "pokemon": [
+        {
+            "nombre": "arctovish",
+            "oculta": true
+        },
+        {
+            "nombre": "arctozolt",
+            "oculta": true
+        },
+        {
+            "nombre": "beartic",
+            "oculta": false
+        },
+        {
+            "nombre": "cetitan",
+            "oculta": false
+        },
+        {
+            "nombre": "cubchoo",
+            "oculta": false
+        },
+        {
+            "nombre": "sandshrew-alola",
+            "oculta": true
+        },
+        {
+            "nombre": "sandslash-alola",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Quitanieves",
+    "descripcion": "Aumenta su Velocidad si está granizando.",
+    "generacion_introduccion": "generation-vii"
+}

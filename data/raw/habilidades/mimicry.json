@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "stunfisk-galar",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Mimetismo",
+    "descripcion": "Cambia su tipo según el campo que haya en el terreno de combate.",
+    "generacion_introduccion": "generation-viii"
+}

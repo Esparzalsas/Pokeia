@@ -1,0 +1,18 @@
+{
+    "id": 906,
+    "nombre_en": "tera-starstorm",
+    "nombre_es": "Teraclúster",
+    "tipo": "normal",
+    "categoria": "special",
+    "potencia": 120,
+    "precision": 100,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "terapagos",
+        "terapagos-terastal",
+        "terapagos-stellar"
+    ]
+}

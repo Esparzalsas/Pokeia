@@ -1,0 +1,24 @@
+{
+    "id": 570,
+    "nombre_en": "parabolic-charge",
+    "nombre_es": "Carga Parábola",
+    "tipo": "electric",
+    "categoria": "special",
+    "potencia": 65,
+    "precision": 100,
+    "pp": 20,
+    "prioridad": 0,
+    "generacion": "generation-vi",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "helioptile",
+        "heliolisk",
+        "dedenne",
+        "tadbulb",
+        "miraidon",
+        "miraidon-low-power-mode",
+        "miraidon-drive-mode",
+        "miraidon-aquatic-mode",
+        "miraidon-glide-mode"
+    ]
+}

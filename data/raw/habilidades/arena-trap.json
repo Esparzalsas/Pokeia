@@ -1,0 +1,19 @@
+{
+    "pokemon": [
+        {
+            "nombre": "diglett",
+            "oculta": false
+        },
+        {
+            "nombre": "dugtrio",
+            "oculta": false
+        },
+        {
+            "nombre": "trapinch",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Trampa Arena",
+    "descripcion": "Evita que el rival huya.",
+    "generacion_introduccion": "generation-iii"
+}

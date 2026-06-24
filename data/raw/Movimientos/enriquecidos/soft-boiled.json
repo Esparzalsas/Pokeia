@@ -1,0 +1,24 @@
+{
+    "id": 135,
+    "nombre_en": "soft-boiled",
+    "nombre_es": "Amortiguador",
+    "tipo": "normal",
+    "categoria": "status",
+    "potencia": null,
+    "precision": null,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-i",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "clefairy",
+        "clefable",
+        "chansey",
+        "mew",
+        "cleffa",
+        "togepi",
+        "togetic",
+        "blissey",
+        "happiny"
+    ]
+}

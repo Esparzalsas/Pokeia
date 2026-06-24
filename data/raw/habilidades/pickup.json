@@ -1,0 +1,127 @@
+{
+    "pokemon": [
+        {
+            "nombre": "aipom",
+            "oculta": false
+        },
+        {
+            "nombre": "ambipom",
+            "oculta": false
+        },
+        {
+            "nombre": "bunnelby",
+            "oculta": false
+        },
+        {
+            "nombre": "dedenne",
+            "oculta": false
+        },
+        {
+            "nombre": "diggersby",
+            "oculta": false
+        },
+        {
+            "nombre": "gourgeist-average",
+            "oculta": false
+        },
+        {
+            "nombre": "gourgeist-large",
+            "oculta": false
+        },
+        {
+            "nombre": "gourgeist-small",
+            "oculta": false
+        },
+        {
+            "nombre": "gourgeist-super",
+            "oculta": false
+        },
+        {
+            "nombre": "greavard",
+            "oculta": false
+        },
+        {
+            "nombre": "lillipup",
+            "oculta": false
+        },
+        {
+            "nombre": "linoone-galar",
+            "oculta": false
+        },
+        {
+            "nombre": "linoone",
+            "oculta": false
+        },
+        {
+            "nombre": "meowth-alola",
+            "oculta": false
+        },
+        {
+            "nombre": "meowth-galar",
+            "oculta": false
+        },
+        {
+            "nombre": "meowth-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "meowth",
+            "oculta": false
+        },
+        {
+            "nombre": "munchlax",
+            "oculta": false
+        },
+        {
+            "nombre": "pachirisu",
+            "oculta": false
+        },
+        {
+            "nombre": "phanpy",
+            "oculta": false
+        },
+        {
+            "nombre": "pikipek",
+            "oculta": true
+        },
+        {
+            "nombre": "pumpkaboo-average",
+            "oculta": false
+        },
+        {
+            "nombre": "pumpkaboo-large",
+            "oculta": false
+        },
+        {
+            "nombre": "pumpkaboo-small",
+            "oculta": false
+        },
+        {
+            "nombre": "pumpkaboo-super",
+            "oculta": false
+        },
+        {
+            "nombre": "tandemaus",
+            "oculta": false
+        },
+        {
+            "nombre": "teddiursa",
+            "oculta": false
+        },
+        {
+            "nombre": "trumbeak",
+            "oculta": true
+        },
+        {
+            "nombre": "zigzagoon-galar",
+            "oculta": false
+        },
+        {
+            "nombre": "zigzagoon",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Recogida",
+    "descripcion": "El Pokémon puede encontrar objetos.",
+    "generacion_introduccion": "generation-iii"
+}

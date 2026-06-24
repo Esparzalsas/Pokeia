@@ -1,0 +1,47 @@
+{
+    "pokemon": [
+        {
+            "nombre": "cradily",
+            "oculta": true
+        },
+        {
+            "nombre": "finneon",
+            "oculta": false
+        },
+        {
+            "nombre": "gastrodon",
+            "oculta": false
+        },
+        {
+            "nombre": "lileep",
+            "oculta": true
+        },
+        {
+            "nombre": "lumineon",
+            "oculta": false
+        },
+        {
+            "nombre": "maractus",
+            "oculta": true
+        },
+        {
+            "nombre": "shellos",
+            "oculta": false
+        },
+        {
+            "nombre": "tatsugiri-curly",
+            "oculta": true
+        },
+        {
+            "nombre": "tatsugiri-droopy",
+            "oculta": true
+        },
+        {
+            "nombre": "tatsugiri-stretchy",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Colector",
+    "descripcion": "Atrae y neutraliza los movimientos de tipo Agua y sube el At. Esp.",
+    "generacion_introduccion": "generation-iv"
+}

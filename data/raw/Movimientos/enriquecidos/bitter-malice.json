@@ -1,0 +1,17 @@
+{
+    "id": 841,
+    "nombre_en": "bitter-malice",
+    "nombre_es": null,
+    "tipo": "ghost",
+    "categoria": "special",
+    "potencia": 75,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "zorua-hisui",
+        "zoroark-hisui"
+    ]
+}

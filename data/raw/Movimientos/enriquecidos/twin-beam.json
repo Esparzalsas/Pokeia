@@ -1,0 +1,17 @@
+{
+    "id": 888,
+    "nombre_en": "twin-beam",
+    "nombre_es": null,
+    "tipo": "psychic",
+    "categoria": "special",
+    "potencia": 40,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "girafarig",
+        "farigiraf"
+    ]
+}

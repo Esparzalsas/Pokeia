@@ -1,0 +1,15 @@
+{
+    "pokemon": [
+        {
+            "nombre": "kyurem-black",
+            "oculta": false
+        },
+        {
+            "nombre": "zekrom",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Terravoltaje",
+    "descripcion": "Usa movimientos sin que importen las habilidades.",
+    "generacion_introduccion": "generation-v"
+}

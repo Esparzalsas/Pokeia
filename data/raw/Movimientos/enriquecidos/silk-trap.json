@@ -1,0 +1,16 @@
+{
+    "id": 852,
+    "nombre_en": "silk-trap",
+    "nombre_es": null,
+    "tipo": "bug",
+    "categoria": "status",
+    "potencia": 0,
+    "precision": null,
+    "pp": 10,
+    "prioridad": 4,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "spidops"
+    ]
+}

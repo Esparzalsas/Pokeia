@@ -1,0 +1,27 @@
+{
+    "pokemon": [
+        {
+            "nombre": "bronzong",
+            "oculta": false
+        },
+        {
+            "nombre": "bronzor",
+            "oculta": false
+        },
+        {
+            "nombre": "poltchageist",
+            "oculta": true
+        },
+        {
+            "nombre": "rolycoly",
+            "oculta": false
+        },
+        {
+            "nombre": "sinistcha",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Ignífugo",
+    "descripcion": "Atenúa los movimientos de tipo Fuego.",
+    "generacion_introduccion": "generation-iv"
+}

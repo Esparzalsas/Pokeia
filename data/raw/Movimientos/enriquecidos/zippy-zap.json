@@ -1,0 +1,16 @@
+{
+    "id": 729,
+    "nombre_en": "zippy-zap",
+    "nombre_es": "Pikaturbo",
+    "tipo": "electric",
+    "categoria": "physical",
+    "potencia": 80,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 2,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "pikachu-starter"
+    ]
+}

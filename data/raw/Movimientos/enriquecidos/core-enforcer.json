@@ -1,0 +1,20 @@
+{
+    "id": 687,
+    "nombre_en": "core-enforcer",
+    "nombre_es": "Núcleo Castigo",
+    "tipo": "dragon",
+    "categoria": "special",
+    "potencia": 100,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "zygarde-50",
+        "zygarde-10-power-construct",
+        "zygarde-50-power-construct",
+        "zygarde-complete",
+        "zygarde-10"
+    ]
+}

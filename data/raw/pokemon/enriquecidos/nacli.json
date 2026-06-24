@@ -1,0 +1,65 @@
+{
+    "id": 932,
+    "nombre": "nacli",
+    "tipos": [
+        "rock"
+    ],
+    "stats_base": {
+        "hp": 55,
+        "attack": 55,
+        "defense": 75,
+        "special-attack": 35,
+        "special-defense": 35,
+        "speed": 25
+    },
+    "habilidades": {
+        "normales": [
+            "purifying-salt",
+            "sturdy"
+        ],
+        "oculta": "clear-body"
+    },
+    "movimientos": [
+        "headbutt",
+        "tackle",
+        "body-slam",
+        "take-down",
+        "rock-throw",
+        "earthquake",
+        "fissure",
+        "dig",
+        "recover",
+        "harden",
+        "rest",
+        "rock-slide",
+        "substitute",
+        "curse",
+        "protect",
+        "sandstorm",
+        "endure",
+        "sleep-talk",
+        "rain-dance",
+        "sunny-day",
+        "ancient-power",
+        "facade",
+        "helping-hand",
+        "iron-defense",
+        "mud-shot",
+        "rock-polish",
+        "power-gem",
+        "earth-power",
+        "zen-headbutt",
+        "flash-cannon",
+        "iron-head",
+        "stone-edge",
+        "stealth-rock",
+        "smack-down",
+        "heavy-slam",
+        "bulldoze",
+        "stomping-tantrum",
+        "meteor-beam",
+        "tera-blast"
+    ],
+    "peso": 160,
+    "altura": 4
+}

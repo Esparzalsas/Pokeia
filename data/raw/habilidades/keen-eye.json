@@ -1,0 +1,179 @@
+{
+    "pokemon": [
+        {
+            "nombre": "bombirdier",
+            "oculta": false
+        },
+        {
+            "nombre": "braviary-hisui",
+            "oculta": false
+        },
+        {
+            "nombre": "braviary",
+            "oculta": false
+        },
+        {
+            "nombre": "chatot",
+            "oculta": false
+        },
+        {
+            "nombre": "corvisquire",
+            "oculta": false
+        },
+        {
+            "nombre": "drapion",
+            "oculta": true
+        },
+        {
+            "nombre": "ducklett",
+            "oculta": false
+        },
+        {
+            "nombre": "espurr",
+            "oculta": false
+        },
+        {
+            "nombre": "farfetchd",
+            "oculta": false
+        },
+        {
+            "nombre": "fearow",
+            "oculta": false
+        },
+        {
+            "nombre": "furret",
+            "oculta": false
+        },
+        {
+            "nombre": "glameow",
+            "oculta": true
+        },
+        {
+            "nombre": "hitmonchan",
+            "oculta": false
+        },
+        {
+            "nombre": "hoothoot",
+            "oculta": false
+        },
+        {
+            "nombre": "lycanroc-midday",
+            "oculta": false
+        },
+        {
+            "nombre": "lycanroc-midnight",
+            "oculta": false
+        },
+        {
+            "nombre": "meowstic-female",
+            "oculta": false
+        },
+        {
+            "nombre": "meowstic-male",
+            "oculta": false
+        },
+        {
+            "nombre": "noctowl",
+            "oculta": false
+        },
+        {
+            "nombre": "patrat",
+            "oculta": false
+        },
+        {
+            "nombre": "pelipper",
+            "oculta": false
+        },
+        {
+            "nombre": "pidgeot",
+            "oculta": false
+        },
+        {
+            "nombre": "pidgeotto",
+            "oculta": false
+        },
+        {
+            "nombre": "pidgey",
+            "oculta": false
+        },
+        {
+            "nombre": "pikipek",
+            "oculta": false
+        },
+        {
+            "nombre": "rockruff",
+            "oculta": false
+        },
+        {
+            "nombre": "rookidee",
+            "oculta": false
+        },
+        {
+            "nombre": "rufflet",
+            "oculta": false
+        },
+        {
+            "nombre": "sableye",
+            "oculta": false
+        },
+        {
+            "nombre": "sentret",
+            "oculta": false
+        },
+        {
+            "nombre": "skarmory",
+            "oculta": false
+        },
+        {
+            "nombre": "skorupi",
+            "oculta": true
+        },
+        {
+            "nombre": "skuntank",
+            "oculta": true
+        },
+        {
+            "nombre": "sneasel-hisui",
+            "oculta": false
+        },
+        {
+            "nombre": "sneasel",
+            "oculta": false
+        },
+        {
+            "nombre": "spearow",
+            "oculta": false
+        },
+        {
+            "nombre": "starly",
+            "oculta": false
+        },
+        {
+            "nombre": "stunky",
+            "oculta": true
+        },
+        {
+            "nombre": "swanna",
+            "oculta": false
+        },
+        {
+            "nombre": "toucannon",
+            "oculta": false
+        },
+        {
+            "nombre": "trumbeak",
+            "oculta": false
+        },
+        {
+            "nombre": "watchog",
+            "oculta": false
+        },
+        {
+            "nombre": "wingull",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Vista Lince",
+    "descripcion": "Evita que disminuya la Precisión.",
+    "generacion_introduccion": "generation-iii"
+}

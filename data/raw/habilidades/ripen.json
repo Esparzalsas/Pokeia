@@ -1,0 +1,27 @@
+{
+    "pokemon": [
+        {
+            "nombre": "appletun-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "appletun",
+            "oculta": false
+        },
+        {
+            "nombre": "applin",
+            "oculta": false
+        },
+        {
+            "nombre": "flapple-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "flapple",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Maduración",
+    "descripcion": "Hace madurar las bayas, por lo que duplica sus efectos.",
+    "generacion_introduccion": "generation-viii"
+}

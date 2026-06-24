@@ -1,0 +1,19 @@
+{
+    "id": 873,
+    "nombre_en": "raging-bull",
+    "nombre_es": null,
+    "tipo": "normal",
+    "categoria": "physical",
+    "potencia": 90,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "tauros",
+        "tauros-paldea-combat-breed",
+        "tauros-paldea-blaze-breed",
+        "tauros-paldea-aqua-breed"
+    ]
+}

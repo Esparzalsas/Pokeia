@@ -1,0 +1,16 @@
+{
+    "id": 919,
+    "nombre_en": "malignant-chain",
+    "nombre_es": "Cadena Virulenta",
+    "tipo": "poison",
+    "categoria": "special",
+    "potencia": 100,
+    "precision": 100,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "pecharunt"
+    ]
+}

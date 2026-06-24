@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "flamigo",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Unísono",
+    "descripcion": null,
+    "generacion_introduccion": "generation-ix"
+}

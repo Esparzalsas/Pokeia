@@ -1,0 +1,16 @@
+{
+    "id": 794,
+    "nombre_en": "meteor-assault",
+    "nombre_es": "Asalto Estelar",
+    "tipo": "fighting",
+    "categoria": "physical",
+    "potencia": 150,
+    "precision": 100,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "sirfetchd"
+    ]
+}

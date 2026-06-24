@@ -1,0 +1,15 @@
+{
+    "pokemon": [
+        {
+            "nombre": "palossand",
+            "oculta": false
+        },
+        {
+            "nombre": "sandygast",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Hidrorrefuerzo",
+    "descripcion": "Aumenta mucho la Defensa si le alcanza un movimiento de tipo Agua.",
+    "generacion_introduccion": "generation-vii"
+}

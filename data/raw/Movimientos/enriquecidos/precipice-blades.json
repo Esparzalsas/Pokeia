@@ -1,0 +1,17 @@
+{
+    "id": 619,
+    "nombre_en": "precipice-blades",
+    "nombre_es": "Filo del Abismo",
+    "tipo": "ground",
+    "categoria": "physical",
+    "potencia": 120,
+    "precision": 85,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-vi",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "groudon",
+        "groudon-primal"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "pokemon": [
+        {
+            "nombre": "drifblim",
+            "oculta": false
+        },
+        {
+            "nombre": "drifloon",
+            "oculta": false
+        },
+        {
+            "nombre": "electrode-hisui",
+            "oculta": true
+        },
+        {
+            "nombre": "electrode",
+            "oculta": true
+        },
+        {
+            "nombre": "garbodor-gmax",
+            "oculta": true
+        },
+        {
+            "nombre": "garbodor",
+            "oculta": true
+        },
+        {
+            "nombre": "skuntank",
+            "oculta": false
+        },
+        {
+            "nombre": "stunky",
+            "oculta": false
+        },
+        {
+            "nombre": "trubbish",
+            "oculta": true
+        },
+        {
+            "nombre": "voltorb-hisui",
+            "oculta": true
+        },
+        {
+            "nombre": "voltorb",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Detonación",
+    "descripcion": "Daña al agresor que le ha dado el golpe de gracia.",
+    "generacion_introduccion": "generation-iv"
+}

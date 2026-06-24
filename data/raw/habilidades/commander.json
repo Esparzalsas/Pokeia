@@ -1,0 +1,19 @@
+{
+    "pokemon": [
+        {
+            "nombre": "tatsugiri-curly",
+            "oculta": false
+        },
+        {
+            "nombre": "tatsugiri-droopy",
+            "oculta": false
+        },
+        {
+            "nombre": "tatsugiri-stretchy",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Comandar",
+    "descripcion": null,
+    "generacion_introduccion": "generation-ix"
+}

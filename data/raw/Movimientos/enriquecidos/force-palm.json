@@ -1,0 +1,30 @@
+{
+    "id": 395,
+    "nombre_en": "force-palm",
+    "nombre_es": "Palmeo",
+    "tipo": "fighting",
+    "categoria": "physical",
+    "potencia": 60,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-iv",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "breloom",
+        "makuhita",
+        "hariyama",
+        "meditite",
+        "medicham",
+        "riolu",
+        "lucario",
+        "timburr",
+        "mienfoo",
+        "mienshao",
+        "stufful",
+        "marshadow",
+        "iron-hands",
+        "okidogi",
+        "medicham-mega"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "pokemon": [
+        {
+            "nombre": "gulpin",
+            "oculta": false
+        },
+        {
+            "nombre": "swalot",
+            "oculta": false
+        },
+        {
+            "nombre": "tentacool",
+            "oculta": false
+        },
+        {
+            "nombre": "tentacruel",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Lodo Líquido",
+    "descripcion": "Hiere a los Pokémon que drenan PS.",
+    "generacion_introduccion": "generation-iii"
+}

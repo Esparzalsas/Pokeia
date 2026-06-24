@@ -1,0 +1,39 @@
+{
+    "pokemon": [
+        {
+            "nombre": "alcremie-gmax",
+            "oculta": true
+        },
+        {
+            "nombre": "alcremie",
+            "oculta": true
+        },
+        {
+            "nombre": "aromatisse",
+            "oculta": true
+        },
+        {
+            "nombre": "dachsbun",
+            "oculta": true
+        },
+        {
+            "nombre": "lechonk",
+            "oculta": false
+        },
+        {
+            "nombre": "milcery",
+            "oculta": true
+        },
+        {
+            "nombre": "oinkologne-female",
+            "oculta": false
+        },
+        {
+            "nombre": "spritzee",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Velo Aroma",
+    "descripcion": "Protege al equipo de ataques que impiden elegir movimientos.",
+    "generacion_introduccion": "generation-vi"
+}

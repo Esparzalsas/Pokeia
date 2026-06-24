@@ -1,0 +1,16 @@
+{
+    "id": 543,
+    "nombre_en": "head-charge",
+    "nombre_es": "Ariete",
+    "tipo": "normal",
+    "categoria": "physical",
+    "potencia": 120,
+    "precision": 100,
+    "pp": 15,
+    "prioridad": 0,
+    "generacion": "generation-v",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "bouffalant"
+    ]
+}

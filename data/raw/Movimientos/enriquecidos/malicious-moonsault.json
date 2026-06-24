@@ -1,0 +1,14 @@
+{
+    "id": 696,
+    "nombre_en": "malicious-moonsault",
+    "nombre_es": "Hiperplancha Oscura",
+    "tipo": "dark",
+    "categoria": "physical",
+    "potencia": 180,
+    "precision": null,
+    "pp": 1,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

@@ -1,0 +1,135 @@
+{
+    "pokemon": [
+        {
+            "nombre": "bayleef",
+            "oculta": false
+        },
+        {
+            "nombre": "bulbasaur",
+            "oculta": false
+        },
+        {
+            "nombre": "chesnaught",
+            "oculta": false
+        },
+        {
+            "nombre": "chespin",
+            "oculta": false
+        },
+        {
+            "nombre": "chikorita",
+            "oculta": false
+        },
+        {
+            "nombre": "dartrix",
+            "oculta": false
+        },
+        {
+            "nombre": "decidueye-hisui",
+            "oculta": false
+        },
+        {
+            "nombre": "decidueye",
+            "oculta": false
+        },
+        {
+            "nombre": "floragato",
+            "oculta": false
+        },
+        {
+            "nombre": "grookey",
+            "oculta": false
+        },
+        {
+            "nombre": "grotle",
+            "oculta": false
+        },
+        {
+            "nombre": "grovyle",
+            "oculta": false
+        },
+        {
+            "nombre": "ivysaur",
+            "oculta": false
+        },
+        {
+            "nombre": "meganium",
+            "oculta": false
+        },
+        {
+            "nombre": "meowscarada",
+            "oculta": false
+        },
+        {
+            "nombre": "pansage",
+            "oculta": true
+        },
+        {
+            "nombre": "quilladin",
+            "oculta": false
+        },
+        {
+            "nombre": "rillaboom-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "rillaboom",
+            "oculta": false
+        },
+        {
+            "nombre": "rowlet",
+            "oculta": false
+        },
+        {
+            "nombre": "sceptile",
+            "oculta": false
+        },
+        {
+            "nombre": "serperior",
+            "oculta": false
+        },
+        {
+            "nombre": "servine",
+            "oculta": false
+        },
+        {
+            "nombre": "simisage",
+            "oculta": true
+        },
+        {
+            "nombre": "snivy",
+            "oculta": false
+        },
+        {
+            "nombre": "sprigatito",
+            "oculta": false
+        },
+        {
+            "nombre": "thwackey",
+            "oculta": false
+        },
+        {
+            "nombre": "torterra",
+            "oculta": false
+        },
+        {
+            "nombre": "treecko",
+            "oculta": false
+        },
+        {
+            "nombre": "turtwig",
+            "oculta": false
+        },
+        {
+            "nombre": "venusaur-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "venusaur",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Espesura",
+    "descripcion": "Potencia los ataques de tipo Planta en un apuro.",
+    "generacion_introduccion": "generation-iii"
+}

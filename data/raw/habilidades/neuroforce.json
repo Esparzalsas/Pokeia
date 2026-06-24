@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "necrozma-ultra",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Fuerza Cerebral",
+    "descripcion": "Potencia los ataques supereficaces.",
+    "generacion_introduccion": "generation-vii"
+}

@@ -1,0 +1,14 @@
+{
+    "id": 732,
+    "nombre_en": "pika-papow",
+    "nombre_es": "Pikatormenta",
+    "tipo": "electric",
+    "categoria": "special",
+    "potencia": null,
+    "precision": null,
+    "pp": 20,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

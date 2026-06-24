@@ -1,0 +1,18 @@
+{
+    "id": 439,
+    "nombre_en": "rock-wrecker",
+    "nombre_es": "Romperrocas",
+    "tipo": "rock",
+    "categoria": "physical",
+    "potencia": 150,
+    "precision": 90,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-iv",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "rhyperior",
+        "dwebble",
+        "crustle"
+    ]
+}

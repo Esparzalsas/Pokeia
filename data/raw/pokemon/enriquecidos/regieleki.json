@@ -1,0 +1,72 @@
+{
+    "id": 894,
+    "nombre": "regieleki",
+    "tipos": [
+        "electric"
+    ],
+    "stats_base": {
+        "hp": 80,
+        "attack": 100,
+        "defense": 50,
+        "special-attack": 100,
+        "special-defense": 50,
+        "speed": 200
+    },
+    "habilidades": {
+        "normales": [
+            "transistor"
+        ],
+        "oculta": null
+    },
+    "movimientos": [
+        "body-slam",
+        "take-down",
+        "thrash",
+        "hyper-beam",
+        "thunder-shock",
+        "thunderbolt",
+        "thunder-wave",
+        "thunder",
+        "agility",
+        "screech",
+        "light-screen",
+        "reflect",
+        "self-destruct",
+        "swift",
+        "explosion",
+        "rest",
+        "substitute",
+        "snore",
+        "protect",
+        "zap-cannon",
+        "lock-on",
+        "endure",
+        "sleep-talk",
+        "rapid-spin",
+        "rain-dance",
+        "extreme-speed",
+        "ancient-power",
+        "facade",
+        "charge",
+        "bounce",
+        "shock-wave",
+        "assurance",
+        "magnet-rise",
+        "giga-impact",
+        "charge-beam",
+        "electro-ball",
+        "round",
+        "acrobatics",
+        "volt-switch",
+        "electroweb",
+        "wild-charge",
+        "eerie-impulse",
+        "electric-terrain",
+        "rising-voltage",
+        "thunder-cage",
+        "tera-blast",
+        "supercell-slam"
+    ],
+    "peso": 1450,
+    "altura": 12
+}

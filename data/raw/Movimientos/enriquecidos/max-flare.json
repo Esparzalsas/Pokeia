@@ -1,0 +1,14 @@
+{
+    "id": 757,
+    "nombre_en": "max-flare",
+    "nombre_es": "Maxignición",
+    "tipo": "fire",
+    "categoria": "physical",
+    "potencia": 100,
+    "precision": null,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

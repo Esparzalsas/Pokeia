@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "stonjourner",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Fuente Energía",
+    "descripcion": "Potencia los movimientos de los Pokémon adyacentes.",
+    "generacion_introduccion": "generation-viii"
+}

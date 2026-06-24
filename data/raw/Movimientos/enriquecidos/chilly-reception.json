@@ -1,0 +1,17 @@
+{
+    "id": 881,
+    "nombre_en": "chilly-reception",
+    "nombre_es": null,
+    "tipo": "ice",
+    "categoria": "status",
+    "potencia": 0,
+    "precision": null,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "slowking",
+        "slowking-galar"
+    ]
+}

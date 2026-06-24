@@ -1,0 +1,47 @@
+{
+    "pokemon": [
+        {
+            "nombre": "accelgor",
+            "oculta": false
+        },
+        {
+            "nombre": "dipplin",
+            "oculta": true
+        },
+        {
+            "nombre": "gastrodon",
+            "oculta": false
+        },
+        {
+            "nombre": "grimer",
+            "oculta": false
+        },
+        {
+            "nombre": "gulpin",
+            "oculta": false
+        },
+        {
+            "nombre": "hydrapple",
+            "oculta": true
+        },
+        {
+            "nombre": "muk",
+            "oculta": false
+        },
+        {
+            "nombre": "shellos",
+            "oculta": false
+        },
+        {
+            "nombre": "swalot",
+            "oculta": false
+        },
+        {
+            "nombre": "trubbish",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Viscosidad",
+    "descripcion": "Protege al Pokémon del robo de objetos.",
+    "generacion_introduccion": "generation-iii"
+}

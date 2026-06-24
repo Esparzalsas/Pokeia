@@ -1,0 +1,16 @@
+{
+    "id": 866,
+    "nombre_en": "mortal-spin",
+    "nombre_es": null,
+    "tipo": "poison",
+    "categoria": "physical",
+    "potencia": 30,
+    "precision": 100,
+    "pp": 15,
+    "prioridad": 0,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "glimmora"
+    ]
+}

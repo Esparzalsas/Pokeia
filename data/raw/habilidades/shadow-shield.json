@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "lunala",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Guardia Espectro",
+    "descripcion": "Reduce el daño sufrido si los PS están al máximo.",
+    "generacion_introduccion": "generation-vii"
+}

@@ -1,0 +1,16 @@
+{
+    "id": 666,
+    "nombre_en": "floral-healing",
+    "nombre_es": "Cura Floral",
+    "tipo": "fairy",
+    "categoria": "status",
+    "potencia": null,
+    "precision": null,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "comfey"
+    ]
+}

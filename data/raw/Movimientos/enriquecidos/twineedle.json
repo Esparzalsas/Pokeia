@@ -1,0 +1,25 @@
+{
+    "id": 41,
+    "nombre_en": "twineedle",
+    "nombre_es": "Doble Ataque",
+    "tipo": "bug",
+    "categoria": "physical",
+    "potencia": 25,
+    "precision": 100,
+    "pp": 20,
+    "prioridad": 0,
+    "generacion": "generation-i",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "beedrill",
+        "shellder",
+        "cloyster",
+        "spinarak",
+        "skorupi",
+        "venipede",
+        "escavalier",
+        "togedemaru",
+        "beedrill-mega",
+        "togedemaru-totem"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "wimpod",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Huida",
+    "descripcion": "Se asusta y abandona el terreno de combate cuando sus PS se ven reducidos a la mitad.",
+    "generacion_introduccion": "generation-vii"
+}

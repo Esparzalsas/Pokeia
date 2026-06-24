@@ -1,0 +1,39 @@
+{
+    "pokemon": [
+        {
+            "nombre": "chinchou",
+            "oculta": false
+        },
+        {
+            "nombre": "lanturn",
+            "oculta": false
+        },
+        {
+            "nombre": "morelull",
+            "oculta": false
+        },
+        {
+            "nombre": "shiinotic",
+            "oculta": false
+        },
+        {
+            "nombre": "starmie",
+            "oculta": false
+        },
+        {
+            "nombre": "staryu",
+            "oculta": false
+        },
+        {
+            "nombre": "volbeat",
+            "oculta": false
+        },
+        {
+            "nombre": "watchog",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Iluminación",
+    "descripcion": "Aumenta la probabilidad de encontrar Pokémon.",
+    "generacion_introduccion": "generation-iii"
+}

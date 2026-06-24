@@ -1,0 +1,68 @@
+{
+    "id": 933,
+    "nombre": "naclstack",
+    "tipos": [
+        "rock"
+    ],
+    "stats_base": {
+        "hp": 60,
+        "attack": 60,
+        "defense": 100,
+        "special-attack": 35,
+        "special-defense": 65,
+        "speed": 35
+    },
+    "habilidades": {
+        "normales": [
+            "purifying-salt",
+            "sturdy"
+        ],
+        "oculta": "clear-body"
+    },
+    "movimientos": [
+        "headbutt",
+        "tackle",
+        "body-slam",
+        "take-down",
+        "double-edge",
+        "hyper-beam",
+        "rock-throw",
+        "earthquake",
+        "dig",
+        "recover",
+        "harden",
+        "rest",
+        "rock-slide",
+        "substitute",
+        "curse",
+        "protect",
+        "sandstorm",
+        "endure",
+        "sleep-talk",
+        "rain-dance",
+        "sunny-day",
+        "facade",
+        "helping-hand",
+        "iron-defense",
+        "mud-shot",
+        "rock-polish",
+        "power-gem",
+        "earth-power",
+        "giga-impact",
+        "zen-headbutt",
+        "flash-cannon",
+        "iron-head",
+        "stone-edge",
+        "stealth-rock",
+        "smack-down",
+        "heavy-slam",
+        "bulldoze",
+        "stomping-tantrum",
+        "body-press",
+        "meteor-beam",
+        "tera-blast",
+        "salt-cure"
+    ],
+    "peso": 1050,
+    "altura": 6
+}

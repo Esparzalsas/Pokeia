@@ -1,0 +1,71 @@
+{
+    "id": 1011,
+    "nombre": "dipplin",
+    "tipos": [
+        "grass",
+        "dragon"
+    ],
+    "stats_base": {
+        "hp": 80,
+        "attack": 80,
+        "defense": 110,
+        "special-attack": 95,
+        "special-defense": 80,
+        "speed": 40
+    },
+    "habilidades": {
+        "normales": [
+            "supersweet-syrup",
+            "gluttony"
+        ],
+        "oculta": "sticky-hold"
+    },
+    "movimientos": [
+        "body-slam",
+        "take-down",
+        "hyper-beam",
+        "growth",
+        "solar-beam",
+        "recover",
+        "withdraw",
+        "defense-curl",
+        "reflect",
+        "rest",
+        "substitute",
+        "protect",
+        "outrage",
+        "giga-drain",
+        "endure",
+        "rollout",
+        "sleep-talk",
+        "dragon-breath",
+        "sweet-scent",
+        "sunny-day",
+        "facade",
+        "recycle",
+        "astonish",
+        "bullet-seed",
+        "gyro-ball",
+        "sucker-punch",
+        "seed-bomb",
+        "dragon-pulse",
+        "energy-ball",
+        "giga-impact",
+        "draco-meteor",
+        "leaf-storm",
+        "grass-knot",
+        "bug-bite",
+        "double-hit",
+        "dragon-tail",
+        "grassy-terrain",
+        "infestation",
+        "pollen-puff",
+        "grassy-glide",
+        "tera-blast",
+        "pounce",
+        "syrup-bomb",
+        "dragon-cheer"
+    ],
+    "peso": 97,
+    "altura": 4
+}

@@ -1,0 +1,31 @@
+{
+    "pokemon": [
+        {
+            "nombre": "azumarill",
+            "oculta": false
+        },
+        {
+            "nombre": "azurill",
+            "oculta": false
+        },
+        {
+            "nombre": "bunnelby",
+            "oculta": true
+        },
+        {
+            "nombre": "diggersby",
+            "oculta": true
+        },
+        {
+            "nombre": "marill",
+            "oculta": false
+        },
+        {
+            "nombre": "mawile-mega",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Potencia",
+    "descripcion": "Aumenta el Ataque.",
+    "generacion_introduccion": "generation-iii"
+}

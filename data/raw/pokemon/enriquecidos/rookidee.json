@@ -1,0 +1,73 @@
+{
+    "id": 821,
+    "nombre": "rookidee",
+    "tipos": [
+        "flying"
+    ],
+    "stats_base": {
+        "hp": 38,
+        "attack": 47,
+        "defense": 35,
+        "special-attack": 33,
+        "special-defense": 35,
+        "speed": 57
+    },
+    "habilidades": {
+        "normales": [
+            "keen-eye",
+            "unnerve"
+        ],
+        "oculta": "big-pecks"
+    },
+    "movimientos": [
+        "fly",
+        "sand-attack",
+        "fury-attack",
+        "take-down",
+        "leer",
+        "peck",
+        "drill-peck",
+        "agility",
+        "focus-energy",
+        "swift",
+        "sky-attack",
+        "rest",
+        "substitute",
+        "thief",
+        "snore",
+        "reversal",
+        "spite",
+        "protect",
+        "scary-face",
+        "endure",
+        "swagger",
+        "attract",
+        "sleep-talk",
+        "rock-smash",
+        "facade",
+        "taunt",
+        "revenge",
+        "fake-tears",
+        "air-cutter",
+        "aerial-ace",
+        "roost",
+        "pluck",
+        "tailwind",
+        "u-turn",
+        "payback",
+        "assurance",
+        "air-slash",
+        "brave-bird",
+        "nasty-plot",
+        "defog",
+        "hone-claws",
+        "round",
+        "retaliate",
+        "work-up",
+        "power-trip",
+        "dual-wingbeat",
+        "tera-blast"
+    ],
+    "peso": 18,
+    "altura": 2
+}

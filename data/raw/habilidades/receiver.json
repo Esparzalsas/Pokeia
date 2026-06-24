@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "passimian",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Receptor",
+    "descripcion": "Adquiere la habilidad de un aliado debilitado.",
+    "generacion_introduccion": "generation-vii"
+}

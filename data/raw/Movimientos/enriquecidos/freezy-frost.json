@@ -1,0 +1,16 @@
+{
+    "id": 739,
+    "nombre_en": "freezy-frost",
+    "nombre_es": "Glaceoprisma",
+    "tipo": "ice",
+    "categoria": "special",
+    "potencia": 100,
+    "precision": 90,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "eevee-starter"
+    ]
+}

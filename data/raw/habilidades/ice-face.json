@@ -1,0 +1,15 @@
+{
+    "pokemon": [
+        {
+            "nombre": "eiscue-ice",
+            "oculta": false
+        },
+        {
+            "nombre": "eiscue-noice",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Cara de Hielo",
+    "descripcion": "Absorbe el daño de un ataque físico con el hielo de la cabeza, tras lo cual cambia de forma. El hielo se regenerará la próxima vez que granice.",
+    "generacion_introduccion": "generation-viii"
+}

@@ -1,0 +1,15 @@
+{
+    "pokemon": [
+        {
+            "nombre": "archen",
+            "oculta": false
+        },
+        {
+            "nombre": "archeops",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Flaqueza",
+    "descripcion": "Baja las características al llegar a la mitad los PS.",
+    "generacion_introduccion": "generation-v"
+}

@@ -1,0 +1,14 @@
+{
+    "id": 630,
+    "nombre_en": "tectonic-rage--physical",
+    "nombre_es": "Barrena Telúrica",
+    "tipo": "ground",
+    "categoria": "physical",
+    "potencia": null,
+    "precision": null,
+    "pp": 1,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

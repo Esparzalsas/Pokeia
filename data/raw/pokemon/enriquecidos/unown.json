@@ -1,0 +1,26 @@
+{
+    "id": 201,
+    "nombre": "unown",
+    "tipos": [
+        "psychic"
+    ],
+    "stats_base": {
+        "hp": 48,
+        "attack": 72,
+        "defense": 48,
+        "special-attack": 72,
+        "special-defense": 48,
+        "speed": 48
+    },
+    "habilidades": {
+        "normales": [
+            "levitate"
+        ],
+        "oculta": null
+    },
+    "movimientos": [
+        "hidden-power"
+    ],
+    "peso": 50,
+    "altura": 5
+}

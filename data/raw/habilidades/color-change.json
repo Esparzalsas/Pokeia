@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "kecleon",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Cambio Color",
+    "descripcion": "Adopta el tipo del último movimiento del que sea blanco.",
+    "generacion_introduccion": "generation-iii"
+}

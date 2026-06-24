@@ -1,0 +1,23 @@
+{
+    "pokemon": [
+        {
+            "nombre": "toedscool",
+            "oculta": false
+        },
+        {
+            "nombre": "toedscool",
+            "oculta": true
+        },
+        {
+            "nombre": "toedscruel",
+            "oculta": false
+        },
+        {
+            "nombre": "toedscruel",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Poder Fúngico",
+    "descripcion": null,
+    "generacion_introduccion": "generation-ix"
+}

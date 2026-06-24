@@ -1,0 +1,15 @@
+{
+    "pokemon": [
+        {
+            "nombre": "pincurchin",
+            "oculta": true
+        },
+        {
+            "nombre": "tapu-koko",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Electrogénesis",
+    "descripcion": "Crea un campo eléctrico al entrar en combate.",
+    "generacion_introduccion": "generation-vii"
+}

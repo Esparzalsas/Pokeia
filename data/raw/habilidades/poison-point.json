@@ -1,0 +1,87 @@
+{
+    "pokemon": [
+        {
+            "nombre": "budew",
+            "oculta": false
+        },
+        {
+            "nombre": "clodsire",
+            "oculta": false
+        },
+        {
+            "nombre": "dragalge",
+            "oculta": false
+        },
+        {
+            "nombre": "nidoking",
+            "oculta": false
+        },
+        {
+            "nombre": "nidoqueen",
+            "oculta": false
+        },
+        {
+            "nombre": "nidoran-f",
+            "oculta": false
+        },
+        {
+            "nombre": "nidoran-m",
+            "oculta": false
+        },
+        {
+            "nombre": "nidorina",
+            "oculta": false
+        },
+        {
+            "nombre": "nidorino",
+            "oculta": false
+        },
+        {
+            "nombre": "overqwil",
+            "oculta": false
+        },
+        {
+            "nombre": "qwilfish-hisui",
+            "oculta": false
+        },
+        {
+            "nombre": "qwilfish",
+            "oculta": false
+        },
+        {
+            "nombre": "roselia",
+            "oculta": false
+        },
+        {
+            "nombre": "roserade",
+            "oculta": false
+        },
+        {
+            "nombre": "scolipede",
+            "oculta": false
+        },
+        {
+            "nombre": "seadra",
+            "oculta": false
+        },
+        {
+            "nombre": "skrelp",
+            "oculta": false
+        },
+        {
+            "nombre": "venipede",
+            "oculta": false
+        },
+        {
+            "nombre": "whirlipede",
+            "oculta": false
+        },
+        {
+            "nombre": "wooper-paldea",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Punto Tóxico",
+    "descripcion": "Puede envenenar al mínimo contacto.",
+    "generacion_introduccion": "generation-iii"
+}

@@ -1,0 +1,43 @@
+{
+    "pokemon": [
+        {
+            "nombre": "koraidon-gliding-build",
+            "oculta": false
+        },
+        {
+            "nombre": "koraidon-gliding-build",
+            "oculta": true
+        },
+        {
+            "nombre": "koraidon-limited-build",
+            "oculta": false
+        },
+        {
+            "nombre": "koraidon-limited-build",
+            "oculta": true
+        },
+        {
+            "nombre": "koraidon-sprinting-build",
+            "oculta": false
+        },
+        {
+            "nombre": "koraidon-sprinting-build",
+            "oculta": true
+        },
+        {
+            "nombre": "koraidon-swimming-build",
+            "oculta": false
+        },
+        {
+            "nombre": "koraidon-swimming-build",
+            "oculta": true
+        },
+        {
+            "nombre": "koraidon",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Latido Oricalco",
+    "descripcion": null,
+    "generacion_introduccion": "generation-ix"
+}

@@ -1,0 +1,15 @@
+{
+    "pokemon": [
+        {
+            "nombre": "pinsir-mega",
+            "oculta": false
+        },
+        {
+            "nombre": "salamence-mega",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Piel Celeste",
+    "descripcion": "Convierte movimientos de tipo Normal en tipo Volador.",
+    "generacion_introduccion": "generation-vi"
+}

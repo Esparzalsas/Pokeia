@@ -1,0 +1,23 @@
+{
+    "pokemon": [
+        {
+            "nombre": "farigiraf",
+            "oculta": false
+        },
+        {
+            "nombre": "tauros-paldea-aqua-breed",
+            "oculta": true
+        },
+        {
+            "nombre": "tauros-paldea-blaze-breed",
+            "oculta": true
+        },
+        {
+            "nombre": "tauros-paldea-combat-breed",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Rumia",
+    "descripcion": null,
+    "generacion_introduccion": "generation-ix"
+}

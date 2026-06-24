@@ -1,0 +1,16 @@
+{
+    "id": 858,
+    "nombre_en": "spicy-extract",
+    "nombre_es": null,
+    "tipo": "grass",
+    "categoria": "status",
+    "potencia": 0,
+    "precision": null,
+    "pp": 15,
+    "prioridad": 0,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "scovillain"
+    ]
+}

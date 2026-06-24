@@ -1,0 +1,27 @@
+{
+    "pokemon": [
+        {
+            "nombre": "flabebe",
+            "oculta": true
+        },
+        {
+            "nombre": "floette-eternal",
+            "oculta": true
+        },
+        {
+            "nombre": "floette",
+            "oculta": true
+        },
+        {
+            "nombre": "florges",
+            "oculta": true
+        },
+        {
+            "nombre": "oranguru",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Simbiosis",
+    "descripcion": "El Pokémon puede pasar su objeto a un aliado.",
+    "generacion_introduccion": "generation-vi"
+}

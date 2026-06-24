@@ -1,0 +1,67 @@
+{
+    "pokemon": [
+        {
+            "nombre": "decidueye-hisui",
+            "oculta": true
+        },
+        {
+            "nombre": "exploud",
+            "oculta": true
+        },
+        {
+            "nombre": "farfetchd-galar",
+            "oculta": true
+        },
+        {
+            "nombre": "flamigo",
+            "oculta": false
+        },
+        {
+            "nombre": "herdier",
+            "oculta": true
+        },
+        {
+            "nombre": "kangaskhan",
+            "oculta": false
+        },
+        {
+            "nombre": "lopunny-mega",
+            "oculta": false
+        },
+        {
+            "nombre": "loudred",
+            "oculta": true
+        },
+        {
+            "nombre": "miltank",
+            "oculta": false
+        },
+        {
+            "nombre": "pancham",
+            "oculta": true
+        },
+        {
+            "nombre": "pangoro",
+            "oculta": true
+        },
+        {
+            "nombre": "sirfetchd",
+            "oculta": true
+        },
+        {
+            "nombre": "stoutland",
+            "oculta": true
+        },
+        {
+            "nombre": "swellow",
+            "oculta": true
+        },
+        {
+            "nombre": "taillow",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Intrépido",
+    "descripcion": "Movimientos tipo Normal y Lucha golpean a Pokémon Fantasma.",
+    "generacion_introduccion": "generation-iv"
+}

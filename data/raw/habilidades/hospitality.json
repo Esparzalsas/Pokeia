@@ -1,0 +1,15 @@
+{
+    "pokemon": [
+        {
+            "nombre": "poltchageist",
+            "oculta": false
+        },
+        {
+            "nombre": "sinistcha",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Hospitalidad",
+    "descripcion": null,
+    "generacion_introduccion": "generation-ix"
+}

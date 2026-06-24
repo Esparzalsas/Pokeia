@@ -1,0 +1,14 @@
+{
+    "id": 781,
+    "nombre_en": "behemoth-blade",
+    "nombre_es": "Tajo Supremo",
+    "tipo": "steel",
+    "categoria": "physical",
+    "potencia": 100,
+    "precision": 100,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

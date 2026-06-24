@@ -1,0 +1,17 @@
+{
+    "id": 795,
+    "nombre_en": "eternabeam",
+    "nombre_es": "Rayo Infinito",
+    "tipo": "dragon",
+    "categoria": "special",
+    "potencia": 160,
+    "precision": 90,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "eternatus",
+        "eternatus-eternamax"
+    ]
+}

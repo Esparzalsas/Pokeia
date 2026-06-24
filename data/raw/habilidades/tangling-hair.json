@@ -1,0 +1,15 @@
+{
+    "pokemon": [
+        {
+            "nombre": "diglett-alola",
+            "oculta": false
+        },
+        {
+            "nombre": "dugtrio-alola",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Rizos Rebeldes",
+    "descripcion": "Baja la Velocidad del rival cuando este ataca al Pokémon con un movimiento de contacto.",
+    "generacion_introduccion": "generation-vii"
+}

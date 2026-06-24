@@ -1,0 +1,17 @@
+{
+    "id": 600,
+    "nombre_en": "powder",
+    "nombre_es": "Polvo Explosivo",
+    "tipo": "bug",
+    "categoria": "status",
+    "potencia": null,
+    "precision": 100,
+    "pp": 20,
+    "prioridad": 1,
+    "generacion": "generation-vi",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "vivillon",
+        "cutiefly"
+    ]
+}

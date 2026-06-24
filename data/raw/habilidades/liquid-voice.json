@@ -1,0 +1,19 @@
+{
+    "pokemon": [
+        {
+            "nombre": "brionne",
+            "oculta": true
+        },
+        {
+            "nombre": "popplio",
+            "oculta": true
+        },
+        {
+            "nombre": "primarina",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Voz Fluida",
+    "descripcion": "Hace que todos los movimientos del Pokémon basados en sonido pasen a ser de tipo Agua.",
+    "generacion_introduccion": "generation-vii"
+}

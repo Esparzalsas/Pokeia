@@ -1,0 +1,65 @@
+{
+    "id": 960,
+    "nombre": "wiglett",
+    "tipos": [
+        "water"
+    ],
+    "stats_base": {
+        "hp": 10,
+        "attack": 55,
+        "defense": 25,
+        "special-attack": 35,
+        "special-defense": 25,
+        "speed": 95
+    },
+    "habilidades": {
+        "normales": [
+            "gooey",
+            "rattled"
+        ],
+        "oculta": "sand-veil"
+    },
+    "movimientos": [
+        "slam",
+        "sand-attack",
+        "headbutt",
+        "wrap",
+        "take-down",
+        "water-gun",
+        "hydro-pump",
+        "surf",
+        "ice-beam",
+        "blizzard",
+        "dig",
+        "agility",
+        "swift",
+        "rest",
+        "substitute",
+        "protect",
+        "mud-slap",
+        "sandstorm",
+        "endure",
+        "sleep-talk",
+        "rain-dance",
+        "whirlpool",
+        "memento",
+        "facade",
+        "helping-hand",
+        "muddy-water",
+        "mud-shot",
+        "water-pulse",
+        "sucker-punch",
+        "earth-power",
+        "aqua-jet",
+        "foul-play",
+        "final-gambit",
+        "bulldoze",
+        "throat-chop",
+        "stomping-tantrum",
+        "liquidation",
+        "tera-blast",
+        "chilling-water"
+    ],
+    "peso": 18,
+    "altura": 12
+}

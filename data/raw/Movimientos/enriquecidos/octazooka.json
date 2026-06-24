@@ -1,0 +1,19 @@
+{
+    "id": 190,
+    "nombre_en": "octazooka",
+    "nombre_es": "Pulpocañón",
+    "tipo": "water",
+    "categoria": "special",
+    "potencia": 65,
+    "precision": 85,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-ii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "horsea",
+        "remoraid",
+        "octillery",
+        "grapploct"
+    ]
+}

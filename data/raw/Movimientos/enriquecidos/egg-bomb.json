@@ -1,0 +1,21 @@
+{
+    "id": 121,
+    "nombre_en": "egg-bomb",
+    "nombre_es": "Bomba Huevo",
+    "tipo": "normal",
+    "categoria": "physical",
+    "potencia": 100,
+    "precision": 75,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-i",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "exeggcute",
+        "exeggutor",
+        "chansey",
+        "mew",
+        "blissey",
+        "exeggutor-alola"
+    ]
+}

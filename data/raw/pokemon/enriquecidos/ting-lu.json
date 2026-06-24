@@ -1,0 +1,72 @@
+{
+    "id": 1003,
+    "nombre": "ting-lu",
+    "tipos": [
+        "dark",
+        "ground"
+    ],
+    "stats_base": {
+        "hp": 155,
+        "attack": 110,
+        "defense": 125,
+        "special-attack": 55,
+        "special-defense": 80,
+        "speed": 45
+    },
+    "habilidades": {
+        "normales": [
+            "vessel-of-ruin"
+        ],
+        "oculta": null
+    },
+    "movimientos": [
+        "whirlwind",
+        "stomp",
+        "body-slam",
+        "take-down",
+        "thrash",
+        "double-edge",
+        "hyper-beam",
+        "earthquake",
+        "fissure",
+        "dig",
+        "rest",
+        "rock-slide",
+        "substitute",
+        "spite",
+        "protect",
+        "scary-face",
+        "mud-slap",
+        "spikes",
+        "sandstorm",
+        "endure",
+        "mean-look",
+        "sleep-talk",
+        "sunny-day",
+        "memento",
+        "facade",
+        "taunt",
+        "rock-tomb",
+        "sand-tomb",
+        "mud-shot",
+        "payback",
+        "dark-pulse",
+        "earth-power",
+        "giga-impact",
+        "zen-headbutt",
+        "stone-edge",
+        "stealth-rock",
+        "heavy-slam",
+        "hex",
+        "bulldoze",
+        "snarl",
+        "throat-chop",
+        "stomping-tantrum",
+        "body-press",
+        "lash-out",
+        "tera-blast",
+        "ruination"
+    ],
+    "peso": 6997,
+    "altura": 27
+}

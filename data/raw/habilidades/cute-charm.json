@@ -1,0 +1,67 @@
+{
+    "pokemon": [
+        {
+            "nombre": "cinccino",
+            "oculta": false
+        },
+        {
+            "nombre": "clefable",
+            "oculta": false
+        },
+        {
+            "nombre": "clefairy",
+            "oculta": false
+        },
+        {
+            "nombre": "cleffa",
+            "oculta": false
+        },
+        {
+            "nombre": "delcatty",
+            "oculta": false
+        },
+        {
+            "nombre": "enamorus-incarnate",
+            "oculta": false
+        },
+        {
+            "nombre": "igglybuff",
+            "oculta": false
+        },
+        {
+            "nombre": "jigglypuff",
+            "oculta": false
+        },
+        {
+            "nombre": "lopunny",
+            "oculta": false
+        },
+        {
+            "nombre": "milotic",
+            "oculta": true
+        },
+        {
+            "nombre": "minccino",
+            "oculta": false
+        },
+        {
+            "nombre": "skitty",
+            "oculta": false
+        },
+        {
+            "nombre": "stufful",
+            "oculta": true
+        },
+        {
+            "nombre": "sylveon",
+            "oculta": false
+        },
+        {
+            "nombre": "wigglytuff",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Gran Encanto",
+    "descripcion": "Tocar al Pokémon puede causar enamoramiento.",
+    "generacion_introduccion": "generation-iii"
+}

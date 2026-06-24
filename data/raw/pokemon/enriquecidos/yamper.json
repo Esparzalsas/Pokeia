@@ -1,0 +1,63 @@
+{
+    "id": 835,
+    "nombre": "yamper",
+    "tipos": [
+        "electric"
+    ],
+    "stats_base": {
+        "hp": 59,
+        "attack": 45,
+        "defense": 50,
+        "special-attack": 40,
+        "special-defense": 50,
+        "speed": 26
+    },
+    "habilidades": {
+        "normales": [
+            "ball-fetch"
+        ],
+        "oculta": "rattled"
+    },
+    "movimientos": [
+        "sand-attack",
+        "tackle",
+        "double-edge",
+        "tail-whip",
+        "bite",
+        "roar",
+        "thunderbolt",
+        "thunder-wave",
+        "thunder",
+        "dig",
+        "swift",
+        "rest",
+        "substitute",
+        "snore",
+        "protect",
+        "endure",
+        "charm",
+        "spark",
+        "attract",
+        "sleep-talk",
+        "crunch",
+        "uproar",
+        "facade",
+        "charge",
+        "helping-hand",
+        "howl",
+        "thunder-fang",
+        "fire-fang",
+        "discharge",
+        "electro-ball",
+        "flame-charge",
+        "round",
+        "volt-switch",
+        "wild-charge",
+        "snarl",
+        "play-rough",
+        "nuzzle",
+        "rising-voltage"
+    ],
+    "peso": 135,
+    "altura": 3
+}

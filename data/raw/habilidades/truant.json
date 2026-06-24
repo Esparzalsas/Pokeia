@@ -1,0 +1,19 @@
+{
+    "pokemon": [
+        {
+            "nombre": "durant",
+            "oculta": true
+        },
+        {
+            "nombre": "slaking",
+            "oculta": false
+        },
+        {
+            "nombre": "slakoth",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Ausente",
+    "descripcion": "El Pokémon no atacará en turnos consecutivos.",
+    "generacion_introduccion": "generation-iii"
+}

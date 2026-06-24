@@ -1,0 +1,16 @@
+{
+    "id": 712,
+    "nombre_en": "spectral-thief",
+    "nombre_es": "Robasombra",
+    "tipo": "ghost",
+    "categoria": "physical",
+    "potencia": 90,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "marshadow"
+    ]
+}

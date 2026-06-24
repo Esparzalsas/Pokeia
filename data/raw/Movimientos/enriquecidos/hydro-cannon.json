@@ -1,0 +1,30 @@
+{
+    "id": 308,
+    "nombre_en": "hydro-cannon",
+    "nombre_es": "Hidrocañón",
+    "tipo": "water",
+    "categoria": "special",
+    "potencia": 150,
+    "precision": 90,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-iii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "blastoise",
+        "mew",
+        "feraligatr",
+        "swampert",
+        "empoleon",
+        "samurott",
+        "greninja",
+        "primarina",
+        "inteleon",
+        "quaquaval",
+        "blastoise-mega",
+        "swampert-mega",
+        "greninja-battle-bond",
+        "greninja-ash",
+        "samurott-hisui"
+    ]
+}

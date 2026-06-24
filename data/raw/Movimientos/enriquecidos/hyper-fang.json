@@ -1,0 +1,28 @@
+{
+    "id": 158,
+    "nombre_en": "hyper-fang",
+    "nombre_es": "Hipercolmillo",
+    "tipo": "normal",
+    "categoria": "physical",
+    "potencia": 80,
+    "precision": 90,
+    "pp": 15,
+    "prioridad": 0,
+    "generacion": "generation-i",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "rattata",
+        "raticate",
+        "bidoof",
+        "bibarel",
+        "pachirisu",
+        "patrat",
+        "watchog",
+        "yungoos",
+        "gumshoos",
+        "rattata-alola",
+        "raticate-alola",
+        "raticate-totem-alola",
+        "gumshoos-totem"
+    ]
+}

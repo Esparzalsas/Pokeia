@@ -1,0 +1,16 @@
+{
+    "id": 601,
+    "nombre_en": "geomancy",
+    "nombre_es": "Geocontrol",
+    "tipo": "fairy",
+    "categoria": "status",
+    "potencia": null,
+    "precision": null,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-vi",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "xerneas"
+    ]
+}

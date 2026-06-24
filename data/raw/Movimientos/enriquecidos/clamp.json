@@ -1,0 +1,20 @@
+{
+    "id": 128,
+    "nombre_en": "clamp",
+    "nombre_es": "Tenaza",
+    "tipo": "water",
+    "categoria": "physical",
+    "potencia": 35,
+    "precision": 85,
+    "pp": 15,
+    "prioridad": 0,
+    "generacion": "generation-i",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "shellder",
+        "cloyster",
+        "clamperl",
+        "binacle",
+        "barbaracle"
+    ]
+}

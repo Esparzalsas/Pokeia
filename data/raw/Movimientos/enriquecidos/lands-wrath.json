@@ -1,0 +1,20 @@
+{
+    "id": 616,
+    "nombre_en": "lands-wrath",
+    "nombre_es": "Fuerza Telúrica",
+    "tipo": "ground",
+    "categoria": "physical",
+    "potencia": 90,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-vi",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "zygarde-50",
+        "zygarde-10-power-construct",
+        "zygarde-50-power-construct",
+        "zygarde-complete",
+        "zygarde-10"
+    ]
+}

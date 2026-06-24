@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "arboliva",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Disemillar",
+    "descripcion": null,
+    "generacion_introduccion": "generation-ix"
+}

@@ -1,0 +1,17 @@
+{
+    "id": 864,
+    "nombre_en": "salt-cure",
+    "nombre_es": null,
+    "tipo": "rock",
+    "categoria": "physical",
+    "potencia": 40,
+    "precision": 100,
+    "pp": 15,
+    "prioridad": 0,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "naclstack",
+        "garganacl"
+    ]
+}

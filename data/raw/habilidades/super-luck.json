@@ -1,0 +1,43 @@
+{
+    "pokemon": [
+        {
+            "nombre": "absol",
+            "oculta": false
+        },
+        {
+            "nombre": "honchkrow",
+            "oculta": false
+        },
+        {
+            "nombre": "murkrow",
+            "oculta": false
+        },
+        {
+            "nombre": "pidove",
+            "oculta": false
+        },
+        {
+            "nombre": "togekiss",
+            "oculta": true
+        },
+        {
+            "nombre": "togepi",
+            "oculta": true
+        },
+        {
+            "nombre": "togetic",
+            "oculta": true
+        },
+        {
+            "nombre": "tranquill",
+            "oculta": false
+        },
+        {
+            "nombre": "unfezant",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Afortunado",
+    "descripcion": "Aumenta la probabilidad de dar golpes críticos.",
+    "generacion_introduccion": "generation-iv"
+}

@@ -1,0 +1,17 @@
+{
+    "id": 847,
+    "nombre_en": "wildbolt-storm",
+    "nombre_es": null,
+    "tipo": "electric",
+    "categoria": "special",
+    "potencia": 100,
+    "precision": 80,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "thundurus-incarnate",
+        "thundurus-therian"
+    ]
+}

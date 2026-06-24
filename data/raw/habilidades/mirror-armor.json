@@ -1,0 +1,15 @@
+{
+    "pokemon": [
+        {
+            "nombre": "corviknight-gmax",
+            "oculta": true
+        },
+        {
+            "nombre": "corviknight",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Coraza Reflejo",
+    "descripcion": "Refleja los efectos que reducen las características.",
+    "generacion_introduccion": "generation-viii"
+}

@@ -1,0 +1,135 @@
+{
+    "pokemon": [
+        {
+            "nombre": "ariados",
+            "oculta": false
+        },
+        {
+            "nombre": "beautifly",
+            "oculta": false
+        },
+        {
+            "nombre": "beedrill",
+            "oculta": false
+        },
+        {
+            "nombre": "blipbug",
+            "oculta": false
+        },
+        {
+            "nombre": "dottler",
+            "oculta": false
+        },
+        {
+            "nombre": "durant",
+            "oculta": false
+        },
+        {
+            "nombre": "escavalier",
+            "oculta": false
+        },
+        {
+            "nombre": "galvantula",
+            "oculta": true
+        },
+        {
+            "nombre": "grubbin",
+            "oculta": false
+        },
+        {
+            "nombre": "heracross",
+            "oculta": false
+        },
+        {
+            "nombre": "joltik",
+            "oculta": true
+        },
+        {
+            "nombre": "karrablast",
+            "oculta": false
+        },
+        {
+            "nombre": "kleavor",
+            "oculta": false
+        },
+        {
+            "nombre": "kricketune",
+            "oculta": false
+        },
+        {
+            "nombre": "larvesta",
+            "oculta": true
+        },
+        {
+            "nombre": "leavanny",
+            "oculta": false
+        },
+        {
+            "nombre": "ledian",
+            "oculta": false
+        },
+        {
+            "nombre": "ledyba",
+            "oculta": false
+        },
+        {
+            "nombre": "lokix",
+            "oculta": false
+        },
+        {
+            "nombre": "mothim",
+            "oculta": false
+        },
+        {
+            "nombre": "nymble",
+            "oculta": false
+        },
+        {
+            "nombre": "orbeetle-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "orbeetle",
+            "oculta": false
+        },
+        {
+            "nombre": "scizor",
+            "oculta": false
+        },
+        {
+            "nombre": "scolipede",
+            "oculta": false
+        },
+        {
+            "nombre": "scyther",
+            "oculta": false
+        },
+        {
+            "nombre": "sewaddle",
+            "oculta": false
+        },
+        {
+            "nombre": "spinarak",
+            "oculta": false
+        },
+        {
+            "nombre": "venipede",
+            "oculta": false
+        },
+        {
+            "nombre": "volbeat",
+            "oculta": false
+        },
+        {
+            "nombre": "volcarona",
+            "oculta": true
+        },
+        {
+            "nombre": "whirlipede",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Enjambre",
+    "descripcion": "Potencia los ataques de tipo Bicho en un apuro.",
+    "generacion_introduccion": "generation-iii"
+}

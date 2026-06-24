@@ -1,0 +1,55 @@
+{
+    "pokemon": [
+        {
+            "nombre": "beheeyem",
+            "oculta": true
+        },
+        {
+            "nombre": "elgyem",
+            "oculta": true
+        },
+        {
+            "nombre": "magnemite",
+            "oculta": true
+        },
+        {
+            "nombre": "magneton",
+            "oculta": true
+        },
+        {
+            "nombre": "magnezone",
+            "oculta": true
+        },
+        {
+            "nombre": "patrat",
+            "oculta": true
+        },
+        {
+            "nombre": "porygon-z",
+            "oculta": true
+        },
+        {
+            "nombre": "porygon",
+            "oculta": true
+        },
+        {
+            "nombre": "porygon2",
+            "oculta": true
+        },
+        {
+            "nombre": "starmie",
+            "oculta": true
+        },
+        {
+            "nombre": "staryu",
+            "oculta": true
+        },
+        {
+            "nombre": "watchog",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Cálculo Final",
+    "descripcion": "Potencia el movimiento si es el último en atacar.",
+    "generacion_introduccion": "generation-v"
+}

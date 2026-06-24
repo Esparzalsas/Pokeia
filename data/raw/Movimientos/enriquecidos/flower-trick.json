@@ -1,0 +1,16 @@
+{
+    "id": 870,
+    "nombre_en": "flower-trick",
+    "nombre_es": null,
+    "tipo": "grass",
+    "categoria": "physical",
+    "potencia": 70,
+    "precision": null,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "meowscarada"
+    ]
+}

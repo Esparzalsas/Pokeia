@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "comfey",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Primer Auxilio",
+    "descripcion": "Da prioridad a los movimientos que curan PS directamente al Pokémon.",
+    "generacion_introduccion": "generation-vii"
+}

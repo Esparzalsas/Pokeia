@@ -1,0 +1,14 @@
+{
+    "id": 626,
+    "nombre_en": "supersonic-skystrike--physical",
+    "nombre_es": "Picado Supersónico",
+    "tipo": "flying",
+    "categoria": "physical",
+    "potencia": null,
+    "precision": null,
+    "pp": 1,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

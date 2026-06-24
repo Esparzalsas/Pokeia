@@ -1,0 +1,199 @@
+{
+    "pokemon": [
+        {
+            "nombre": "anorith",
+            "oculta": true
+        },
+        {
+            "nombre": "armaldo",
+            "oculta": true
+        },
+        {
+            "nombre": "arrokuda",
+            "oculta": false
+        },
+        {
+            "nombre": "barraskewda",
+            "oculta": false
+        },
+        {
+            "nombre": "basculegion-female",
+            "oculta": false
+        },
+        {
+            "nombre": "basculegion-male",
+            "oculta": false
+        },
+        {
+            "nombre": "beartic",
+            "oculta": true
+        },
+        {
+            "nombre": "buizel",
+            "oculta": false
+        },
+        {
+            "nombre": "carracosta",
+            "oculta": true
+        },
+        {
+            "nombre": "chewtle",
+            "oculta": true
+        },
+        {
+            "nombre": "drednaw-gmax",
+            "oculta": true
+        },
+        {
+            "nombre": "drednaw",
+            "oculta": true
+        },
+        {
+            "nombre": "feebas",
+            "oculta": false
+        },
+        {
+            "nombre": "finneon",
+            "oculta": false
+        },
+        {
+            "nombre": "floatzel",
+            "oculta": false
+        },
+        {
+            "nombre": "goldeen",
+            "oculta": false
+        },
+        {
+            "nombre": "golduck",
+            "oculta": true
+        },
+        {
+            "nombre": "gorebyss",
+            "oculta": false
+        },
+        {
+            "nombre": "horsea",
+            "oculta": false
+        },
+        {
+            "nombre": "huntail",
+            "oculta": false
+        },
+        {
+            "nombre": "kabuto",
+            "oculta": false
+        },
+        {
+            "nombre": "kabutops",
+            "oculta": false
+        },
+        {
+            "nombre": "kingdra",
+            "oculta": false
+        },
+        {
+            "nombre": "lombre",
+            "oculta": false
+        },
+        {
+            "nombre": "lotad",
+            "oculta": false
+        },
+        {
+            "nombre": "ludicolo",
+            "oculta": false
+        },
+        {
+            "nombre": "lumineon",
+            "oculta": false
+        },
+        {
+            "nombre": "luvdisc",
+            "oculta": false
+        },
+        {
+            "nombre": "magikarp",
+            "oculta": false
+        },
+        {
+            "nombre": "mantine",
+            "oculta": false
+        },
+        {
+            "nombre": "mantyke",
+            "oculta": false
+        },
+        {
+            "nombre": "omanyte",
+            "oculta": false
+        },
+        {
+            "nombre": "omastar",
+            "oculta": false
+        },
+        {
+            "nombre": "overqwil",
+            "oculta": false
+        },
+        {
+            "nombre": "palpitoad",
+            "oculta": false
+        },
+        {
+            "nombre": "poliwag",
+            "oculta": true
+        },
+        {
+            "nombre": "poliwhirl",
+            "oculta": true
+        },
+        {
+            "nombre": "poliwrath",
+            "oculta": true
+        },
+        {
+            "nombre": "psyduck",
+            "oculta": true
+        },
+        {
+            "nombre": "qwilfish-hisui",
+            "oculta": false
+        },
+        {
+            "nombre": "qwilfish",
+            "oculta": false
+        },
+        {
+            "nombre": "relicanth",
+            "oculta": false
+        },
+        {
+            "nombre": "seaking",
+            "oculta": false
+        },
+        {
+            "nombre": "seismitoad",
+            "oculta": false
+        },
+        {
+            "nombre": "surskit",
+            "oculta": false
+        },
+        {
+            "nombre": "swampert-mega",
+            "oculta": false
+        },
+        {
+            "nombre": "tirtouga",
+            "oculta": true
+        },
+        {
+            "nombre": "tympole",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Nado Rápido",
+    "descripcion": "Sube la Velocidad cuando hay lluvia.",
+    "generacion_introduccion": "generation-iii"
+}

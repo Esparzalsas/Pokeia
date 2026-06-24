@@ -1,0 +1,69 @@
+{
+    "id": 833,
+    "nombre": "chewtle",
+    "tipos": [
+        "water"
+    ],
+    "stats_base": {
+        "hp": 50,
+        "attack": 64,
+        "defense": 50,
+        "special-attack": 38,
+        "special-defense": 38,
+        "speed": 44
+    },
+    "habilidades": {
+        "normales": [
+            "strong-jaw",
+            "shell-armor"
+        ],
+        "oculta": "swift-swim"
+    },
+    "movimientos": [
+        "headbutt",
+        "tackle",
+        "body-slam",
+        "take-down",
+        "bite",
+        "water-gun",
+        "hydro-pump",
+        "surf",
+        "counter",
+        "waterfall",
+        "skull-bash",
+        "rest",
+        "substitute",
+        "snore",
+        "protect",
+        "scary-face",
+        "endure",
+        "false-swipe",
+        "attract",
+        "sleep-talk",
+        "rain-dance",
+        "crunch",
+        "whirlpool",
+        "facade",
+        "revenge",
+        "dive",
+        "mud-shot",
+        "water-pulse",
+        "payback",
+        "assurance",
+        "gastro-acid",
+        "poison-jab",
+        "ice-fang",
+        "round",
+        "shell-smash",
+        "dragon-tail",
+        "stomping-tantrum",
+        "liquidation",
+        "jaw-lock",
+        "scale-shot",
+        "skitter-smack",
+        "tera-blast",
+        "chilling-water"
+    ],
+    "peso": 85,
+    "altura": 3
+}

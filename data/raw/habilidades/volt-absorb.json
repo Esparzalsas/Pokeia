@@ -1,0 +1,59 @@
+{
+    "pokemon": [
+        {
+            "nombre": "arctozolt",
+            "oculta": false
+        },
+        {
+            "nombre": "chinchou",
+            "oculta": false
+        },
+        {
+            "nombre": "dracozolt",
+            "oculta": false
+        },
+        {
+            "nombre": "jolteon",
+            "oculta": false
+        },
+        {
+            "nombre": "kilowattrel",
+            "oculta": false
+        },
+        {
+            "nombre": "lanturn",
+            "oculta": false
+        },
+        {
+            "nombre": "minun",
+            "oculta": true
+        },
+        {
+            "nombre": "pachirisu",
+            "oculta": true
+        },
+        {
+            "nombre": "pawmo",
+            "oculta": false
+        },
+        {
+            "nombre": "pawmot",
+            "oculta": false
+        },
+        {
+            "nombre": "thundurus-therian",
+            "oculta": false
+        },
+        {
+            "nombre": "wattrel",
+            "oculta": false
+        },
+        {
+            "nombre": "zeraora",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Absorbe Elec",
+    "descripcion": "Recupera PS al recibir ataques de tipo Eléctrico.",
+    "generacion_introduccion": "generation-iii"
+}

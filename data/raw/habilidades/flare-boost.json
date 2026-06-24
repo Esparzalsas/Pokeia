@@ -1,0 +1,15 @@
+{
+    "pokemon": [
+        {
+            "nombre": "drifblim",
+            "oculta": true
+        },
+        {
+            "nombre": "drifloon",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Ímpetu Ardiente",
+    "descripcion": "Potencia los ataques especiales cuando el Pokémon se quema.",
+    "generacion_introduccion": "generation-v"
+}

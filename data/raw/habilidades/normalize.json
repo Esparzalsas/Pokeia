@@ -1,0 +1,15 @@
+{
+    "pokemon": [
+        {
+            "nombre": "delcatty",
+            "oculta": false
+        },
+        {
+            "nombre": "skitty",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Normalidad",
+    "descripcion": "Todos los movimientos se vuelven de tipo Normal.",
+    "generacion_introduccion": "generation-iv"
+}

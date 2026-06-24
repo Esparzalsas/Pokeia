@@ -1,0 +1,14 @@
+{
+    "id": 701,
+    "nombre_en": "pulverizing-pancake",
+    "nombre_es": "Arrojo Intempestivo",
+    "tipo": "normal",
+    "categoria": "physical",
+    "potencia": 210,
+    "precision": null,
+    "pp": 1,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

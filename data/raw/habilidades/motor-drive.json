@@ -1,0 +1,23 @@
+{
+    "pokemon": [
+        {
+            "nombre": "blitzle",
+            "oculta": false
+        },
+        {
+            "nombre": "electivire",
+            "oculta": false
+        },
+        {
+            "nombre": "emolga",
+            "oculta": true
+        },
+        {
+            "nombre": "zebstrika",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Electromotor",
+    "descripcion": "Sube la Velocidad si le alcanza un ataque eléctrico.",
+    "generacion_introduccion": "generation-iv"
+}

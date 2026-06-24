@@ -1,0 +1,18 @@
+{
+    "id": 880,
+    "nombre_en": "shed-tail",
+    "nombre_es": null,
+    "tipo": "normal",
+    "categoria": "status",
+    "potencia": 0,
+    "precision": null,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "sceptile",
+        "cyclizar",
+        "orthworm"
+    ]
+}

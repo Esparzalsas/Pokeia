@@ -1,0 +1,14 @@
+{
+    "id": 654,
+    "nombre_en": "black-hole-eclipse--physical",
+    "nombre_es": "Agujero Negro Aniquilador",
+    "tipo": "dark",
+    "categoria": "physical",
+    "potencia": null,
+    "precision": null,
+    "pp": 1,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

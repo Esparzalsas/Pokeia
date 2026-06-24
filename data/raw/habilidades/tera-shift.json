@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "terapagos",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Teracambio",
+    "descripcion": null,
+    "generacion_introduccion": "generation-ix"
+}

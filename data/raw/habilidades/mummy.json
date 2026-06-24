@@ -1,0 +1,15 @@
+{
+    "pokemon": [
+        {
+            "nombre": "cofagrigus",
+            "oculta": false
+        },
+        {
+            "nombre": "yamask",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Momia",
+    "descripcion": "Contagia Momia al rival que lo toque.",
+    "generacion_introduccion": "generation-v"
+}

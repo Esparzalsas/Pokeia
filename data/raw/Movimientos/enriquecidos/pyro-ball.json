@@ -1,0 +1,16 @@
+{
+    "id": 780,
+    "nombre_en": "pyro-ball",
+    "nombre_es": "Balón Ígneo",
+    "tipo": "fire",
+    "categoria": "physical",
+    "potencia": 120,
+    "precision": 90,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "cinderace"
+    ]
+}

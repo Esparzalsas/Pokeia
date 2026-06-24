@@ -1,0 +1,16 @@
+{
+    "id": 909,
+    "nombre_en": "thunderclap",
+    "nombre_es": "Relámpago Súbito",
+    "tipo": "electric",
+    "categoria": "special",
+    "potencia": 70,
+    "precision": 100,
+    "pp": 5,
+    "prioridad": 1,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "raging-bolt"
+    ]
+}

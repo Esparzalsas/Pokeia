@@ -1,0 +1,45 @@
+{
+    "id": 808,
+    "nombre": "meltan",
+    "tipos": [
+        "steel"
+    ],
+    "stats_base": {
+        "hp": 46,
+        "attack": 65,
+        "defense": 65,
+        "special-attack": 55,
+        "special-defense": 35,
+        "speed": 34
+    },
+    "habilidades": {
+        "normales": [
+            "magnet-pull"
+        ],
+        "oculta": null
+    },
+    "movimientos": [
+        "headbutt",
+        "tail-whip",
+        "thunder-shock",
+        "thunderbolt",
+        "thunder-wave",
+        "toxic",
+        "harden",
+        "acid-armor",
+        "rest",
+        "substitute",
+        "snore",
+        "protect",
+        "endure",
+        "sleep-talk",
+        "facade",
+        "iron-defense",
+        "gyro-ball",
+        "flash-cannon",
+        "round",
+        "steel-beam"
+    ],
+    "peso": 80,
+    "altura": 2
+}

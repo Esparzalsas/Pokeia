@@ -1,0 +1,83 @@
+{
+    "pokemon": [
+        {
+            "nombre": "basculegion-female",
+            "oculta": false
+        },
+        {
+            "nombre": "basculegion-male",
+            "oculta": false
+        },
+        {
+            "nombre": "basculin-blue-striped",
+            "oculta": false
+        },
+        {
+            "nombre": "basculin-red-striped",
+            "oculta": false
+        },
+        {
+            "nombre": "basculin-white-striped",
+            "oculta": false
+        },
+        {
+            "nombre": "beedrill-mega",
+            "oculta": false
+        },
+        {
+            "nombre": "corphish",
+            "oculta": true
+        },
+        {
+            "nombre": "crawdaunt",
+            "oculta": true
+        },
+        {
+            "nombre": "dragalge",
+            "oculta": true
+        },
+        {
+            "nombre": "eevee-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "eevee-starter",
+            "oculta": false
+        },
+        {
+            "nombre": "eevee",
+            "oculta": false
+        },
+        {
+            "nombre": "feebas",
+            "oculta": true
+        },
+        {
+            "nombre": "gumshoos-totem",
+            "oculta": true
+        },
+        {
+            "nombre": "gumshoos",
+            "oculta": true
+        },
+        {
+            "nombre": "lucario-mega",
+            "oculta": false
+        },
+        {
+            "nombre": "porygon-z",
+            "oculta": false
+        },
+        {
+            "nombre": "skrelp",
+            "oculta": true
+        },
+        {
+            "nombre": "yungoos",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Adaptable",
+    "descripcion": "Potencia los movimientos del mismo tipo del Pokémon.",
+    "generacion_introduccion": "generation-iv"
+}

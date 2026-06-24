@@ -1,0 +1,47 @@
+{
+    "pokemon": [
+        {
+            "nombre": "aggron",
+            "oculta": true
+        },
+        {
+            "nombre": "aron",
+            "oculta": true
+        },
+        {
+            "nombre": "bronzong",
+            "oculta": true
+        },
+        {
+            "nombre": "bronzor",
+            "oculta": true
+        },
+        {
+            "nombre": "copperajah-gmax",
+            "oculta": true
+        },
+        {
+            "nombre": "copperajah",
+            "oculta": true
+        },
+        {
+            "nombre": "cufant",
+            "oculta": true
+        },
+        {
+            "nombre": "duraludon-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "duraludon",
+            "oculta": false
+        },
+        {
+            "nombre": "lairon",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Metal Pesado",
+    "descripcion": "Duplica el peso del Pokémon.",
+    "generacion_introduccion": "generation-v"
+}

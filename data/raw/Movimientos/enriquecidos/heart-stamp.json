@@ -1,0 +1,21 @@
+{
+    "id": 531,
+    "nombre_en": "heart-stamp",
+    "nombre_es": "Arrumaco",
+    "tipo": "psychic",
+    "categoria": "physical",
+    "potencia": 60,
+    "precision": 100,
+    "pp": 25,
+    "prioridad": 0,
+    "generacion": "generation-v",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "jynx",
+        "smoochum",
+        "miltank",
+        "luvdisc",
+        "woobat",
+        "swoobat"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "id": 2,
+    "nombre_en": "karate-chop",
+    "nombre_es": "Golpe Kárate",
+    "tipo": "fighting",
+    "categoria": "physical",
+    "potencia": 50,
+    "precision": 100,
+    "pp": 25,
+    "prioridad": 0,
+    "generacion": "generation-i",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "mankey",
+        "primeape",
+        "machop",
+        "machoke",
+        "machamp",
+        "elekid",
+        "magby",
+        "sawk",
+        "pancham",
+        "pangoro",
+        "hawlucha"
+    ]
+}

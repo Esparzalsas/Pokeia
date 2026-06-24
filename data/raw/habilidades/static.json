@@ -1,0 +1,159 @@
+{
+    "pokemon": [
+        {
+            "nombre": "ampharos",
+            "oculta": false
+        },
+        {
+            "nombre": "arctozolt",
+            "oculta": false
+        },
+        {
+            "nombre": "bellibolt",
+            "oculta": false
+        },
+        {
+            "nombre": "electabuzz",
+            "oculta": false
+        },
+        {
+            "nombre": "electrike",
+            "oculta": false
+        },
+        {
+            "nombre": "electrode-hisui",
+            "oculta": false
+        },
+        {
+            "nombre": "electrode",
+            "oculta": false
+        },
+        {
+            "nombre": "elekid",
+            "oculta": false
+        },
+        {
+            "nombre": "emolga",
+            "oculta": false
+        },
+        {
+            "nombre": "flaaffy",
+            "oculta": false
+        },
+        {
+            "nombre": "manectric",
+            "oculta": false
+        },
+        {
+            "nombre": "mareep",
+            "oculta": false
+        },
+        {
+            "nombre": "pawmi",
+            "oculta": false
+        },
+        {
+            "nombre": "pichu",
+            "oculta": false
+        },
+        {
+            "nombre": "pikachu-alola-cap",
+            "oculta": false
+        },
+        {
+            "nombre": "pikachu-belle",
+            "oculta": false
+        },
+        {
+            "nombre": "pikachu-cosplay",
+            "oculta": false
+        },
+        {
+            "nombre": "pikachu-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "pikachu-hoenn-cap",
+            "oculta": false
+        },
+        {
+            "nombre": "pikachu-kalos-cap",
+            "oculta": false
+        },
+        {
+            "nombre": "pikachu-libre",
+            "oculta": false
+        },
+        {
+            "nombre": "pikachu-original-cap",
+            "oculta": false
+        },
+        {
+            "nombre": "pikachu-partner-cap",
+            "oculta": false
+        },
+        {
+            "nombre": "pikachu-phd",
+            "oculta": false
+        },
+        {
+            "nombre": "pikachu-pop-star",
+            "oculta": false
+        },
+        {
+            "nombre": "pikachu-rock-star",
+            "oculta": false
+        },
+        {
+            "nombre": "pikachu-sinnoh-cap",
+            "oculta": false
+        },
+        {
+            "nombre": "pikachu-starter",
+            "oculta": false
+        },
+        {
+            "nombre": "pikachu-unova-cap",
+            "oculta": false
+        },
+        {
+            "nombre": "pikachu-world-cap",
+            "oculta": false
+        },
+        {
+            "nombre": "pikachu",
+            "oculta": false
+        },
+        {
+            "nombre": "raichu",
+            "oculta": false
+        },
+        {
+            "nombre": "stunfisk",
+            "oculta": false
+        },
+        {
+            "nombre": "tadbulb",
+            "oculta": false
+        },
+        {
+            "nombre": "toxel",
+            "oculta": false
+        },
+        {
+            "nombre": "voltorb-hisui",
+            "oculta": false
+        },
+        {
+            "nombre": "voltorb",
+            "oculta": false
+        },
+        {
+            "nombre": "zapdos",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Elec. Estática",
+    "descripcion": "Puede paralizar al mínimo contacto.",
+    "generacion_introduccion": "generation-iii"
+}

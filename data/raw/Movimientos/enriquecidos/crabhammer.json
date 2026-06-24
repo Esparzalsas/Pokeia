@@ -1,0 +1,25 @@
+{
+    "id": 152,
+    "nombre_en": "crabhammer",
+    "nombre_es": "Martillazo",
+    "tipo": "water",
+    "categoria": "physical",
+    "potencia": 100,
+    "precision": 90,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-i",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "krabby",
+        "kingler",
+        "gligar",
+        "corphish",
+        "crawdaunt",
+        "gliscor",
+        "clauncher",
+        "clawitzer",
+        "crabrawler",
+        "klawf"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "id": 705,
+    "nombre_en": "fleur-cannon",
+    "nombre_es": "Cañón Floral",
+    "tipo": "fairy",
+    "categoria": "special",
+    "potencia": 130,
+    "precision": 90,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "magearna",
+        "magearna-original"
+    ]
+}

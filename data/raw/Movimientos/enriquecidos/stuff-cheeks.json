@@ -1,0 +1,19 @@
+{
+    "id": 747,
+    "nombre_en": "stuff-cheeks",
+    "nombre_es": "Atiborramiento",
+    "tipo": "normal",
+    "categoria": "status",
+    "potencia": null,
+    "precision": null,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "gulpin",
+        "skwovet",
+        "greedent",
+        "lechonk"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "id": 588,
+    "nombre_en": "kings-shield",
+    "nombre_es": "Escudo Real",
+    "tipo": "steel",
+    "categoria": "status",
+    "potencia": null,
+    "precision": null,
+    "pp": 10,
+    "prioridad": 4,
+    "generacion": "generation-vi",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "aegislash-shield",
+        "aegislash-blade"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "id": 603,
+    "nombre_en": "happy-hour",
+    "nombre_es": "Paga Extra",
+    "tipo": "normal",
+    "categoria": "status",
+    "potencia": null,
+    "precision": null,
+    "pp": 30,
+    "prioridad": 0,
+    "generacion": "generation-vi",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

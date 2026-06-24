@@ -1,0 +1,103 @@
+{
+    "pokemon": [
+        {
+            "nombre": "ariados",
+            "oculta": false
+        },
+        {
+            "nombre": "banette",
+            "oculta": false
+        },
+        {
+            "nombre": "capsakid",
+            "oculta": false
+        },
+        {
+            "nombre": "delibird",
+            "oculta": true
+        },
+        {
+            "nombre": "drowzee",
+            "oculta": false
+        },
+        {
+            "nombre": "gourgeist-average",
+            "oculta": true
+        },
+        {
+            "nombre": "gourgeist-large",
+            "oculta": true
+        },
+        {
+            "nombre": "gourgeist-small",
+            "oculta": true
+        },
+        {
+            "nombre": "gourgeist-super",
+            "oculta": true
+        },
+        {
+            "nombre": "honchkrow",
+            "oculta": false
+        },
+        {
+            "nombre": "hoothoot",
+            "oculta": false
+        },
+        {
+            "nombre": "hypno",
+            "oculta": false
+        },
+        {
+            "nombre": "mewtwo-mega-y",
+            "oculta": false
+        },
+        {
+            "nombre": "murkrow",
+            "oculta": false
+        },
+        {
+            "nombre": "noctowl",
+            "oculta": false
+        },
+        {
+            "nombre": "pumpkaboo-average",
+            "oculta": true
+        },
+        {
+            "nombre": "pumpkaboo-large",
+            "oculta": true
+        },
+        {
+            "nombre": "pumpkaboo-small",
+            "oculta": true
+        },
+        {
+            "nombre": "pumpkaboo-super",
+            "oculta": true
+        },
+        {
+            "nombre": "scovillain",
+            "oculta": false
+        },
+        {
+            "nombre": "shuppet",
+            "oculta": false
+        },
+        {
+            "nombre": "spidops",
+            "oculta": false
+        },
+        {
+            "nombre": "spinarak",
+            "oculta": false
+        },
+        {
+            "nombre": "tarountula",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Insomnio",
+    "descripcion": "Evita el quedarse dormido.",
+    "generacion_introduccion": "generation-iii"
+}

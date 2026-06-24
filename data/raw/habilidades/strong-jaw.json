@@ -1,0 +1,59 @@
+{
+    "pokemon": [
+        {
+            "nombre": "avalugg-hisui",
+            "oculta": false
+        },
+        {
+            "nombre": "boltund",
+            "oculta": false
+        },
+        {
+            "nombre": "bruxish",
+            "oculta": false
+        },
+        {
+            "nombre": "chewtle",
+            "oculta": false
+        },
+        {
+            "nombre": "dracovish",
+            "oculta": false
+        },
+        {
+            "nombre": "drednaw-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "drednaw",
+            "oculta": false
+        },
+        {
+            "nombre": "gumshoos-totem",
+            "oculta": false
+        },
+        {
+            "nombre": "gumshoos",
+            "oculta": false
+        },
+        {
+            "nombre": "sharpedo-mega",
+            "oculta": false
+        },
+        {
+            "nombre": "tyrantrum",
+            "oculta": false
+        },
+        {
+            "nombre": "tyrunt",
+            "oculta": false
+        },
+        {
+            "nombre": "yungoos",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Mandíbula Fuerte",
+    "descripcion": "Su robusta mandíbula le confiere una potente mordedura.",
+    "generacion_introduccion": "generation-vi"
+}

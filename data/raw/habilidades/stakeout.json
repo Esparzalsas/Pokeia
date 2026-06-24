@@ -1,0 +1,43 @@
+{
+    "pokemon": [
+        {
+            "nombre": "gumshoos-totem",
+            "oculta": false
+        },
+        {
+            "nombre": "gumshoos",
+            "oculta": false
+        },
+        {
+            "nombre": "mabosstiff",
+            "oculta": true
+        },
+        {
+            "nombre": "maschiff",
+            "oculta": true
+        },
+        {
+            "nombre": "nickit",
+            "oculta": true
+        },
+        {
+            "nombre": "spidops",
+            "oculta": true
+        },
+        {
+            "nombre": "tarountula",
+            "oculta": true
+        },
+        {
+            "nombre": "thievul",
+            "oculta": true
+        },
+        {
+            "nombre": "yungoos",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Vigilante",
+    "descripcion": "Duplica el daño infligido a un Pokémon que se haya incorporado al combate mediante un cambio.",
+    "generacion_introduccion": "generation-vii"
+}

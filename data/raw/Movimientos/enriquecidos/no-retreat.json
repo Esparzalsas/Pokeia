@@ -1,0 +1,16 @@
+{
+    "id": 748,
+    "nombre_en": "no-retreat",
+    "nombre_es": "Bastión Final",
+    "tipo": "fighting",
+    "categoria": "status",
+    "potencia": null,
+    "precision": null,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "falinks"
+    ]
+}

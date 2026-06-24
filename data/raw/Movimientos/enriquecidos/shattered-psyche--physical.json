@@ -1,0 +1,14 @@
+{
+    "id": 648,
+    "nombre_en": "shattered-psyche--physical",
+    "nombre_es": "Disruptor Psíquico",
+    "tipo": "psychic",
+    "categoria": "physical",
+    "potencia": null,
+    "precision": null,
+    "pp": 1,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

@@ -1,0 +1,33 @@
+{
+    "id": 217,
+    "nombre_en": "present",
+    "nombre_es": "Presente",
+    "tipo": "normal",
+    "categoria": "physical",
+    "potencia": null,
+    "precision": 90,
+    "pp": 15,
+    "prioridad": 0,
+    "generacion": "generation-ii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "clefairy",
+        "clefable",
+        "chansey",
+        "pichu",
+        "cleffa",
+        "igglybuff",
+        "togepi",
+        "marill",
+        "snubbull",
+        "granbull",
+        "delibird",
+        "miltank",
+        "blissey",
+        "azurill",
+        "happiny",
+        "togedemaru",
+        "iron-bundle",
+        "togedemaru-totem"
+    ]
+}

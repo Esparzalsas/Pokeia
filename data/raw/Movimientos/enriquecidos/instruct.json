@@ -1,0 +1,16 @@
+{
+    "id": 689,
+    "nombre_en": "instruct",
+    "nombre_es": "Mandato",
+    "tipo": "psychic",
+    "categoria": "status",
+    "potencia": null,
+    "precision": null,
+    "pp": 15,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "oranguru"
+    ]
+}

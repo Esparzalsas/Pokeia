@@ -1,0 +1,16 @@
+{
+    "id": 820,
+    "nombre_en": "dragon-energy",
+    "nombre_es": "Dracoenergía",
+    "tipo": "dragon",
+    "categoria": "special",
+    "potencia": 150,
+    "precision": 100,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "regidrago"
+    ]
+}

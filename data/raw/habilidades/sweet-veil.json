@@ -1,0 +1,51 @@
+{
+    "pokemon": [
+        {
+            "nombre": "alcremie-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "alcremie",
+            "oculta": false
+        },
+        {
+            "nombre": "bounsweet",
+            "oculta": true
+        },
+        {
+            "nombre": "cutiefly",
+            "oculta": true
+        },
+        {
+            "nombre": "milcery",
+            "oculta": false
+        },
+        {
+            "nombre": "ribombee-totem",
+            "oculta": true
+        },
+        {
+            "nombre": "ribombee",
+            "oculta": true
+        },
+        {
+            "nombre": "slurpuff",
+            "oculta": false
+        },
+        {
+            "nombre": "steenee",
+            "oculta": true
+        },
+        {
+            "nombre": "swirlix",
+            "oculta": false
+        },
+        {
+            "nombre": "tsareena",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Velo Dulce",
+    "descripcion": "Evita que tu equipo Pokémon se duerma.",
+    "generacion_introduccion": "generation-vi"
+}

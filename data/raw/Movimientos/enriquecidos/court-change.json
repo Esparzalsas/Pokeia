@@ -1,0 +1,16 @@
+{
+    "id": 756,
+    "nombre_en": "court-change",
+    "nombre_es": "Cambio de Cancha",
+    "tipo": "normal",
+    "categoria": "status",
+    "potencia": null,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "cinderace"
+    ]
+}

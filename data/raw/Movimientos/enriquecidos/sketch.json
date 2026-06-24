@@ -1,0 +1,16 @@
+{
+    "id": 166,
+    "nombre_en": "sketch",
+    "nombre_es": "Esquema",
+    "tipo": "normal",
+    "categoria": "status",
+    "potencia": null,
+    "precision": null,
+    "pp": 1,
+    "prioridad": 0,
+    "generacion": "generation-ii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "smeargle"
+    ]
+}

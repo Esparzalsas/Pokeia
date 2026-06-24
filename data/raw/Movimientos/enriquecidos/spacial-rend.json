@@ -1,0 +1,17 @@
+{
+    "id": 460,
+    "nombre_en": "spacial-rend",
+    "nombre_es": "Corte Vacío",
+    "tipo": "dragon",
+    "categoria": "special",
+    "potencia": 100,
+    "precision": 95,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-iv",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "palkia",
+        "palkia-origin"
+    ]
+}

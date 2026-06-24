@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "yveltal",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Aura Oscura",
+    "descripcion": "Aumenta la potencia de todos los movimientos de tipo Siniestro.",
+    "generacion_introduccion": "generation-vi"
+}

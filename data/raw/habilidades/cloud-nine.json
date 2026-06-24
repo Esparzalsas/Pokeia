@@ -1,0 +1,35 @@
+{
+    "pokemon": [
+        {
+            "nombre": "altaria",
+            "oculta": true
+        },
+        {
+            "nombre": "drampa",
+            "oculta": true
+        },
+        {
+            "nombre": "golduck",
+            "oculta": false
+        },
+        {
+            "nombre": "lickilicky",
+            "oculta": true
+        },
+        {
+            "nombre": "lickitung",
+            "oculta": true
+        },
+        {
+            "nombre": "psyduck",
+            "oculta": false
+        },
+        {
+            "nombre": "swablu",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Aclimatación",
+    "descripcion": "Anula los efectos del tiempo atmosférico.",
+    "generacion_introduccion": "generation-iii"
+}

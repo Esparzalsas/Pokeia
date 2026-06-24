@@ -1,0 +1,71 @@
+{
+    "pokemon": [
+        {
+            "nombre": "dubwool",
+            "oculta": false
+        },
+        {
+            "nombre": "farfetchd-galar",
+            "oculta": false
+        },
+        {
+            "nombre": "gallade",
+            "oculta": false
+        },
+        {
+            "nombre": "hitmontop",
+            "oculta": true
+        },
+        {
+            "nombre": "lucario",
+            "oculta": false
+        },
+        {
+            "nombre": "lycanroc-midday",
+            "oculta": true
+        },
+        {
+            "nombre": "machamp-gmax",
+            "oculta": true
+        },
+        {
+            "nombre": "machamp",
+            "oculta": true
+        },
+        {
+            "nombre": "machoke",
+            "oculta": true
+        },
+        {
+            "nombre": "machop",
+            "oculta": true
+        },
+        {
+            "nombre": "mewtwo-mega-x",
+            "oculta": false
+        },
+        {
+            "nombre": "riolu",
+            "oculta": false
+        },
+        {
+            "nombre": "rockruff",
+            "oculta": true
+        },
+        {
+            "nombre": "scyther",
+            "oculta": true
+        },
+        {
+            "nombre": "sirfetchd",
+            "oculta": false
+        },
+        {
+            "nombre": "tyrogue",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Impasible",
+    "descripcion": "Cada vez que retrocede sube su Velocidad.",
+    "generacion_introduccion": "generation-iv"
+}

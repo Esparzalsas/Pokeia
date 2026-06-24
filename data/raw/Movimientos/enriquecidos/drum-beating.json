@@ -1,0 +1,16 @@
+{
+    "id": 778,
+    "nombre_en": "drum-beating",
+    "nombre_es": "Batería Asalto",
+    "tipo": "grass",
+    "categoria": "physical",
+    "potencia": 80,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "rillaboom"
+    ]
+}

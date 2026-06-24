@@ -1,0 +1,43 @@
+{
+    "pokemon": [
+        {
+            "nombre": "arboliva",
+            "oculta": true
+        },
+        {
+            "nombre": "dolliv",
+            "oculta": true
+        },
+        {
+            "nombre": "exeggcute",
+            "oculta": true
+        },
+        {
+            "nombre": "exeggutor-alola",
+            "oculta": true
+        },
+        {
+            "nombre": "exeggutor",
+            "oculta": true
+        },
+        {
+            "nombre": "phantump",
+            "oculta": true
+        },
+        {
+            "nombre": "smoliv",
+            "oculta": true
+        },
+        {
+            "nombre": "trevenant",
+            "oculta": true
+        },
+        {
+            "nombre": "tropius",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Cosecha",
+    "descripcion": "Permite reutilizar varias veces una misma baya.",
+    "generacion_introduccion": "generation-v"
+}

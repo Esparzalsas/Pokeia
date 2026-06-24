@@ -1,0 +1,69 @@
+{
+    "id": 843,
+    "nombre": "silicobra",
+    "tipos": [
+        "ground"
+    ],
+    "stats_base": {
+        "hp": 52,
+        "attack": 57,
+        "defense": 75,
+        "special-attack": 35,
+        "special-defense": 50,
+        "speed": 46
+    },
+    "habilidades": {
+        "normales": [
+            "sand-spit",
+            "shed-skin"
+        ],
+        "oculta": "sand-veil"
+    },
+    "movimientos": [
+        "slam",
+        "sand-attack",
+        "headbutt",
+        "body-slam",
+        "wrap",
+        "take-down",
+        "earthquake",
+        "dig",
+        "screech",
+        "minimize",
+        "glare",
+        "rest",
+        "rock-slide",
+        "substitute",
+        "snore",
+        "protect",
+        "scary-face",
+        "mud-slap",
+        "sandstorm",
+        "endure",
+        "attract",
+        "sleep-talk",
+        "facade",
+        "rock-tomb",
+        "sand-tomb",
+        "mud-shot",
+        "poison-tail",
+        "rock-blast",
+        "last-resort",
+        "dragon-rush",
+        "earth-power",
+        "stone-edge",
+        "stealth-rock",
+        "coil",
+        "round",
+        "bulldoze",
+        "drill-run",
+        "belch",
+        "brutal-swing",
+        "scale-shot",
+        "skitter-smack",
+        "scorching-sands",
+        "tera-blast"
+    ],
+    "peso": 76,
+    "altura": 22
+}

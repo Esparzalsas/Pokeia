@@ -1,0 +1,30 @@
+{
+    "id": 10,
+    "nombre": "caterpie",
+    "tipos": [
+        "bug"
+    ],
+    "stats_base": {
+        "hp": 45,
+        "attack": 30,
+        "defense": 35,
+        "special-attack": 20,
+        "special-defense": 20,
+        "speed": 45
+    },
+    "habilidades": {
+        "normales": [
+            "shield-dust"
+        ],
+        "oculta": "run-away"
+    },
+    "movimientos": [
+        "tackle",
+        "string-shot",
+        "snore",
+        "bug-bite",
+        "electroweb"
+    ],
+    "peso": 29,
+    "altura": 3
+}

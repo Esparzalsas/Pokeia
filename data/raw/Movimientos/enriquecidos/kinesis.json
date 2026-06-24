@@ -1,0 +1,18 @@
+{
+    "id": 134,
+    "nombre_en": "kinesis",
+    "nombre_es": "Kinético",
+    "tipo": "psychic",
+    "categoria": "status",
+    "potencia": null,
+    "precision": 80,
+    "pp": 15,
+    "prioridad": 0,
+    "generacion": "generation-i",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "kadabra",
+        "alakazam",
+        "alakazam-mega"
+    ]
+}

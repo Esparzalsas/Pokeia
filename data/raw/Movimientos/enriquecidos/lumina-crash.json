@@ -1,0 +1,16 @@
+{
+    "id": 855,
+    "nombre_en": "lumina-crash",
+    "nombre_es": null,
+    "tipo": "psychic",
+    "categoria": "special",
+    "potencia": 80,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "espathra"
+    ]
+}

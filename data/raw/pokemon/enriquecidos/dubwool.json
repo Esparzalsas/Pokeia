@@ -1,0 +1,64 @@
+{
+    "id": 832,
+    "nombre": "dubwool",
+    "tipos": [
+        "normal"
+    ],
+    "stats_base": {
+        "hp": 72,
+        "attack": 80,
+        "defense": 100,
+        "special-attack": 60,
+        "special-defense": 90,
+        "speed": 88
+    },
+    "habilidades": {
+        "normales": [
+            "fluffy",
+            "steadfast"
+        ],
+        "oculta": "bulletproof"
+    },
+    "movimientos": [
+        "swords-dance",
+        "double-kick",
+        "mega-kick",
+        "headbutt",
+        "tackle",
+        "body-slam",
+        "take-down",
+        "double-edge",
+        "growl",
+        "hyper-beam",
+        "thunder-wave",
+        "agility",
+        "defense-curl",
+        "rest",
+        "substitute",
+        "snore",
+        "reversal",
+        "protect",
+        "endure",
+        "attract",
+        "sleep-talk",
+        "baton-pass",
+        "facade",
+        "bounce",
+        "payback",
+        "copycat",
+        "guard-swap",
+        "last-resort",
+        "giga-impact",
+        "zen-headbutt",
+        "guard-split",
+        "electro-ball",
+        "round",
+        "retaliate",
+        "wild-charge",
+        "cotton-guard",
+        "body-press",
+        "grassy-glide"
+    ],
+    "peso": 430,
+    "altura": 13
+}

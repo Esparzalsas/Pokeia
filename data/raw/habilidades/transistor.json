@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "regieleki",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Transistor",
+    "descripcion": "Potencia los movimientos de tipo Eléctrico.",
+    "generacion_introduccion": "generation-viii"
+}

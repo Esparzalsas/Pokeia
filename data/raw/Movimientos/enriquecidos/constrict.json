@@ -1,0 +1,33 @@
+{
+    "id": 132,
+    "nombre_en": "constrict",
+    "nombre_es": "Restricción",
+    "tipo": "normal",
+    "categoria": "physical",
+    "potencia": 10,
+    "precision": 100,
+    "pp": 35,
+    "prioridad": 0,
+    "generacion": "generation-i",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "tentacool",
+        "tentacruel",
+        "tangela",
+        "omanyte",
+        "omastar",
+        "spinarak",
+        "ariados",
+        "shuckle",
+        "octillery",
+        "lileep",
+        "cradily",
+        "drifloon",
+        "drifblim",
+        "tangrowth",
+        "frillish",
+        "inkay",
+        "malamar",
+        "nihilego"
+    ]
+}

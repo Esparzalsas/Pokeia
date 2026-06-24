@@ -1,0 +1,15 @@
+{
+    "pokemon": [
+        {
+            "nombre": "morpeko-full-belly",
+            "oculta": false
+        },
+        {
+            "nombre": "morpeko-hangry",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Mutapetito",
+    "descripcion": "Alterna entre su Forma Saciada y Forma Voraz al final de cada turno.",
+    "generacion_introduccion": "generation-viii"
+}

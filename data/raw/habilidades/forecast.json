@@ -1,0 +1,23 @@
+{
+    "pokemon": [
+        {
+            "nombre": "castform-rainy",
+            "oculta": false
+        },
+        {
+            "nombre": "castform-snowy",
+            "oculta": false
+        },
+        {
+            "nombre": "castform-sunny",
+            "oculta": false
+        },
+        {
+            "nombre": "castform",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Predicción",
+    "descripcion": "Se transforma según el tiempo atmosférico.",
+    "generacion_introduccion": "generation-iii"
+}

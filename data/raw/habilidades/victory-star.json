@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "victini",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Tinovictoria",
+    "descripcion": "Sube la Precisión de todo el equipo.",
+    "generacion_introduccion": "generation-v"
+}

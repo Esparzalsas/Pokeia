@@ -1,0 +1,15 @@
+{
+    "pokemon": [
+        {
+            "nombre": "mr-mime-galar",
+            "oculta": false
+        },
+        {
+            "nombre": "mr-rime",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Antibarrera",
+    "descripcion": "Anula los efectos de Pantalla de Luz, Reflejo y Velo Aurora tanto de rivales como de aliados al entrar en combate.",
+    "generacion_introduccion": "generation-viii"
+}

@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "shedinja",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Superguarda",
+    "descripcion": "Solo le hacen daño los movimientos supereficaces.",
+    "generacion_introduccion": "generation-iii"
+}

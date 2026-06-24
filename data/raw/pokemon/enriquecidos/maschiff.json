@@ -1,0 +1,69 @@
+{
+    "id": 942,
+    "nombre": "maschiff",
+    "tipos": [
+        "dark"
+    ],
+    "stats_base": {
+        "hp": 60,
+        "attack": 78,
+        "defense": 60,
+        "special-attack": 40,
+        "special-defense": 51,
+        "speed": 51
+    },
+    "habilidades": {
+        "normales": [
+            "intimidate",
+            "run-away"
+        ],
+        "oculta": "stakeout"
+    },
+    "movimientos": [
+        "headbutt",
+        "tackle",
+        "body-slam",
+        "take-down",
+        "double-edge",
+        "leer",
+        "bite",
+        "roar",
+        "dig",
+        "lick",
+        "rest",
+        "substitute",
+        "thief",
+        "reversal",
+        "protect",
+        "scary-face",
+        "destiny-bond",
+        "endure",
+        "charm",
+        "swagger",
+        "sleep-talk",
+        "rain-dance",
+        "sunny-day",
+        "crunch",
+        "facade",
+        "taunt",
+        "helping-hand",
+        "endeavor",
+        "fake-tears",
+        "payback",
+        "dark-pulse",
+        "thunder-fang",
+        "ice-fang",
+        "fire-fang",
+        "hone-claws",
+        "retaliate",
+        "snarl",
+        "play-rough",
+        "psychic-fangs",
+        "jaw-lock",
+        "lash-out",
+        "tera-blast",
+        "trailblaze"
+    ],
+    "peso": 160,
+    "altura": 5
+}

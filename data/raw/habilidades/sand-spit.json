@@ -1,0 +1,19 @@
+{
+    "pokemon": [
+        {
+            "nombre": "sandaconda-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "sandaconda",
+            "oculta": false
+        },
+        {
+            "nombre": "silicobra",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Expulsarena",
+    "descripcion": "Provoca una tormenta de arena al recibir un ataque.",
+    "generacion_introduccion": "generation-viii"
+}

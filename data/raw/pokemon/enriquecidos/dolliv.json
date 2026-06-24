@@ -1,0 +1,59 @@
+{
+    "id": 929,
+    "nombre": "dolliv",
+    "tipos": [
+        "grass",
+        "normal"
+    ],
+    "stats_base": {
+        "hp": 52,
+        "attack": 53,
+        "defense": 60,
+        "special-attack": 78,
+        "special-defense": 78,
+        "speed": 33
+    },
+    "habilidades": {
+        "normales": [
+            "early-bird"
+        ],
+        "oculta": "harvest"
+    },
+    "movimientos": [
+        "tackle",
+        "absorb",
+        "mega-drain",
+        "leech-seed",
+        "growth",
+        "razor-leaf",
+        "solar-beam",
+        "swift",
+        "rest",
+        "substitute",
+        "flail",
+        "protect",
+        "giga-drain",
+        "endure",
+        "charm",
+        "sleep-talk",
+        "sweet-scent",
+        "sunny-day",
+        "facade",
+        "helping-hand",
+        "weather-ball",
+        "bullet-seed",
+        "magical-leaf",
+        "seed-bomb",
+        "energy-ball",
+        "earth-power",
+        "leaf-storm",
+        "grass-knot",
+        "grassy-terrain",
+        "solar-blade",
+        "terrain-pulse",
+        "tera-blast",
+        "trailblaze"
+    ],
+    "peso": 119,
+    "altura": 6
+}

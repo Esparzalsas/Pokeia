@@ -1,0 +1,73 @@
+{
+    "id": 947,
+    "nombre": "brambleghast",
+    "tipos": [
+        "grass",
+        "ghost"
+    ],
+    "stats_base": {
+        "hp": 55,
+        "attack": 115,
+        "defense": 70,
+        "special-attack": 80,
+        "special-defense": 70,
+        "speed": 90
+    },
+    "habilidades": {
+        "normales": [
+            "wind-rider"
+        ],
+        "oculta": "infiltrator"
+    },
+    "movimientos": [
+        "disable",
+        "hyper-beam",
+        "absorb",
+        "mega-drain",
+        "leech-seed",
+        "solar-beam",
+        "night-shade",
+        "confuse-ray",
+        "defense-curl",
+        "rest",
+        "substitute",
+        "thief",
+        "curse",
+        "spite",
+        "protect",
+        "scary-face",
+        "spikes",
+        "giga-drain",
+        "endure",
+        "rollout",
+        "sleep-talk",
+        "pain-split",
+        "rapid-spin",
+        "shadow-ball",
+        "beat-up",
+        "facade",
+        "astonish",
+        "bullet-seed",
+        "block",
+        "seed-bomb",
+        "energy-ball",
+        "giga-impact",
+        "shadow-sneak",
+        "leaf-storm",
+        "power-whip",
+        "grass-knot",
+        "hex",
+        "phantom-force",
+        "grassy-terrain",
+        "infestation",
+        "strength-sap",
+        "grassy-glide",
+        "skitter-smack",
+        "poltergeist",
+        "tera-blast",
+        "pounce",
+        "trailblaze"
+    ],
+    "peso": 60,
+    "altura": 12
+}

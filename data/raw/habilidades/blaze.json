@@ -1,0 +1,135 @@
+{
+    "pokemon": [
+        {
+            "nombre": "blaziken",
+            "oculta": false
+        },
+        {
+            "nombre": "braixen",
+            "oculta": false
+        },
+        {
+            "nombre": "charizard-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "charizard",
+            "oculta": false
+        },
+        {
+            "nombre": "charmander",
+            "oculta": false
+        },
+        {
+            "nombre": "charmeleon",
+            "oculta": false
+        },
+        {
+            "nombre": "chimchar",
+            "oculta": false
+        },
+        {
+            "nombre": "cinderace-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "cinderace",
+            "oculta": false
+        },
+        {
+            "nombre": "combusken",
+            "oculta": false
+        },
+        {
+            "nombre": "crocalor",
+            "oculta": false
+        },
+        {
+            "nombre": "cyndaquil",
+            "oculta": false
+        },
+        {
+            "nombre": "delphox",
+            "oculta": false
+        },
+        {
+            "nombre": "emboar",
+            "oculta": false
+        },
+        {
+            "nombre": "fennekin",
+            "oculta": false
+        },
+        {
+            "nombre": "fuecoco",
+            "oculta": false
+        },
+        {
+            "nombre": "incineroar",
+            "oculta": false
+        },
+        {
+            "nombre": "infernape",
+            "oculta": false
+        },
+        {
+            "nombre": "litten",
+            "oculta": false
+        },
+        {
+            "nombre": "monferno",
+            "oculta": false
+        },
+        {
+            "nombre": "pansear",
+            "oculta": true
+        },
+        {
+            "nombre": "pignite",
+            "oculta": false
+        },
+        {
+            "nombre": "quilava",
+            "oculta": false
+        },
+        {
+            "nombre": "raboot",
+            "oculta": false
+        },
+        {
+            "nombre": "scorbunny",
+            "oculta": false
+        },
+        {
+            "nombre": "simisear",
+            "oculta": true
+        },
+        {
+            "nombre": "skeledirge",
+            "oculta": false
+        },
+        {
+            "nombre": "tepig",
+            "oculta": false
+        },
+        {
+            "nombre": "torchic",
+            "oculta": false
+        },
+        {
+            "nombre": "torracat",
+            "oculta": false
+        },
+        {
+            "nombre": "typhlosion-hisui",
+            "oculta": false
+        },
+        {
+            "nombre": "typhlosion",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Mar Llamas",
+    "descripcion": "Potencia los ataques de tipo Fuego en un apuro.",
+    "generacion_introduccion": "generation-iii"
+}

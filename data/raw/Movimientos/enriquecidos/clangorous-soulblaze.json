@@ -1,0 +1,14 @@
+{
+    "id": 728,
+    "nombre_en": "clangorous-soulblaze",
+    "nombre_es": "Estruendo Implacable",
+    "tipo": "dragon",
+    "categoria": "special",
+    "potencia": 185,
+    "precision": null,
+    "pp": 1,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

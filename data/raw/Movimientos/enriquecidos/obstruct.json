@@ -1,0 +1,16 @@
+{
+    "id": 792,
+    "nombre_en": "obstruct",
+    "nombre_es": "Obstrucción",
+    "tipo": "dark",
+    "categoria": "status",
+    "potencia": null,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 4,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "obstagoon"
+    ]
+}

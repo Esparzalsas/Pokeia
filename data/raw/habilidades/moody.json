@@ -1,0 +1,39 @@
+{
+    "pokemon": [
+        {
+            "nombre": "bibarel",
+            "oculta": true
+        },
+        {
+            "nombre": "bidoof",
+            "oculta": true
+        },
+        {
+            "nombre": "glalie",
+            "oculta": true
+        },
+        {
+            "nombre": "octillery",
+            "oculta": true
+        },
+        {
+            "nombre": "remoraid",
+            "oculta": true
+        },
+        {
+            "nombre": "scovillain",
+            "oculta": true
+        },
+        {
+            "nombre": "smeargle",
+            "oculta": true
+        },
+        {
+            "nombre": "snorunt",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Veleta",
+    "descripcion": "Sube una característica mucho, pero baja otra.",
+    "generacion_introduccion": "generation-v"
+}

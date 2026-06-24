@@ -1,0 +1,62 @@
+{
+    "id": 997,
+    "nombre": "arctibax",
+    "tipos": [
+        "dragon",
+        "ice"
+    ],
+    "stats_base": {
+        "hp": 90,
+        "attack": 95,
+        "defense": 66,
+        "special-attack": 45,
+        "special-defense": 65,
+        "speed": 62
+    },
+    "habilidades": {
+        "normales": [
+            "thermal-exchange"
+        ],
+        "oculta": "ice-body"
+    },
+    "movimientos": [
+        "swords-dance",
+        "tackle",
+        "body-slam",
+        "take-down",
+        "leer",
+        "bite",
+        "ice-beam",
+        "blizzard",
+        "dig",
+        "focus-energy",
+        "rest",
+        "substitute",
+        "protect",
+        "scary-face",
+        "icy-wind",
+        "outrage",
+        "endure",
+        "sleep-talk",
+        "dragon-breath",
+        "rain-dance",
+        "crunch",
+        "facade",
+        "helping-hand",
+        "brick-break",
+        "aerial-ace",
+        "icicle-spear",
+        "dragon-claw",
+        "dragon-pulse",
+        "avalanche",
+        "ice-fang",
+        "draco-meteor",
+        "iron-head",
+        "dragon-tail",
+        "icicle-crash",
+        "tera-blast",
+        "snowscape"
+    ],
+    "peso": 300,
+    "altura": 8
+}

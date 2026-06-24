@@ -1,0 +1,29 @@
+{
+    "id": 379,
+    "nombre_en": "power-trick",
+    "nombre_es": "Truco Fuerza",
+    "tipo": "psychic",
+    "categoria": "status",
+    "potencia": null,
+    "precision": null,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-iv",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "abra",
+        "machop",
+        "pineco",
+        "gligar",
+        "shuckle",
+        "meditite",
+        "medicham",
+        "baltoy",
+        "claydol",
+        "honedge",
+        "doublade",
+        "aegislash-shield",
+        "aegislash-blade",
+        "medicham-mega"
+    ]
+}

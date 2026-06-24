@@ -1,0 +1,16 @@
+{
+    "id": 736,
+    "nombre_en": "glitzy-glow",
+    "nombre_es": "Espeaura",
+    "tipo": "psychic",
+    "categoria": "special",
+    "potencia": 80,
+    "precision": 95,
+    "pp": 15,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "eevee-starter"
+    ]
+}

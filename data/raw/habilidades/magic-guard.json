@@ -1,0 +1,47 @@
+{
+    "pokemon": [
+        {
+            "nombre": "abra",
+            "oculta": true
+        },
+        {
+            "nombre": "alakazam",
+            "oculta": true
+        },
+        {
+            "nombre": "clefable",
+            "oculta": false
+        },
+        {
+            "nombre": "clefairy",
+            "oculta": false
+        },
+        {
+            "nombre": "cleffa",
+            "oculta": false
+        },
+        {
+            "nombre": "duosion",
+            "oculta": false
+        },
+        {
+            "nombre": "kadabra",
+            "oculta": true
+        },
+        {
+            "nombre": "reuniclus",
+            "oculta": false
+        },
+        {
+            "nombre": "sigilyph",
+            "oculta": false
+        },
+        {
+            "nombre": "solosis",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Muro Mágico",
+    "descripcion": "Solo dañan al Pokémon los ataques directos.",
+    "generacion_introduccion": "generation-iv"
+}

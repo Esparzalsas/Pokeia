@@ -1,0 +1,18 @@
+{
+    "id": 294,
+    "nombre_en": "tail-glow",
+    "nombre_es": "Ráfaga",
+    "tipo": "bug",
+    "categoria": "status",
+    "potencia": null,
+    "precision": null,
+    "pp": 20,
+    "prioridad": 0,
+    "generacion": "generation-iii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "volbeat",
+        "manaphy",
+        "xurkitree"
+    ]
+}

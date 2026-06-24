@@ -1,0 +1,16 @@
+{
+    "id": 714,
+    "nombre_en": "moongeist-beam",
+    "nombre_es": "Rayo Umbrío",
+    "tipo": "ghost",
+    "categoria": "special",
+    "potencia": 100,
+    "precision": 100,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "lunala"
+    ]
+}

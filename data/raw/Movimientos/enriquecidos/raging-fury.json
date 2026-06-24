@@ -1,0 +1,19 @@
+{
+    "id": 833,
+    "nombre_en": "raging-fury",
+    "nombre_es": null,
+    "tipo": "fire",
+    "categoria": "physical",
+    "potencia": 120,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "growlithe",
+        "infernape",
+        "gouging-fire",
+        "arcanine-hisui"
+    ]
+}

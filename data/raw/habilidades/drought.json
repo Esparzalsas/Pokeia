@@ -1,0 +1,27 @@
+{
+    "pokemon": [
+        {
+            "nombre": "charizard-mega-y",
+            "oculta": false
+        },
+        {
+            "nombre": "groudon",
+            "oculta": false
+        },
+        {
+            "nombre": "ninetales",
+            "oculta": true
+        },
+        {
+            "nombre": "torkoal",
+            "oculta": false
+        },
+        {
+            "nombre": "vulpix",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Sequía",
+    "descripcion": "El sol sale si el Pokémon entra en combate.",
+    "generacion_introduccion": "generation-iii"
+}

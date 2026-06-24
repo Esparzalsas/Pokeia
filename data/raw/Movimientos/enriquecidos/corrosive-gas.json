@@ -1,0 +1,32 @@
+{
+    "id": 810,
+    "nombre_en": "corrosive-gas",
+    "nombre_es": "Gas Corrosivo",
+    "tipo": "poison",
+    "categoria": "status",
+    "potencia": null,
+    "precision": 100,
+    "pp": 40,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "vileplume",
+        "tentacruel",
+        "gastly",
+        "haunter",
+        "gengar",
+        "koffing",
+        "weezing",
+        "mew",
+        "stunky",
+        "skuntank",
+        "toxicroak",
+        "trubbish",
+        "garbodor",
+        "salazzle",
+        "nihilego",
+        "guzzlord",
+        "weezing-galar"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "spectrier",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Relincho Negro",
+    "descripcion": "Al derrotar a un objetivo, emite un relincho aterrador y aumenta su Ataque Especial.",
+    "generacion_introduccion": "generation-viii"
+}

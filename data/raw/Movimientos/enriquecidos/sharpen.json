@@ -1,0 +1,22 @@
+{
+    "id": 159,
+    "nombre_en": "sharpen",
+    "nombre_es": "Afilar",
+    "tipo": "normal",
+    "categoria": "status",
+    "potencia": null,
+    "precision": null,
+    "pp": 30,
+    "prioridad": 0,
+    "generacion": "generation-i",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "porygon",
+        "cryogonal",
+        "carbink",
+        "bergmite",
+        "avalugg",
+        "diancie",
+        "diancie-mega"
+    ]
+}

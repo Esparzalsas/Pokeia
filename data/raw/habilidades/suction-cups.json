@@ -1,0 +1,27 @@
+{
+    "pokemon": [
+        {
+            "nombre": "cradily",
+            "oculta": false
+        },
+        {
+            "nombre": "inkay",
+            "oculta": false
+        },
+        {
+            "nombre": "lileep",
+            "oculta": false
+        },
+        {
+            "nombre": "malamar",
+            "oculta": false
+        },
+        {
+            "nombre": "octillery",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Ventosas",
+    "descripcion": "Anula movimientos y objetos que fuerzan el relevo.",
+    "generacion_introduccion": "generation-iii"
+}

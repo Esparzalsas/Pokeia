@@ -1,0 +1,19 @@
+{
+    "id": 854,
+    "nombre_en": "last-respects",
+    "nombre_es": null,
+    "tipo": "ghost",
+    "categoria": "physical",
+    "potencia": 50,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "basculegion-male",
+        "houndstone",
+        "basculin-white-striped",
+        "basculegion-female"
+    ]
+}

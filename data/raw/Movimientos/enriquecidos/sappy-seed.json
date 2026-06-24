@@ -1,0 +1,16 @@
+{
+    "id": 738,
+    "nombre_en": "sappy-seed",
+    "nombre_es": "Leafitobombas",
+    "tipo": "grass",
+    "categoria": "physical",
+    "potencia": 100,
+    "precision": 90,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "eevee-starter"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "raichu-alola",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Cola Surf",
+    "descripcion": "Duplica la Velocidad si hay un campo eléctrico en el terreno de combate.",
+    "generacion_introduccion": "generation-vii"
+}

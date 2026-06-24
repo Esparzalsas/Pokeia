@@ -1,0 +1,87 @@
+{
+    "pokemon": [
+        {
+            "nombre": "banette-mega",
+            "oculta": false
+        },
+        {
+            "nombre": "cottonee",
+            "oculta": false
+        },
+        {
+            "nombre": "grafaiai",
+            "oculta": true
+        },
+        {
+            "nombre": "grimmsnarl-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "grimmsnarl",
+            "oculta": false
+        },
+        {
+            "nombre": "illumise",
+            "oculta": true
+        },
+        {
+            "nombre": "impidimp",
+            "oculta": false
+        },
+        {
+            "nombre": "klefki",
+            "oculta": false
+        },
+        {
+            "nombre": "liepard",
+            "oculta": true
+        },
+        {
+            "nombre": "meowstic-male",
+            "oculta": true
+        },
+        {
+            "nombre": "morgrem",
+            "oculta": false
+        },
+        {
+            "nombre": "murkrow",
+            "oculta": true
+        },
+        {
+            "nombre": "purrloin",
+            "oculta": true
+        },
+        {
+            "nombre": "riolu",
+            "oculta": true
+        },
+        {
+            "nombre": "sableye",
+            "oculta": true
+        },
+        {
+            "nombre": "shroodle",
+            "oculta": true
+        },
+        {
+            "nombre": "thundurus-incarnate",
+            "oculta": false
+        },
+        {
+            "nombre": "tornadus-incarnate",
+            "oculta": false
+        },
+        {
+            "nombre": "volbeat",
+            "oculta": true
+        },
+        {
+            "nombre": "whimsicott",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Bromista",
+    "descripcion": "Permite lanzar ataques de estado en primer lugar.",
+    "generacion_introduccion": "generation-v"
+}

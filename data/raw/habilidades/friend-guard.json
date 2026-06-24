@@ -1,0 +1,47 @@
+{
+    "pokemon": [
+        {
+            "nombre": "clefairy",
+            "oculta": true
+        },
+        {
+            "nombre": "cleffa",
+            "oculta": true
+        },
+        {
+            "nombre": "happiny",
+            "oculta": true
+        },
+        {
+            "nombre": "igglybuff",
+            "oculta": true
+        },
+        {
+            "nombre": "jigglypuff",
+            "oculta": true
+        },
+        {
+            "nombre": "maushold-family-of-four",
+            "oculta": false
+        },
+        {
+            "nombre": "maushold-family-of-three",
+            "oculta": false
+        },
+        {
+            "nombre": "scatterbug",
+            "oculta": true
+        },
+        {
+            "nombre": "spewpa",
+            "oculta": true
+        },
+        {
+            "nombre": "vivillon",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Compiescolta",
+    "descripcion": "Reduce el daño que sufren los aliados.",
+    "generacion_introduccion": "generation-v"
+}

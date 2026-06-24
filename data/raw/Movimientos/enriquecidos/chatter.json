@@ -1,0 +1,16 @@
+{
+    "id": 448,
+    "nombre_en": "chatter",
+    "nombre_es": "Cháchara",
+    "tipo": "flying",
+    "categoria": "special",
+    "potencia": 65,
+    "precision": 100,
+    "pp": 20,
+    "prioridad": 0,
+    "generacion": "generation-iv",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "chatot"
+    ]
+}

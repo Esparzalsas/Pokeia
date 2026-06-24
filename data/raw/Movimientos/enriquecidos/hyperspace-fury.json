@@ -1,0 +1,16 @@
+{
+    "id": 621,
+    "nombre_en": "hyperspace-fury",
+    "nombre_es": "Cerco Dimensión",
+    "tipo": "dark",
+    "categoria": "physical",
+    "potencia": 100,
+    "precision": null,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-vi",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "hoopa-unbound"
+    ]
+}

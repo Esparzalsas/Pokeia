@@ -1,0 +1,15 @@
+{
+    "pokemon": [
+        {
+            "nombre": "tapu-fini",
+            "oculta": false
+        },
+        {
+            "nombre": "weezing-galar",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Nebulogénesis",
+    "descripcion": "Crea un campo de niebla al entrar en combate.",
+    "generacion_introduccion": "generation-vii"
+}

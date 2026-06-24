@@ -1,0 +1,20 @@
+{
+    "id": 878,
+    "nombre_en": "collision-course",
+    "nombre_es": null,
+    "tipo": "fighting",
+    "categoria": "physical",
+    "potencia": 100,
+    "precision": 100,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "koraidon",
+        "koraidon-limited-build",
+        "koraidon-sprinting-build",
+        "koraidon-swimming-build",
+        "koraidon-gliding-build"
+    ]
+}

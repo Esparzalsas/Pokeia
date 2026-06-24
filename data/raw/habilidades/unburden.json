@@ -1,0 +1,75 @@
+{
+    "pokemon": [
+        {
+            "nombre": "accelgor",
+            "oculta": true
+        },
+        {
+            "nombre": "drifblim",
+            "oculta": false
+        },
+        {
+            "nombre": "drifloon",
+            "oculta": false
+        },
+        {
+            "nombre": "grafaiai",
+            "oculta": false
+        },
+        {
+            "nombre": "grovyle",
+            "oculta": true
+        },
+        {
+            "nombre": "hawlucha",
+            "oculta": false
+        },
+        {
+            "nombre": "hitmonlee",
+            "oculta": true
+        },
+        {
+            "nombre": "liepard",
+            "oculta": false
+        },
+        {
+            "nombre": "nickit",
+            "oculta": false
+        },
+        {
+            "nombre": "purrloin",
+            "oculta": false
+        },
+        {
+            "nombre": "sceptile",
+            "oculta": true
+        },
+        {
+            "nombre": "shroodle",
+            "oculta": false
+        },
+        {
+            "nombre": "slurpuff",
+            "oculta": true
+        },
+        {
+            "nombre": "sneasler",
+            "oculta": false
+        },
+        {
+            "nombre": "swirlix",
+            "oculta": true
+        },
+        {
+            "nombre": "thievul",
+            "oculta": false
+        },
+        {
+            "nombre": "treecko",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Liviano",
+    "descripcion": "Sube la Velocidad si usa o pierde el objeto que lleve.",
+    "generacion_introduccion": "generation-iv"
+}

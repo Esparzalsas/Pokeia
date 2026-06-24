@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "slowbro-galar",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Mano Rápida",
+    "descripcion": "A veces, puede atacar el primero.",
+    "generacion_introduccion": "generation-viii"
+}

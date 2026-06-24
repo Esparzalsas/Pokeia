@@ -1,0 +1,71 @@
+{
+    "id": 816,
+    "nombre": "sobble",
+    "tipos": [
+        "water"
+    ],
+    "stats_base": {
+        "hp": 50,
+        "attack": 40,
+        "defense": 40,
+        "special-attack": 70,
+        "special-defense": 40,
+        "speed": 70
+    },
+    "habilidades": {
+        "normales": [
+            "torrent"
+        ],
+        "oculta": "sniper"
+    },
+    "movimientos": [
+        "pound",
+        "bind",
+        "take-down",
+        "growl",
+        "mist",
+        "water-gun",
+        "hydro-pump",
+        "surf",
+        "double-team",
+        "light-screen",
+        "haze",
+        "reflect",
+        "waterfall",
+        "swift",
+        "rest",
+        "substitute",
+        "snore",
+        "protect",
+        "endure",
+        "attract",
+        "sleep-talk",
+        "safeguard",
+        "baton-pass",
+        "rain-dance",
+        "whirlpool",
+        "facade",
+        "dive",
+        "weather-ball",
+        "muddy-water",
+        "bounce",
+        "mud-shot",
+        "water-pulse",
+        "u-turn",
+        "sucker-punch",
+        "aqua-ring",
+        "ice-shard",
+        "aqua-jet",
+        "soak",
+        "round",
+        "water-pledge",
+        "work-up",
+        "fell-stinger",
+        "liquidation",
+        "tearful-look",
+        "tera-blast",
+        "chilling-water"
+    ],
+    "peso": 40,
+    "altura": 3
+}

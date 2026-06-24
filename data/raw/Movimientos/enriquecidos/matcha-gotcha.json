@@ -1,0 +1,16 @@
+{
+    "id": 902,
+    "nombre_en": "matcha-gotcha",
+    "nombre_es": null,
+    "tipo": "grass",
+    "categoria": "special",
+    "potencia": 80,
+    "precision": 90,
+    "pp": 15,
+    "prioridad": 0,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "sinistcha"
+    ]
+}

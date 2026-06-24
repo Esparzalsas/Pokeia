@@ -1,0 +1,17 @@
+{
+    "id": 828,
+    "nombre_en": "psyshield-bash",
+    "nombre_es": null,
+    "tipo": "psychic",
+    "categoria": "physical",
+    "potencia": 70,
+    "precision": 90,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "stantler",
+        "wyrdeer"
+    ]
+}

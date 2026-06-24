@@ -1,0 +1,16 @@
+{
+    "id": 787,
+    "nombre_en": "apple-acid",
+    "nombre_es": "Ácido Málico",
+    "tipo": "grass",
+    "categoria": "special",
+    "potencia": 80,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "appletun"
+    ]
+}

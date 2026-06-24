@@ -1,0 +1,67 @@
+{
+    "id": 852,
+    "nombre": "clobbopus",
+    "tipos": [
+        "fighting"
+    ],
+    "stats_base": {
+        "hp": 50,
+        "attack": 68,
+        "defense": 60,
+        "special-attack": 50,
+        "special-defense": 50,
+        "speed": 32
+    },
+    "habilidades": {
+        "normales": [
+            "limber"
+        ],
+        "oculta": "technician"
+    },
+    "movimientos": [
+        "mega-punch",
+        "ice-punch",
+        "bind",
+        "body-slam",
+        "leer",
+        "submission",
+        "seismic-toss",
+        "waterfall",
+        "rest",
+        "substitute",
+        "snore",
+        "reversal",
+        "protect",
+        "detect",
+        "endure",
+        "attract",
+        "sleep-talk",
+        "pain-split",
+        "rock-smash",
+        "facade",
+        "taunt",
+        "superpower",
+        "revenge",
+        "brick-break",
+        "dive",
+        "muddy-water",
+        "bulk-up",
+        "mud-shot",
+        "brine",
+        "feint",
+        "close-combat",
+        "payback",
+        "sucker-punch",
+        "focus-blast",
+        "soak",
+        "round",
+        "circle-throw",
+        "retaliate",
+        "work-up",
+        "power-up-punch",
+        "liquidation",
+        "coaching"
+    ],
+    "peso": 40,
+    "altura": 6
+}

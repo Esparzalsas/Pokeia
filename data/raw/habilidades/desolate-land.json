@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "groudon-primal",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Tierra del Ocaso",
+    "descripcion": "Altera el clima para anular los ataques de tipo Agua.",
+    "generacion_introduccion": "generation-vi"
+}

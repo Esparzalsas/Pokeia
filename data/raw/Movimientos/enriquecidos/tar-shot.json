@@ -1,0 +1,16 @@
+{
+    "id": 749,
+    "nombre_en": "tar-shot",
+    "nombre_es": "Alquitranazo",
+    "tipo": "rock",
+    "categoria": "status",
+    "potencia": null,
+    "precision": 100,
+    "pp": 15,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "coalossal"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "pokemon": [
+        {
+            "nombre": "applin",
+            "oculta": true
+        },
+        {
+            "nombre": "chesnaught",
+            "oculta": true
+        },
+        {
+            "nombre": "chespin",
+            "oculta": true
+        },
+        {
+            "nombre": "dubwool",
+            "oculta": true
+        },
+        {
+            "nombre": "hakamo-o",
+            "oculta": false
+        },
+        {
+            "nombre": "jangmo-o",
+            "oculta": false
+        },
+        {
+            "nombre": "kommo-o-totem",
+            "oculta": false
+        },
+        {
+            "nombre": "kommo-o",
+            "oculta": false
+        },
+        {
+            "nombre": "quilladin",
+            "oculta": true
+        },
+        {
+            "nombre": "ursaluna",
+            "oculta": false
+        },
+        {
+            "nombre": "wooloo",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Antibalas",
+    "descripcion": "No le afectan las bombas ni algunos proyectiles.",
+    "generacion_introduccion": "generation-vi"
+}

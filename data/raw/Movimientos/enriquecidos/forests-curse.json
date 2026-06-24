@@ -1,0 +1,17 @@
+{
+    "id": 571,
+    "nombre_en": "forests-curse",
+    "nombre_es": "Condena Silvana",
+    "tipo": "grass",
+    "categoria": "status",
+    "potencia": null,
+    "precision": 100,
+    "pp": 20,
+    "prioridad": 0,
+    "generacion": "generation-vi",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "phantump",
+        "trevenant"
+    ]
+}

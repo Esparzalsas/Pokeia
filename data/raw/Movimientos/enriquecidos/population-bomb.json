@@ -1,0 +1,18 @@
+{
+    "id": 860,
+    "nombre_en": "population-bomb",
+    "nombre_es": null,
+    "tipo": "normal",
+    "categoria": "physical",
+    "potencia": 20,
+    "precision": 90,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "tandemaus",
+        "maushold-family-of-four",
+        "maushold-family-of-three"
+    ]
+}

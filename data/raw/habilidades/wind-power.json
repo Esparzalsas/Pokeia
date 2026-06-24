@@ -1,0 +1,15 @@
+{
+    "pokemon": [
+        {
+            "nombre": "kilowattrel",
+            "oculta": false
+        },
+        {
+            "nombre": "wattrel",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Energía Eólica",
+    "descripcion": null,
+    "generacion_introduccion": "generation-ix"
+}

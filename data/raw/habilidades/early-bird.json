@@ -1,0 +1,71 @@
+{
+    "pokemon": [
+        {
+            "nombre": "dodrio",
+            "oculta": false
+        },
+        {
+            "nombre": "doduo",
+            "oculta": false
+        },
+        {
+            "nombre": "dolliv",
+            "oculta": false
+        },
+        {
+            "nombre": "girafarig",
+            "oculta": false
+        },
+        {
+            "nombre": "houndoom",
+            "oculta": false
+        },
+        {
+            "nombre": "houndour",
+            "oculta": false
+        },
+        {
+            "nombre": "kangaskhan",
+            "oculta": false
+        },
+        {
+            "nombre": "ledian",
+            "oculta": false
+        },
+        {
+            "nombre": "ledyba",
+            "oculta": false
+        },
+        {
+            "nombre": "natu",
+            "oculta": false
+        },
+        {
+            "nombre": "nuzleaf",
+            "oculta": false
+        },
+        {
+            "nombre": "seedot",
+            "oculta": false
+        },
+        {
+            "nombre": "smoliv",
+            "oculta": false
+        },
+        {
+            "nombre": "sunflora",
+            "oculta": true
+        },
+        {
+            "nombre": "sunkern",
+            "oculta": true
+        },
+        {
+            "nombre": "xatu",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Madrugar",
+    "descripcion": "El Pokémon se despierta rápidamente.",
+    "generacion_introduccion": "generation-iii"
+}

@@ -1,0 +1,16 @@
+{
+    "id": 613,
+    "nombre_en": "oblivion-wing",
+    "nombre_es": "Ala Mortífera",
+    "tipo": "flying",
+    "categoria": "special",
+    "potencia": 80,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-vi",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "yveltal"
+    ]
+}

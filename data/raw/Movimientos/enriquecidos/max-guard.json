@@ -1,0 +1,14 @@
+{
+    "id": 743,
+    "nombre_en": "max-guard",
+    "nombre_es": "Maxibarrera",
+    "tipo": "normal",
+    "categoria": "status",
+    "potencia": null,
+    "precision": null,
+    "pp": 10,
+    "prioridad": 4,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

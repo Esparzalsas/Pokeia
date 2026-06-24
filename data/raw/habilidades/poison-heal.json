@@ -1,0 +1,19 @@
+{
+    "pokemon": [
+        {
+            "nombre": "breloom",
+            "oculta": false
+        },
+        {
+            "nombre": "gliscor",
+            "oculta": true
+        },
+        {
+            "nombre": "shroomish",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Antídoto",
+    "descripcion": "Recupera PS si el Pokémon ha sido envenenado.",
+    "generacion_introduccion": "generation-iv"
+}

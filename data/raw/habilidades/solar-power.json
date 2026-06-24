@@ -1,0 +1,47 @@
+{
+    "pokemon": [
+        {
+            "nombre": "charizard-gmax",
+            "oculta": true
+        },
+        {
+            "nombre": "charizard",
+            "oculta": true
+        },
+        {
+            "nombre": "charmander",
+            "oculta": true
+        },
+        {
+            "nombre": "charmeleon",
+            "oculta": true
+        },
+        {
+            "nombre": "heliolisk",
+            "oculta": true
+        },
+        {
+            "nombre": "helioptile",
+            "oculta": true
+        },
+        {
+            "nombre": "houndoom-mega",
+            "oculta": false
+        },
+        {
+            "nombre": "sunflora",
+            "oculta": false
+        },
+        {
+            "nombre": "sunkern",
+            "oculta": false
+        },
+        {
+            "nombre": "tropius",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Poder Solar",
+    "descripcion": "Si hace sol, baja los PS, pero potencia el At. Esp.",
+    "generacion_introduccion": "generation-iv"
+}

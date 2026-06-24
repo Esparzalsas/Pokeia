@@ -1,0 +1,51 @@
+{
+    "pokemon": [
+        {
+            "nombre": "enamorus-incarnate",
+            "oculta": true
+        },
+        {
+            "nombre": "fomantis",
+            "oculta": true
+        },
+        {
+            "nombre": "inkay",
+            "oculta": false
+        },
+        {
+            "nombre": "lurantis-totem",
+            "oculta": true
+        },
+        {
+            "nombre": "lurantis",
+            "oculta": true
+        },
+        {
+            "nombre": "malamar",
+            "oculta": false
+        },
+        {
+            "nombre": "serperior",
+            "oculta": true
+        },
+        {
+            "nombre": "servine",
+            "oculta": true
+        },
+        {
+            "nombre": "shuckle",
+            "oculta": true
+        },
+        {
+            "nombre": "snivy",
+            "oculta": true
+        },
+        {
+            "nombre": "spinda",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Respondón",
+    "descripcion": "Invierte los cambios en las características.",
+    "generacion_introduccion": "generation-v"
+}

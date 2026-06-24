@@ -1,0 +1,16 @@
+{
+    "id": 731,
+    "nombre_en": "floaty-fall",
+    "nombre_es": "Pikapicado",
+    "tipo": "flying",
+    "categoria": "physical",
+    "potencia": 90,
+    "precision": 95,
+    "pp": 15,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "pikachu-starter"
+    ]
+}

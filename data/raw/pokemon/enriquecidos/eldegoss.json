@@ -1,0 +1,64 @@
+{
+    "id": 830,
+    "nombre": "eldegoss",
+    "tipos": [
+        "grass"
+    ],
+    "stats_base": {
+        "hp": 60,
+        "attack": 50,
+        "defense": 90,
+        "special-attack": 80,
+        "special-defense": 120,
+        "speed": 60
+    },
+    "habilidades": {
+        "normales": [
+            "cotton-down",
+            "regenerator"
+        ],
+        "oculta": "effect-spore"
+    },
+    "movimientos": [
+        "sing",
+        "hyper-beam",
+        "razor-leaf",
+        "solar-beam",
+        "light-screen",
+        "rest",
+        "substitute",
+        "snore",
+        "cotton-spore",
+        "protect",
+        "giga-drain",
+        "endure",
+        "charm",
+        "attract",
+        "sleep-talk",
+        "rapid-spin",
+        "sweet-scent",
+        "synthesis",
+        "sunny-day",
+        "facade",
+        "helping-hand",
+        "hyper-voice",
+        "weather-ball",
+        "aromatherapy",
+        "bullet-seed",
+        "magical-leaf",
+        "seed-bomb",
+        "energy-ball",
+        "giga-impact",
+        "leaf-storm",
+        "grass-knot",
+        "round",
+        "leaf-tornado",
+        "cotton-guard",
+        "grassy-terrain",
+        "leafage",
+        "pollen-puff",
+        "grassy-glide"
+    ],
+    "peso": 25,
+    "altura": 5
+}

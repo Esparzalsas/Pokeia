@@ -1,0 +1,69 @@
+{
+    "id": 963,
+    "nombre": "finizen",
+    "tipos": [
+        "water"
+    ],
+    "stats_base": {
+        "hp": 70,
+        "attack": 45,
+        "defense": 40,
+        "special-attack": 45,
+        "special-defense": 40,
+        "speed": 75
+    },
+    "habilidades": {
+        "normales": [
+            "water-veil"
+        ],
+        "oculta": "water-veil"
+    },
+    "movimientos": [
+        "body-slam",
+        "take-down",
+        "supersonic",
+        "mist",
+        "water-gun",
+        "hydro-pump",
+        "surf",
+        "ice-beam",
+        "blizzard",
+        "counter",
+        "agility",
+        "haze",
+        "focus-energy",
+        "waterfall",
+        "swift",
+        "rest",
+        "substitute",
+        "protect",
+        "icy-wind",
+        "endure",
+        "charm",
+        "sleep-talk",
+        "encore",
+        "rain-dance",
+        "psych-up",
+        "facade",
+        "helping-hand",
+        "dive",
+        "astonish",
+        "tickle",
+        "bounce",
+        "water-pulse",
+        "fling",
+        "aqua-tail",
+        "zen-headbutt",
+        "aqua-jet",
+        "double-hit",
+        "acrobatics",
+        "disarming-voice",
+        "draining-kiss",
+        "boomburst",
+        "liquidation",
+        "tera-blast",
+        "chilling-water"
+    ],
+    "peso": 602,
+    "altura": 13
+}

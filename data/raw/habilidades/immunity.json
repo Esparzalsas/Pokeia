@@ -1,0 +1,23 @@
+{
+    "pokemon": [
+        {
+            "nombre": "gligar",
+            "oculta": true
+        },
+        {
+            "nombre": "snorlax-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "snorlax",
+            "oculta": false
+        },
+        {
+            "nombre": "zangoose",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Inmunidad",
+    "descripcion": "Evita el envenenamiento.",
+    "generacion_introduccion": "generation-iii"
+}

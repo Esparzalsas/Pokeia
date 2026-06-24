@@ -1,0 +1,28 @@
+{
+    "id": 338,
+    "nombre_en": "frenzy-plant",
+    "nombre_es": "Planta Feroz",
+    "tipo": "grass",
+    "categoria": "special",
+    "potencia": 150,
+    "precision": 90,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-iii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "venusaur",
+        "mew",
+        "meganium",
+        "sceptile",
+        "torterra",
+        "serperior",
+        "chesnaught",
+        "decidueye",
+        "rillaboom",
+        "meowscarada",
+        "venusaur-mega",
+        "sceptile-mega",
+        "decidueye-hisui"
+    ]
+}

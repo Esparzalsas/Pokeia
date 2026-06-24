@@ -1,0 +1,29 @@
+{
+    "id": 265,
+    "nombre_en": "smelling-salts",
+    "nombre_es": "Estímulo",
+    "tipo": "normal",
+    "categoria": "physical",
+    "potencia": 70,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-iii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "mankey",
+        "machop",
+        "lickitung",
+        "snubbull",
+        "torchic",
+        "whismur",
+        "makuhita",
+        "hariyama",
+        "aron",
+        "spinda",
+        "cacnea",
+        "croagunk",
+        "timburr",
+        "mienfoo"
+    ]
+}

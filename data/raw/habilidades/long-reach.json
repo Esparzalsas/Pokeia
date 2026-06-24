@@ -1,0 +1,19 @@
+{
+    "pokemon": [
+        {
+            "nombre": "dartrix",
+            "oculta": true
+        },
+        {
+            "nombre": "decidueye",
+            "oculta": true
+        },
+        {
+            "nombre": "rowlet",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Remoto",
+    "descripcion": "Permite usar cualquier movimiento sin entrar en contacto con el rival.",
+    "generacion_introduccion": "generation-vii"
+}

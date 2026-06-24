@@ -1,0 +1,26 @@
+{
+    "id": 602,
+    "nombre_en": "magnetic-flux",
+    "nombre_es": "Aura Magnética",
+    "tipo": "electric",
+    "categoria": "status",
+    "potencia": null,
+    "precision": null,
+    "pp": 20,
+    "prioridad": 0,
+    "generacion": "generation-vi",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "electrode",
+        "zapdos",
+        "ampharos",
+        "magnezone",
+        "probopass",
+        "klinklang",
+        "magearna",
+        "sandy-shocks",
+        "ampharos-mega",
+        "magearna-original",
+        "toxtricity-low-key"
+    ]
+}

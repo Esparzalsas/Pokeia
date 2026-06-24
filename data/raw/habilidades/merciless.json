@@ -1,0 +1,15 @@
+{
+    "pokemon": [
+        {
+            "nombre": "mareanie",
+            "oculta": false
+        },
+        {
+            "nombre": "toxapex",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Ensañamiento",
+    "descripcion": "Hace que los movimientos asesten siempre un golpe crítico si el rival está envenenado.",
+    "generacion_introduccion": "generation-vii"
+}

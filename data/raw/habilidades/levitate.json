@@ -1,0 +1,175 @@
+{
+    "pokemon": [
+        {
+            "nombre": "azelf",
+            "oculta": false
+        },
+        {
+            "nombre": "baltoy",
+            "oculta": false
+        },
+        {
+            "nombre": "bronzong",
+            "oculta": false
+        },
+        {
+            "nombre": "bronzor",
+            "oculta": false
+        },
+        {
+            "nombre": "carnivine",
+            "oculta": false
+        },
+        {
+            "nombre": "chimecho",
+            "oculta": false
+        },
+        {
+            "nombre": "chingling",
+            "oculta": false
+        },
+        {
+            "nombre": "claydol",
+            "oculta": false
+        },
+        {
+            "nombre": "cresselia",
+            "oculta": false
+        },
+        {
+            "nombre": "cryogonal",
+            "oculta": false
+        },
+        {
+            "nombre": "duskull",
+            "oculta": false
+        },
+        {
+            "nombre": "eelektrik",
+            "oculta": false
+        },
+        {
+            "nombre": "eelektross",
+            "oculta": false
+        },
+        {
+            "nombre": "flygon",
+            "oculta": false
+        },
+        {
+            "nombre": "gastly",
+            "oculta": false
+        },
+        {
+            "nombre": "giratina-origin",
+            "oculta": false
+        },
+        {
+            "nombre": "haunter",
+            "oculta": false
+        },
+        {
+            "nombre": "hydreigon",
+            "oculta": false
+        },
+        {
+            "nombre": "koffing",
+            "oculta": false
+        },
+        {
+            "nombre": "latias-mega",
+            "oculta": false
+        },
+        {
+            "nombre": "latias",
+            "oculta": false
+        },
+        {
+            "nombre": "latios-mega",
+            "oculta": false
+        },
+        {
+            "nombre": "latios",
+            "oculta": false
+        },
+        {
+            "nombre": "lunatone",
+            "oculta": false
+        },
+        {
+            "nombre": "mesprit",
+            "oculta": false
+        },
+        {
+            "nombre": "misdreavus",
+            "oculta": false
+        },
+        {
+            "nombre": "mismagius",
+            "oculta": false
+        },
+        {
+            "nombre": "rotom-fan",
+            "oculta": false
+        },
+        {
+            "nombre": "rotom-frost",
+            "oculta": false
+        },
+        {
+            "nombre": "rotom-heat",
+            "oculta": false
+        },
+        {
+            "nombre": "rotom-mow",
+            "oculta": false
+        },
+        {
+            "nombre": "rotom-wash",
+            "oculta": false
+        },
+        {
+            "nombre": "rotom",
+            "oculta": false
+        },
+        {
+            "nombre": "solrock",
+            "oculta": false
+        },
+        {
+            "nombre": "tynamo",
+            "oculta": false
+        },
+        {
+            "nombre": "unown",
+            "oculta": false
+        },
+        {
+            "nombre": "uxie",
+            "oculta": false
+        },
+        {
+            "nombre": "vibrava",
+            "oculta": false
+        },
+        {
+            "nombre": "vikavolt-totem",
+            "oculta": false
+        },
+        {
+            "nombre": "vikavolt",
+            "oculta": false
+        },
+        {
+            "nombre": "weezing-galar",
+            "oculta": false
+        },
+        {
+            "nombre": "weezing",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Levitación",
+    "descripcion": "Proporciona inmunidad frente a los ataques de tipo Tierra.",
+    "generacion_introduccion": "generation-iii"
+}

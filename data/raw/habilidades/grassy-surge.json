@@ -1,0 +1,27 @@
+{
+    "pokemon": [
+        {
+            "nombre": "grookey",
+            "oculta": true
+        },
+        {
+            "nombre": "rillaboom-gmax",
+            "oculta": true
+        },
+        {
+            "nombre": "rillaboom",
+            "oculta": true
+        },
+        {
+            "nombre": "tapu-bulu",
+            "oculta": false
+        },
+        {
+            "nombre": "thwackey",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Herbogénesis",
+    "descripcion": "Crea un campo de hierba al entrar en combate.",
+    "generacion_introduccion": "generation-vii"
+}

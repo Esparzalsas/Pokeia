@@ -1,0 +1,79 @@
+{
+    "pokemon": [
+        {
+            "nombre": "ariados",
+            "oculta": true
+        },
+        {
+            "nombre": "barbaracle",
+            "oculta": false
+        },
+        {
+            "nombre": "beedrill",
+            "oculta": true
+        },
+        {
+            "nombre": "binacle",
+            "oculta": false
+        },
+        {
+            "nombre": "drapion",
+            "oculta": false
+        },
+        {
+            "nombre": "drizzile",
+            "oculta": true
+        },
+        {
+            "nombre": "fearow",
+            "oculta": true
+        },
+        {
+            "nombre": "horsea",
+            "oculta": false
+        },
+        {
+            "nombre": "inteleon-gmax",
+            "oculta": true
+        },
+        {
+            "nombre": "inteleon",
+            "oculta": true
+        },
+        {
+            "nombre": "kingdra",
+            "oculta": false
+        },
+        {
+            "nombre": "octillery",
+            "oculta": false
+        },
+        {
+            "nombre": "remoraid",
+            "oculta": false
+        },
+        {
+            "nombre": "seadra",
+            "oculta": false
+        },
+        {
+            "nombre": "skorupi",
+            "oculta": false
+        },
+        {
+            "nombre": "sobble",
+            "oculta": true
+        },
+        {
+            "nombre": "spearow",
+            "oculta": true
+        },
+        {
+            "nombre": "spinarak",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Francotirador",
+    "descripcion": "Potencia los movimientos si se vuelven críticos.",
+    "generacion_introduccion": "generation-iv"
+}

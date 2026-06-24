@@ -1,0 +1,91 @@
+{
+    "pokemon": [
+        {
+            "nombre": "arbok",
+            "oculta": false
+        },
+        {
+            "nombre": "burmy",
+            "oculta": false
+        },
+        {
+            "nombre": "cascoon",
+            "oculta": false
+        },
+        {
+            "nombre": "cyclizar",
+            "oculta": false
+        },
+        {
+            "nombre": "dragonair",
+            "oculta": false
+        },
+        {
+            "nombre": "dratini",
+            "oculta": false
+        },
+        {
+            "nombre": "ekans",
+            "oculta": false
+        },
+        {
+            "nombre": "kakuna",
+            "oculta": false
+        },
+        {
+            "nombre": "karrablast",
+            "oculta": false
+        },
+        {
+            "nombre": "kricketot",
+            "oculta": false
+        },
+        {
+            "nombre": "metapod",
+            "oculta": false
+        },
+        {
+            "nombre": "pupitar",
+            "oculta": false
+        },
+        {
+            "nombre": "rellor",
+            "oculta": true
+        },
+        {
+            "nombre": "sandaconda-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "sandaconda",
+            "oculta": false
+        },
+        {
+            "nombre": "scrafty",
+            "oculta": false
+        },
+        {
+            "nombre": "scraggy",
+            "oculta": false
+        },
+        {
+            "nombre": "seviper",
+            "oculta": false
+        },
+        {
+            "nombre": "silcoon",
+            "oculta": false
+        },
+        {
+            "nombre": "silicobra",
+            "oculta": false
+        },
+        {
+            "nombre": "spewpa",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Mudar",
+    "descripcion": "Cura los problemas de estado mudando la piel.",
+    "generacion_introduccion": "generation-iii"
+}

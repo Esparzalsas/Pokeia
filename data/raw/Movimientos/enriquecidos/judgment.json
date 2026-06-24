@@ -1,0 +1,16 @@
+{
+    "id": 449,
+    "nombre_en": "judgment",
+    "nombre_es": "Sentencia",
+    "tipo": "normal",
+    "categoria": "special",
+    "potencia": 100,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-iv",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "arceus"
+    ]
+}

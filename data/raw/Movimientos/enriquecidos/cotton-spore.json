@@ -1,0 +1,32 @@
+{
+    "id": 178,
+    "nombre_en": "cotton-spore",
+    "nombre_es": "Esporagodón",
+    "tipo": "grass",
+    "categoria": "status",
+    "potencia": null,
+    "precision": 100,
+    "pp": 40,
+    "prioridad": 0,
+    "generacion": "generation-ii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "mareep",
+        "flaaffy",
+        "ampharos",
+        "hoppip",
+        "skiploom",
+        "jumpluff",
+        "roselia",
+        "cacnea",
+        "cacturne",
+        "budew",
+        "cottonee",
+        "whimsicott",
+        "maractus",
+        "swirlix",
+        "slurpuff",
+        "eldegoss",
+        "ampharos-mega"
+    ]
+}

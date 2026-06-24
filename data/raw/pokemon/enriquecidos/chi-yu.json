@@ -1,0 +1,72 @@
+{
+    "id": 1004,
+    "nombre": "chi-yu",
+    "tipos": [
+        "dark",
+        "fire"
+    ],
+    "stats_base": {
+        "hp": 55,
+        "attack": 80,
+        "defense": 80,
+        "special-attack": 135,
+        "special-defense": 120,
+        "speed": 100
+    },
+    "habilidades": {
+        "normales": [
+            "beads-of-ruin"
+        ],
+        "oculta": null
+    },
+    "movimientos": [
+        "take-down",
+        "ember",
+        "flamethrower",
+        "hyper-beam",
+        "fire-spin",
+        "psychic",
+        "confuse-ray",
+        "light-screen",
+        "reflect",
+        "fire-blast",
+        "rest",
+        "substitute",
+        "flame-wheel",
+        "spite",
+        "protect",
+        "scary-face",
+        "endure",
+        "swagger",
+        "mean-look",
+        "sleep-talk",
+        "sunny-day",
+        "crunch",
+        "heat-wave",
+        "will-o-wisp",
+        "memento",
+        "facade",
+        "taunt",
+        "overheat",
+        "bounce",
+        "payback",
+        "flare-blitz",
+        "dark-pulse",
+        "giga-impact",
+        "nasty-plot",
+        "zen-headbutt",
+        "lava-plume",
+        "flame-charge",
+        "hex",
+        "incinerate",
+        "inferno",
+        "snarl",
+        "burning-jealousy",
+        "lash-out",
+        "tera-blast",
+        "ruination",
+        "temper-flare"
+    ],
+    "peso": 49,
+    "altura": 4
+}

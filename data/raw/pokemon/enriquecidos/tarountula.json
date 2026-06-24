@@ -1,0 +1,69 @@
+{
+    "id": 917,
+    "nombre": "tarountula",
+    "tipos": [
+        "bug"
+    ],
+    "stats_base": {
+        "hp": 35,
+        "attack": 41,
+        "defense": 45,
+        "special-attack": 29,
+        "special-defense": 40,
+        "speed": 20
+    },
+    "habilidades": {
+        "normales": [
+            "insomnia"
+        ],
+        "oculta": "stakeout"
+    },
+    "movimientos": [
+        "headbutt",
+        "tackle",
+        "body-slam",
+        "take-down",
+        "counter",
+        "string-shot",
+        "leech-life",
+        "rest",
+        "substitute",
+        "thief",
+        "protect",
+        "spikes",
+        "giga-drain",
+        "endure",
+        "false-swipe",
+        "sleep-talk",
+        "rain-dance",
+        "sunny-day",
+        "memento",
+        "facade",
+        "knock-off",
+        "bullet-seed",
+        "block",
+        "feint",
+        "assurance",
+        "gastro-acid",
+        "sucker-punch",
+        "toxic-spikes",
+        "poison-jab",
+        "x-scissor",
+        "bug-buzz",
+        "shadow-claw",
+        "grass-knot",
+        "bug-bite",
+        "circle-throw",
+        "struggle-bug",
+        "sticky-web",
+        "first-impression",
+        "throat-chop",
+        "lunge",
+        "skitter-smack",
+        "tera-blast",
+        "pounce",
+        "trailblaze"
+    ],
+    "peso": 40,
+    "altura": 3
+}

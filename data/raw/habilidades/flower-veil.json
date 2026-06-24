@@ -1,0 +1,27 @@
+{
+    "pokemon": [
+        {
+            "nombre": "comfey",
+            "oculta": false
+        },
+        {
+            "nombre": "flabebe",
+            "oculta": false
+        },
+        {
+            "nombre": "floette-eternal",
+            "oculta": false
+        },
+        {
+            "nombre": "floette",
+            "oculta": false
+        },
+        {
+            "nombre": "florges",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Velo Flor",
+    "descripcion": "Evita que bajen las características de Pokémon tipo Planta aliados.",
+    "generacion_introduccion": "generation-vi"
+}

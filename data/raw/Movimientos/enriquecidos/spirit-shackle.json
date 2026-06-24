@@ -1,0 +1,16 @@
+{
+    "id": 662,
+    "nombre_en": "spirit-shackle",
+    "nombre_es": "Puntada Sombría",
+    "tipo": "ghost",
+    "categoria": "physical",
+    "potencia": 80,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "decidueye"
+    ]
+}

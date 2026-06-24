@@ -1,0 +1,14 @@
+{
+    "id": 634,
+    "nombre_en": "savage-spin-out--physical",
+    "nombre_es": "Guadaña Sedosa",
+    "tipo": "bug",
+    "categoria": "physical",
+    "potencia": null,
+    "precision": null,
+    "pp": 1,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

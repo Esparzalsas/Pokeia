@@ -1,0 +1,14 @@
+{
+    "id": 610,
+    "nombre_en": "hold-back",
+    "nombre_es": "Clemencia",
+    "tipo": "normal",
+    "categoria": "physical",
+    "potencia": 40,
+    "precision": 100,
+    "pp": 40,
+    "prioridad": 0,
+    "generacion": "generation-vi",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

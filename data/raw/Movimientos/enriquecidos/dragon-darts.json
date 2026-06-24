@@ -1,0 +1,16 @@
+{
+    "id": 751,
+    "nombre_en": "dragon-darts",
+    "nombre_es": "Dracoflechas",
+    "tipo": "dragon",
+    "categoria": "physical",
+    "potencia": 50,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "dragapult"
+    ]
+}

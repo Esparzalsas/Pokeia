@@ -1,0 +1,51 @@
+{
+    "pokemon": [
+        {
+            "nombre": "amoonguss",
+            "oculta": false
+        },
+        {
+            "nombre": "breloom",
+            "oculta": false
+        },
+        {
+            "nombre": "eldegoss",
+            "oculta": true
+        },
+        {
+            "nombre": "foongus",
+            "oculta": false
+        },
+        {
+            "nombre": "gossifleur",
+            "oculta": true
+        },
+        {
+            "nombre": "morelull",
+            "oculta": false
+        },
+        {
+            "nombre": "paras",
+            "oculta": false
+        },
+        {
+            "nombre": "parasect",
+            "oculta": false
+        },
+        {
+            "nombre": "shiinotic",
+            "oculta": false
+        },
+        {
+            "nombre": "shroomish",
+            "oculta": false
+        },
+        {
+            "nombre": "vileplume",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Efecto Espora",
+    "descripcion": "Puede dormir, envenenar o paralizar al contacto.",
+    "generacion_introduccion": "generation-iii"
+}

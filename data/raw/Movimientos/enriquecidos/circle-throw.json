@@ -1,0 +1,27 @@
+{
+    "id": 509,
+    "nombre_en": "circle-throw",
+    "nombre_es": "Llave Giro",
+    "tipo": "fighting",
+    "categoria": "physical",
+    "potencia": 60,
+    "precision": 90,
+    "pp": 10,
+    "prioridad": -6,
+    "generacion": "generation-v",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "poliwrath",
+        "kangaskhan",
+        "whismur",
+        "buneary",
+        "riolu",
+        "throh",
+        "pancham",
+        "pangoro",
+        "clobbopus",
+        "tarountula",
+        "spidops",
+        "kangaskhan-mega"
+    ]
+}

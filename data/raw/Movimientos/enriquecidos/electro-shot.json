@@ -1,0 +1,16 @@
+{
+    "id": 905,
+    "nombre_en": "electro-shot",
+    "nombre_es": "Electrorrayo",
+    "tipo": "electric",
+    "categoria": "special",
+    "potencia": 130,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "archaludon"
+    ]
+}

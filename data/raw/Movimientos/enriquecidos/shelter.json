@@ -1,0 +1,18 @@
+{
+    "id": 842,
+    "nombre_en": "shelter",
+    "nombre_es": null,
+    "tipo": "steel",
+    "categoria": "status",
+    "potencia": 0,
+    "precision": null,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "goomy",
+        "sliggoo-hisui",
+        "goodra-hisui"
+    ]
+}

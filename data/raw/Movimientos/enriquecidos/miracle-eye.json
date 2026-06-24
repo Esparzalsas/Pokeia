@@ -1,0 +1,32 @@
+{
+    "id": 357,
+    "nombre_en": "miracle-eye",
+    "nombre_es": "Gran Ojo",
+    "tipo": "psychic",
+    "categoria": "status",
+    "potencia": null,
+    "precision": null,
+    "pp": 40,
+    "prioridad": 0,
+    "generacion": "generation-iv",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "kadabra",
+        "alakazam",
+        "mewtwo",
+        "natu",
+        "xatu",
+        "smoochum",
+        "metang",
+        "metagross",
+        "sigilyph",
+        "gothita",
+        "elgyem",
+        "beheeyem",
+        "meowstic-male",
+        "alakazam-mega",
+        "mewtwo-mega-x",
+        "mewtwo-mega-y",
+        "metagross-mega"
+    ]
+}

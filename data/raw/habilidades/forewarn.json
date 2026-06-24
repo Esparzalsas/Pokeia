@@ -1,0 +1,31 @@
+{
+    "pokemon": [
+        {
+            "nombre": "drowzee",
+            "oculta": false
+        },
+        {
+            "nombre": "hypno",
+            "oculta": false
+        },
+        {
+            "nombre": "jynx",
+            "oculta": false
+        },
+        {
+            "nombre": "munna",
+            "oculta": false
+        },
+        {
+            "nombre": "musharna",
+            "oculta": false
+        },
+        {
+            "nombre": "smoochum",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Alerta",
+    "descripcion": "Determina el movimiento más potente del rival.",
+    "generacion_introduccion": "generation-iv"
+}

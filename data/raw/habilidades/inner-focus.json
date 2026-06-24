@@ -1,0 +1,159 @@
+{
+    "pokemon": [
+        {
+            "nombre": "abra",
+            "oculta": false
+        },
+        {
+            "nombre": "alakazam",
+            "oculta": false
+        },
+        {
+            "nombre": "annihilape",
+            "oculta": false
+        },
+        {
+            "nombre": "bisharp",
+            "oculta": false
+        },
+        {
+            "nombre": "crobat",
+            "oculta": false
+        },
+        {
+            "nombre": "darumaka-galar",
+            "oculta": true
+        },
+        {
+            "nombre": "darumaka",
+            "oculta": true
+        },
+        {
+            "nombre": "dragonite",
+            "oculta": false
+        },
+        {
+            "nombre": "drowzee",
+            "oculta": true
+        },
+        {
+            "nombre": "entei",
+            "oculta": true
+        },
+        {
+            "nombre": "farfetchd",
+            "oculta": false
+        },
+        {
+            "nombre": "gallade-mega",
+            "oculta": false
+        },
+        {
+            "nombre": "girafarig",
+            "oculta": false
+        },
+        {
+            "nombre": "glalie",
+            "oculta": false
+        },
+        {
+            "nombre": "golbat",
+            "oculta": false
+        },
+        {
+            "nombre": "hitmonchan",
+            "oculta": true
+        },
+        {
+            "nombre": "hypno",
+            "oculta": true
+        },
+        {
+            "nombre": "indeedee-male",
+            "oculta": false
+        },
+        {
+            "nombre": "kadabra",
+            "oculta": false
+        },
+        {
+            "nombre": "kangaskhan",
+            "oculta": true
+        },
+        {
+            "nombre": "kubfu",
+            "oculta": false
+        },
+        {
+            "nombre": "lucario",
+            "oculta": false
+        },
+        {
+            "nombre": "mienfoo",
+            "oculta": false
+        },
+        {
+            "nombre": "mienshao",
+            "oculta": false
+        },
+        {
+            "nombre": "mudbray",
+            "oculta": true
+        },
+        {
+            "nombre": "mudsdale",
+            "oculta": true
+        },
+        {
+            "nombre": "oranguru",
+            "oculta": false
+        },
+        {
+            "nombre": "pawniard",
+            "oculta": false
+        },
+        {
+            "nombre": "raikou",
+            "oculta": true
+        },
+        {
+            "nombre": "riolu",
+            "oculta": false
+        },
+        {
+            "nombre": "sawk",
+            "oculta": false
+        },
+        {
+            "nombre": "sneasel-hisui",
+            "oculta": false
+        },
+        {
+            "nombre": "sneasel",
+            "oculta": false
+        },
+        {
+            "nombre": "snorunt",
+            "oculta": false
+        },
+        {
+            "nombre": "suicune",
+            "oculta": true
+        },
+        {
+            "nombre": "throh",
+            "oculta": false
+        },
+        {
+            "nombre": "umbreon",
+            "oculta": true
+        },
+        {
+            "nombre": "zubat",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Foco Interno",
+    "descripcion": "Evita el retroceso.",
+    "generacion_introduccion": "generation-iii"
+}

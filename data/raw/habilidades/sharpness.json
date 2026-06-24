@@ -1,0 +1,23 @@
+{
+    "pokemon": [
+        {
+            "nombre": "gallade",
+            "oculta": false
+        },
+        {
+            "nombre": "kleavor",
+            "oculta": true
+        },
+        {
+            "nombre": "samurott-hisui",
+            "oculta": true
+        },
+        {
+            "nombre": "veluza",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Cortante",
+    "descripcion": null,
+    "generacion_introduccion": "generation-ix"
+}

@@ -1,0 +1,31 @@
+{
+    "pokemon": [
+        {
+            "nombre": "bewear",
+            "oculta": false
+        },
+        {
+            "nombre": "dubwool",
+            "oculta": false
+        },
+        {
+            "nombre": "greavard",
+            "oculta": true
+        },
+        {
+            "nombre": "houndstone",
+            "oculta": true
+        },
+        {
+            "nombre": "stufful",
+            "oculta": false
+        },
+        {
+            "nombre": "wooloo",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Peluche",
+    "descripcion": "Reduce a la mitad el daño provocado por los movimientos de contacto, pero duplica el infligido por los de tipo Fuego.",
+    "generacion_introduccion": "generation-vii"
+}

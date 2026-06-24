@@ -1,0 +1,32 @@
+{
+    "id": 266,
+    "nombre": "silcoon",
+    "tipos": [
+        "bug"
+    ],
+    "stats_base": {
+        "hp": 50,
+        "attack": 35,
+        "defense": 55,
+        "special-attack": 25,
+        "special-defense": 25,
+        "speed": 15
+    },
+    "habilidades": {
+        "normales": [
+            "shed-skin"
+        ],
+        "oculta": null
+    },
+    "movimientos": [
+        "tackle",
+        "poison-sting",
+        "string-shot",
+        "harden",
+        "iron-defense",
+        "bug-bite",
+        "electroweb"
+    ],
+    "peso": 100,
+    "altura": 6
+}

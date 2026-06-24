@@ -1,0 +1,67 @@
+{
+    "pokemon": [
+        {
+            "nombre": "articuno-galar",
+            "oculta": false
+        },
+        {
+            "nombre": "boltund",
+            "oculta": true
+        },
+        {
+            "nombre": "empoleon",
+            "oculta": true
+        },
+        {
+            "nombre": "gothita",
+            "oculta": false
+        },
+        {
+            "nombre": "gothitelle",
+            "oculta": false
+        },
+        {
+            "nombre": "gothorita",
+            "oculta": false
+        },
+        {
+            "nombre": "igglybuff",
+            "oculta": false
+        },
+        {
+            "nombre": "jigglypuff",
+            "oculta": false
+        },
+        {
+            "nombre": "kilowattrel",
+            "oculta": true
+        },
+        {
+            "nombre": "meowstic-female",
+            "oculta": true
+        },
+        {
+            "nombre": "milotic",
+            "oculta": false
+        },
+        {
+            "nombre": "piplup",
+            "oculta": true
+        },
+        {
+            "nombre": "prinplup",
+            "oculta": true
+        },
+        {
+            "nombre": "wattrel",
+            "oculta": true
+        },
+        {
+            "nombre": "wigglytuff",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Tenacidad",
+    "descripcion": "Aumenta su At. Esp. cuando disminuyen otras características.",
+    "generacion_introduccion": "generation-vi"
+}

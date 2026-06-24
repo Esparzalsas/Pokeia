@@ -1,0 +1,17 @@
+{
+    "id": 903,
+    "nombre_en": "syrup-bomb",
+    "nombre_es": null,
+    "tipo": "grass",
+    "categoria": "special",
+    "potencia": 60,
+    "precision": 85,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "dipplin",
+        "hydrapple"
+    ]
+}

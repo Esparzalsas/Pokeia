@@ -1,0 +1,14 @@
+{
+    "id": 726,
+    "nombre_en": "lets-snuggle-forever",
+    "nombre_es": "Somanta Amistosa",
+    "tipo": "fairy",
+    "categoria": "physical",
+    "potencia": 190,
+    "precision": null,
+    "pp": 1,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

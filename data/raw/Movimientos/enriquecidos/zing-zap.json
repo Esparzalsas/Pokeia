@@ -1,0 +1,18 @@
+{
+    "id": 716,
+    "nombre_en": "zing-zap",
+    "nombre_es": "Electropunzada",
+    "tipo": "electric",
+    "categoria": "physical",
+    "potencia": 80,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "togedemaru",
+        "pincurchin",
+        "togedemaru-totem"
+    ]
+}

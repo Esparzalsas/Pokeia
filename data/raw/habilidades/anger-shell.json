@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "klawf",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Coraza Ira",
+    "descripcion": null,
+    "generacion_introduccion": "generation-ix"
+}

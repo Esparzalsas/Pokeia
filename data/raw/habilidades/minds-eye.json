@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "ursaluna-bloodmoon",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Ojo Mental ",
+    "descripcion": null,
+    "generacion_introduccion": "generation-ix"
+}

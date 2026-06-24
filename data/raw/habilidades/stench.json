@@ -1,0 +1,47 @@
+{
+    "pokemon": [
+        {
+            "nombre": "garbodor-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "garbodor",
+            "oculta": false
+        },
+        {
+            "nombre": "gloom",
+            "oculta": true
+        },
+        {
+            "nombre": "grimer",
+            "oculta": false
+        },
+        {
+            "nombre": "koffing",
+            "oculta": true
+        },
+        {
+            "nombre": "muk",
+            "oculta": false
+        },
+        {
+            "nombre": "skuntank",
+            "oculta": false
+        },
+        {
+            "nombre": "stunky",
+            "oculta": false
+        },
+        {
+            "nombre": "trubbish",
+            "oculta": false
+        },
+        {
+            "nombre": "weezing",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Hedor",
+    "descripcion": "Es posible que el rival retroceda por el mal olor.",
+    "generacion_introduccion": "generation-iii"
+}

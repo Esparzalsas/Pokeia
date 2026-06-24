@@ -1,0 +1,15 @@
+{
+    "pokemon": [
+        {
+            "nombre": "drampa",
+            "oculta": false
+        },
+        {
+            "nombre": "moltres-galar",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Cólera",
+    "descripcion": "Aumenta el Ataque Especial si los ataques del oponente le reducen los PS a la mitad.",
+    "generacion_introduccion": "generation-vii"
+}

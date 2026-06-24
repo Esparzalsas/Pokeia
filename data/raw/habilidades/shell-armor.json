@@ -1,0 +1,131 @@
+{
+    "pokemon": [
+        {
+            "nombre": "chewtle",
+            "oculta": false
+        },
+        {
+            "nombre": "clamperl",
+            "oculta": false
+        },
+        {
+            "nombre": "cloyster",
+            "oculta": false
+        },
+        {
+            "nombre": "corphish",
+            "oculta": false
+        },
+        {
+            "nombre": "crawdaunt",
+            "oculta": false
+        },
+        {
+            "nombre": "crustle",
+            "oculta": false
+        },
+        {
+            "nombre": "dewott",
+            "oculta": true
+        },
+        {
+            "nombre": "drednaw-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "drednaw",
+            "oculta": false
+        },
+        {
+            "nombre": "dwebble",
+            "oculta": false
+        },
+        {
+            "nombre": "escavalier",
+            "oculta": false
+        },
+        {
+            "nombre": "goodra-hisui",
+            "oculta": false
+        },
+        {
+            "nombre": "grotle",
+            "oculta": true
+        },
+        {
+            "nombre": "kingler-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "kingler",
+            "oculta": false
+        },
+        {
+            "nombre": "klawf",
+            "oculta": false
+        },
+        {
+            "nombre": "krabby",
+            "oculta": false
+        },
+        {
+            "nombre": "lapras-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "lapras",
+            "oculta": false
+        },
+        {
+            "nombre": "omanyte",
+            "oculta": false
+        },
+        {
+            "nombre": "omastar",
+            "oculta": false
+        },
+        {
+            "nombre": "oshawott",
+            "oculta": true
+        },
+        {
+            "nombre": "samurott",
+            "oculta": true
+        },
+        {
+            "nombre": "shellder",
+            "oculta": false
+        },
+        {
+            "nombre": "shelmet",
+            "oculta": false
+        },
+        {
+            "nombre": "sliggoo-hisui",
+            "oculta": false
+        },
+        {
+            "nombre": "slowbro-mega",
+            "oculta": false
+        },
+        {
+            "nombre": "torkoal",
+            "oculta": true
+        },
+        {
+            "nombre": "torterra",
+            "oculta": true
+        },
+        {
+            "nombre": "turtonator",
+            "oculta": false
+        },
+        {
+            "nombre": "turtwig",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Caparazón",
+    "descripcion": "Bloquea los golpes críticos.",
+    "generacion_introduccion": "generation-iii"
+}

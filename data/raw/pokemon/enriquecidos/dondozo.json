@@ -1,0 +1,72 @@
+{
+    "id": 977,
+    "nombre": "dondozo",
+    "tipos": [
+        "water"
+    ],
+    "stats_base": {
+        "hp": 150,
+        "attack": 100,
+        "defense": 115,
+        "special-attack": 65,
+        "special-defense": 65,
+        "speed": 35
+    },
+    "habilidades": {
+        "normales": [
+            "unaware",
+            "oblivious"
+        ],
+        "oculta": "water-veil"
+    },
+    "movimientos": [
+        "tackle",
+        "body-slam",
+        "take-down",
+        "thrash",
+        "double-edge",
+        "supersonic",
+        "water-gun",
+        "hydro-pump",
+        "surf",
+        "hyper-beam",
+        "earthquake",
+        "fissure",
+        "waterfall",
+        "rest",
+        "rock-slide",
+        "substitute",
+        "curse",
+        "flail",
+        "protect",
+        "scary-face",
+        "outrage",
+        "endure",
+        "sleep-talk",
+        "rain-dance",
+        "crunch",
+        "facade",
+        "yawn",
+        "dive",
+        "tickle",
+        "water-pulse",
+        "aqua-tail",
+        "giga-impact",
+        "avalanche",
+        "ice-fang",
+        "zen-headbutt",
+        "heavy-slam",
+        "soak",
+        "bulldoze",
+        "noble-roar",
+        "stomping-tantrum",
+        "liquidation",
+        "body-press",
+        "wave-crash",
+        "tera-blast",
+        "order-up",
+        "chilling-water"
+    ],
+    "peso": 2200,
+    "altura": 120
+}

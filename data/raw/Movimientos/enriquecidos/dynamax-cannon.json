@@ -1,0 +1,17 @@
+{
+    "id": 744,
+    "nombre_en": "dynamax-cannon",
+    "nombre_es": "Cañón Dinamax",
+    "tipo": "dragon",
+    "categoria": "special",
+    "potencia": 100,
+    "precision": 100,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "eternatus",
+        "eternatus-eternamax"
+    ]
+}

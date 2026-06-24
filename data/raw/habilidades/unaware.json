@@ -1,0 +1,67 @@
+{
+    "pokemon": [
+        {
+            "nombre": "bibarel",
+            "oculta": false
+        },
+        {
+            "nombre": "bidoof",
+            "oculta": false
+        },
+        {
+            "nombre": "clefable",
+            "oculta": true
+        },
+        {
+            "nombre": "clodsire",
+            "oculta": true
+        },
+        {
+            "nombre": "cosmog",
+            "oculta": false
+        },
+        {
+            "nombre": "crocalor",
+            "oculta": true
+        },
+        {
+            "nombre": "dondozo",
+            "oculta": false
+        },
+        {
+            "nombre": "fuecoco",
+            "oculta": true
+        },
+        {
+            "nombre": "pyukumuku",
+            "oculta": true
+        },
+        {
+            "nombre": "quagsire",
+            "oculta": true
+        },
+        {
+            "nombre": "skeledirge",
+            "oculta": true
+        },
+        {
+            "nombre": "swoobat",
+            "oculta": false
+        },
+        {
+            "nombre": "woobat",
+            "oculta": false
+        },
+        {
+            "nombre": "wooper-paldea",
+            "oculta": true
+        },
+        {
+            "nombre": "wooper",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Ignorante",
+    "descripcion": "No tiene en cuenta las mejoras en las características del rival.",
+    "generacion_introduccion": "generation-iv"
+}

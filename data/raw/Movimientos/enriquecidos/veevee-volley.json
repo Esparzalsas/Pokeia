@@ -1,0 +1,14 @@
+{
+    "id": 741,
+    "nombre_en": "veevee-volley",
+    "nombre_es": "Eevimpacto",
+    "tipo": "normal",
+    "categoria": "physical",
+    "potencia": null,
+    "precision": null,
+    "pp": 20,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

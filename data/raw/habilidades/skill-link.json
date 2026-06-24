@@ -1,0 +1,47 @@
+{
+    "pokemon": [
+        {
+            "nombre": "aipom",
+            "oculta": true
+        },
+        {
+            "nombre": "ambipom",
+            "oculta": true
+        },
+        {
+            "nombre": "cinccino",
+            "oculta": true
+        },
+        {
+            "nombre": "cloyster",
+            "oculta": false
+        },
+        {
+            "nombre": "heracross-mega",
+            "oculta": false
+        },
+        {
+            "nombre": "minccino",
+            "oculta": true
+        },
+        {
+            "nombre": "pikipek",
+            "oculta": false
+        },
+        {
+            "nombre": "shellder",
+            "oculta": false
+        },
+        {
+            "nombre": "toucannon",
+            "oculta": false
+        },
+        {
+            "nombre": "trumbeak",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Encadenado",
+    "descripcion": "Aumenta la frecuencia de los movimientos múltiples.",
+    "generacion_introduccion": "generation-iv"
+}

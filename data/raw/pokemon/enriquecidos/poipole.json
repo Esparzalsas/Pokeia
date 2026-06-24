@@ -1,0 +1,62 @@
+{
+    "id": 803,
+    "nombre": "poipole",
+    "tipos": [
+        "poison"
+    ],
+    "stats_base": {
+        "hp": 67,
+        "attack": 73,
+        "defense": 67,
+        "special-attack": 73,
+        "special-defense": 67,
+        "speed": 73
+    },
+    "habilidades": {
+        "normales": [
+            "beast-boost"
+        ],
+        "oculta": null
+    },
+    "movimientos": [
+        "fury-attack",
+        "pin-missile",
+        "growl",
+        "acid",
+        "peck",
+        "toxic",
+        "rest",
+        "substitute",
+        "snore",
+        "protect",
+        "sludge-bomb",
+        "endure",
+        "charm",
+        "sleep-talk",
+        "return",
+        "frustration",
+        "iron-tail",
+        "hidden-power",
+        "uproar",
+        "facade",
+        "helping-hand",
+        "snatch",
+        "signal-beam",
+        "covet",
+        "gastro-acid",
+        "toxic-spikes",
+        "poison-jab",
+        "dragon-pulse",
+        "nasty-plot",
+        "gunk-shot",
+        "venoshock",
+        "sludge-wave",
+        "round",
+        "echoed-voice",
+        "fell-stinger",
+        "confide",
+        "venom-drench"
+    ],
+    "peso": 18,
+    "altura": 6
+}

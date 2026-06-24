@@ -1,0 +1,26 @@
+{
+    "id": 292,
+    "nombre_en": "arm-thrust",
+    "nombre_es": "Empujón",
+    "tipo": "fighting",
+    "categoria": "physical",
+    "potencia": 15,
+    "precision": 100,
+    "pp": 20,
+    "prioridad": 0,
+    "generacion": "generation-iii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "heracross",
+        "makuhita",
+        "hariyama",
+        "pignite",
+        "emboar",
+        "pancham",
+        "pangoro",
+        "pawmo",
+        "pawmot",
+        "iron-hands",
+        "heracross-mega"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "id": 890,
+    "nombre_en": "armor-cannon",
+    "nombre_es": null,
+    "tipo": "fire",
+    "categoria": "special",
+    "potencia": 120,
+    "precision": 100,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "armarouge"
+    ]
+}

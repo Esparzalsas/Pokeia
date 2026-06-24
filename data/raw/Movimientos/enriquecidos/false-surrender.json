@@ -1,0 +1,17 @@
+{
+    "id": 793,
+    "nombre_en": "false-surrender",
+    "nombre_es": "Irreverencia",
+    "tipo": "dark",
+    "categoria": "physical",
+    "potencia": 80,
+    "precision": null,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "morgrem",
+        "grimmsnarl"
+    ]
+}

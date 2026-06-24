@@ -1,0 +1,16 @@
+{
+    "id": 617,
+    "nombre_en": "light-of-ruin",
+    "nombre_es": "Luz Aniquiladora",
+    "tipo": "fairy",
+    "categoria": "special",
+    "potencia": 140,
+    "precision": 90,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-vi",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "floette-eternal"
+    ]
+}

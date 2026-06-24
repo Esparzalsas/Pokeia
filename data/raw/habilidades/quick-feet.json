@@ -1,0 +1,51 @@
+{
+    "pokemon": [
+        {
+            "nombre": "granbull",
+            "oculta": false
+        },
+        {
+            "nombre": "jolteon",
+            "oculta": true
+        },
+        {
+            "nombre": "linoone-galar",
+            "oculta": true
+        },
+        {
+            "nombre": "linoone",
+            "oculta": true
+        },
+        {
+            "nombre": "mightyena",
+            "oculta": false
+        },
+        {
+            "nombre": "poochyena",
+            "oculta": false
+        },
+        {
+            "nombre": "shroomish",
+            "oculta": true
+        },
+        {
+            "nombre": "teddiursa",
+            "oculta": false
+        },
+        {
+            "nombre": "ursaring",
+            "oculta": false
+        },
+        {
+            "nombre": "zigzagoon-galar",
+            "oculta": true
+        },
+        {
+            "nombre": "zigzagoon",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Pies Rápidos",
+    "descripcion": "Potencia la Velocidad si hay problemas de estado.",
+    "generacion_introduccion": "generation-iv"
+}

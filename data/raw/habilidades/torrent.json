@@ -1,0 +1,135 @@
+{
+    "pokemon": [
+        {
+            "nombre": "blastoise-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "blastoise",
+            "oculta": false
+        },
+        {
+            "nombre": "brionne",
+            "oculta": false
+        },
+        {
+            "nombre": "croconaw",
+            "oculta": false
+        },
+        {
+            "nombre": "dewott",
+            "oculta": false
+        },
+        {
+            "nombre": "drizzile",
+            "oculta": false
+        },
+        {
+            "nombre": "empoleon",
+            "oculta": false
+        },
+        {
+            "nombre": "feraligatr",
+            "oculta": false
+        },
+        {
+            "nombre": "froakie",
+            "oculta": false
+        },
+        {
+            "nombre": "frogadier",
+            "oculta": false
+        },
+        {
+            "nombre": "greninja",
+            "oculta": false
+        },
+        {
+            "nombre": "inteleon-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "inteleon",
+            "oculta": false
+        },
+        {
+            "nombre": "marshtomp",
+            "oculta": false
+        },
+        {
+            "nombre": "mudkip",
+            "oculta": false
+        },
+        {
+            "nombre": "oshawott",
+            "oculta": false
+        },
+        {
+            "nombre": "panpour",
+            "oculta": true
+        },
+        {
+            "nombre": "piplup",
+            "oculta": false
+        },
+        {
+            "nombre": "popplio",
+            "oculta": false
+        },
+        {
+            "nombre": "primarina",
+            "oculta": false
+        },
+        {
+            "nombre": "prinplup",
+            "oculta": false
+        },
+        {
+            "nombre": "quaquaval",
+            "oculta": false
+        },
+        {
+            "nombre": "quaxly",
+            "oculta": false
+        },
+        {
+            "nombre": "quaxwell",
+            "oculta": false
+        },
+        {
+            "nombre": "samurott-hisui",
+            "oculta": false
+        },
+        {
+            "nombre": "samurott",
+            "oculta": false
+        },
+        {
+            "nombre": "simipour",
+            "oculta": true
+        },
+        {
+            "nombre": "sobble",
+            "oculta": false
+        },
+        {
+            "nombre": "squirtle",
+            "oculta": false
+        },
+        {
+            "nombre": "swampert",
+            "oculta": false
+        },
+        {
+            "nombre": "totodile",
+            "oculta": false
+        },
+        {
+            "nombre": "wartortle",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Torrente",
+    "descripcion": "Potencia los ataques de tipo Agua en un apuro.",
+    "generacion_introduccion": "generation-iii"
+}

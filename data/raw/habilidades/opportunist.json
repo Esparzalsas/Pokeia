@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "espathra",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Oportunista",
+    "descripcion": null,
+    "generacion_introduccion": "generation-ix"
+}

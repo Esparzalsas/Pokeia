@@ -1,0 +1,151 @@
+{
+    "pokemon": [
+        {
+            "nombre": "absol",
+            "oculta": false
+        },
+        {
+            "nombre": "aerodactyl",
+            "oculta": false
+        },
+        {
+            "nombre": "articuno",
+            "oculta": false
+        },
+        {
+            "nombre": "bisharp",
+            "oculta": true
+        },
+        {
+            "nombre": "corviknight-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "corviknight",
+            "oculta": false
+        },
+        {
+            "nombre": "deoxys-attack",
+            "oculta": false
+        },
+        {
+            "nombre": "deoxys-defense",
+            "oculta": false
+        },
+        {
+            "nombre": "deoxys-normal",
+            "oculta": false
+        },
+        {
+            "nombre": "deoxys-speed",
+            "oculta": false
+        },
+        {
+            "nombre": "dialga-origin",
+            "oculta": false
+        },
+        {
+            "nombre": "dialga",
+            "oculta": false
+        },
+        {
+            "nombre": "dusclops",
+            "oculta": false
+        },
+        {
+            "nombre": "dusknoir",
+            "oculta": false
+        },
+        {
+            "nombre": "entei",
+            "oculta": false
+        },
+        {
+            "nombre": "eternatus-eternamax",
+            "oculta": false
+        },
+        {
+            "nombre": "eternatus",
+            "oculta": false
+        },
+        {
+            "nombre": "giratina-altered",
+            "oculta": false
+        },
+        {
+            "nombre": "ho-oh",
+            "oculta": false
+        },
+        {
+            "nombre": "kingambit",
+            "oculta": true
+        },
+        {
+            "nombre": "kyurem",
+            "oculta": false
+        },
+        {
+            "nombre": "lugia",
+            "oculta": false
+        },
+        {
+            "nombre": "mewtwo",
+            "oculta": false
+        },
+        {
+            "nombre": "moltres",
+            "oculta": false
+        },
+        {
+            "nombre": "palkia-origin",
+            "oculta": false
+        },
+        {
+            "nombre": "palkia",
+            "oculta": false
+        },
+        {
+            "nombre": "pawniard",
+            "oculta": true
+        },
+        {
+            "nombre": "raikou",
+            "oculta": false
+        },
+        {
+            "nombre": "sneasler",
+            "oculta": false
+        },
+        {
+            "nombre": "spiritomb",
+            "oculta": false
+        },
+        {
+            "nombre": "suicune",
+            "oculta": false
+        },
+        {
+            "nombre": "vespiquen",
+            "oculta": false
+        },
+        {
+            "nombre": "wailmer",
+            "oculta": true
+        },
+        {
+            "nombre": "wailord",
+            "oculta": true
+        },
+        {
+            "nombre": "weavile",
+            "oculta": false
+        },
+        {
+            "nombre": "zapdos",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Presión",
+    "descripcion": "Hace que los PP del rival se acaben antes.",
+    "generacion_introduccion": "generation-iii"
+}

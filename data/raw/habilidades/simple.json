@@ -1,0 +1,27 @@
+{
+    "pokemon": [
+        {
+            "nombre": "bibarel",
+            "oculta": false
+        },
+        {
+            "nombre": "bidoof",
+            "oculta": false
+        },
+        {
+            "nombre": "numel",
+            "oculta": false
+        },
+        {
+            "nombre": "swoobat",
+            "oculta": true
+        },
+        {
+            "nombre": "woobat",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Simple",
+    "descripcion": "Aumenta los cambios en las características.",
+    "generacion_introduccion": "generation-iv"
+}

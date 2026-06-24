@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "calyrex-shadow",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Unidad Ecuestre",
+    "descripcion": "El Pokémon tiene dos habilidades: Relincho Negro de Spectrier y Nerviosismo de Calyrex.",
+    "generacion_introduccion": "generation-viii"
+}

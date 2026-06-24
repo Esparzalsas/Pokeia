@@ -1,0 +1,23 @@
+{
+    "pokemon": [
+        {
+            "nombre": "carkol",
+            "oculta": false
+        },
+        {
+            "nombre": "coalossal-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "coalossal",
+            "oculta": false
+        },
+        {
+            "nombre": "rolycoly",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Combustible",
+    "descripcion": "Si le alcanza un movimiento de tipo Fuego o Agua, le sube muchísimo la Velocidad.",
+    "generacion_introduccion": "generation-viii"
+}

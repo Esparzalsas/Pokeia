@@ -1,0 +1,31 @@
+{
+    "pokemon": [
+        {
+            "nombre": "alakazam-mega",
+            "oculta": false
+        },
+        {
+            "nombre": "gardevoir",
+            "oculta": false
+        },
+        {
+            "nombre": "kirlia",
+            "oculta": false
+        },
+        {
+            "nombre": "porygon",
+            "oculta": false
+        },
+        {
+            "nombre": "porygon2",
+            "oculta": false
+        },
+        {
+            "nombre": "ralts",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Rastro",
+    "descripcion": "Copia la habilidad del rival.",
+    "generacion_introduccion": "generation-iii"
+}

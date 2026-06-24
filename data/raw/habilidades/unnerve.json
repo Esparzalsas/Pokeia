@@ -1,0 +1,119 @@
+{
+    "pokemon": [
+        {
+            "nombre": "aerodactyl",
+            "oculta": true
+        },
+        {
+            "nombre": "arbok",
+            "oculta": true
+        },
+        {
+            "nombre": "axew",
+            "oculta": true
+        },
+        {
+            "nombre": "bewear",
+            "oculta": true
+        },
+        {
+            "nombre": "calyrex",
+            "oculta": false
+        },
+        {
+            "nombre": "corviknight-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "corviknight",
+            "oculta": false
+        },
+        {
+            "nombre": "corvisquire",
+            "oculta": false
+        },
+        {
+            "nombre": "ekans",
+            "oculta": true
+        },
+        {
+            "nombre": "fraxure",
+            "oculta": true
+        },
+        {
+            "nombre": "galvantula",
+            "oculta": false
+        },
+        {
+            "nombre": "haxorus",
+            "oculta": true
+        },
+        {
+            "nombre": "houndoom",
+            "oculta": true
+        },
+        {
+            "nombre": "houndour",
+            "oculta": true
+        },
+        {
+            "nombre": "joltik",
+            "oculta": false
+        },
+        {
+            "nombre": "litleo",
+            "oculta": false
+        },
+        {
+            "nombre": "masquerain",
+            "oculta": true
+        },
+        {
+            "nombre": "meowth-galar",
+            "oculta": true
+        },
+        {
+            "nombre": "meowth-gmax",
+            "oculta": true
+        },
+        {
+            "nombre": "meowth",
+            "oculta": true
+        },
+        {
+            "nombre": "mewtwo",
+            "oculta": true
+        },
+        {
+            "nombre": "persian",
+            "oculta": true
+        },
+        {
+            "nombre": "pyroar",
+            "oculta": false
+        },
+        {
+            "nombre": "rookidee",
+            "oculta": false
+        },
+        {
+            "nombre": "tyranitar",
+            "oculta": true
+        },
+        {
+            "nombre": "ursaluna",
+            "oculta": true
+        },
+        {
+            "nombre": "ursaring",
+            "oculta": true
+        },
+        {
+            "nombre": "vespiquen",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Nerviosismo",
+    "descripcion": "Pone nervioso al rival y le impide usar bayas.",
+    "generacion_introduccion": "generation-v"
+}

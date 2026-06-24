@@ -1,0 +1,17 @@
+{
+    "id": 221,
+    "nombre_en": "sacred-fire",
+    "nombre_es": "Fuego Sagrado",
+    "tipo": "fire",
+    "categoria": "physical",
+    "potencia": 100,
+    "precision": 95,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-ii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "entei",
+        "ho-oh"
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "pokemon": [
+        {
+            "nombre": "barboach",
+            "oculta": false
+        },
+        {
+            "nombre": "croagunk",
+            "oculta": false
+        },
+        {
+            "nombre": "eevee-gmax",
+            "oculta": true
+        },
+        {
+            "nombre": "eevee-starter",
+            "oculta": true
+        },
+        {
+            "nombre": "eevee",
+            "oculta": true
+        },
+        {
+            "nombre": "ferrothorn",
+            "oculta": true
+        },
+        {
+            "nombre": "flittle",
+            "oculta": false
+        },
+        {
+            "nombre": "hatenna",
+            "oculta": false
+        },
+        {
+            "nombre": "hatterene-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "hatterene",
+            "oculta": false
+        },
+        {
+            "nombre": "hattrem",
+            "oculta": false
+        },
+        {
+            "nombre": "ponyta-galar",
+            "oculta": true
+        },
+        {
+            "nombre": "rapidash-galar",
+            "oculta": true
+        },
+        {
+            "nombre": "toxicroak",
+            "oculta": false
+        },
+        {
+            "nombre": "whiscash",
+            "oculta": false
+        },
+        {
+            "nombre": "wormadam-plant",
+            "oculta": false
+        },
+        {
+            "nombre": "wormadam-sandy",
+            "oculta": false
+        },
+        {
+            "nombre": "wormadam-trash",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Anticipación",
+    "descripcion": "Prevé los movimientos peligrosos del rival.",
+    "generacion_introduccion": "generation-iv"
+}

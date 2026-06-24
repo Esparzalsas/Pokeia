@@ -1,0 +1,33 @@
+{
+    "id": 602,
+    "nombre": "tynamo",
+    "tipos": [
+        "electric"
+    ],
+    "stats_base": {
+        "hp": 35,
+        "attack": 55,
+        "defense": 40,
+        "special-attack": 45,
+        "special-defense": 40,
+        "speed": 60
+    },
+    "habilidades": {
+        "normales": [
+            "levitate"
+        ],
+        "oculta": null
+    },
+    "movimientos": [
+        "tackle",
+        "thunder-wave",
+        "spark",
+        "charge",
+        "knock-off",
+        "magnet-rise",
+        "charge-beam",
+        "tera-blast"
+    ],
+    "peso": 3,
+    "altura": 2
+}

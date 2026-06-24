@@ -1,0 +1,16 @@
+{
+    "id": 461,
+    "nombre_en": "lunar-dance",
+    "nombre_es": "Danza Lunar",
+    "tipo": "psychic",
+    "categoria": "status",
+    "potencia": null,
+    "precision": null,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-iv",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "cresselia"
+    ]
+}

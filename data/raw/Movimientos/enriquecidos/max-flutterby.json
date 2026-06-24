@@ -1,0 +1,14 @@
+{
+    "id": 758,
+    "nombre_en": "max-flutterby",
+    "nombre_es": "Maxinsecto",
+    "tipo": "bug",
+    "categoria": "physical",
+    "potencia": 10,
+    "precision": null,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

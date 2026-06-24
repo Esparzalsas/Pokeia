@@ -1,0 +1,17 @@
+{
+    "id": 691,
+    "nombre_en": "clanging-scales",
+    "nombre_es": "Fragor Escamas",
+    "tipo": "dragon",
+    "categoria": "special",
+    "potencia": 110,
+    "precision": 100,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "kommo-o",
+        "kommo-o-totem"
+    ]
+}

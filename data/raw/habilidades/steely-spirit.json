@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "perrserker",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Alma Acerada",
+    "descripcion": "Potencia los movimientos de tipo Acero de los aliados.",
+    "generacion_introduccion": "generation-viii"
+}

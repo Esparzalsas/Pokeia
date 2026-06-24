@@ -1,0 +1,16 @@
+{
+    "id": 908,
+    "nombre_en": "burning-bulwark",
+    "nombre_es": "Llama Protectora",
+    "tipo": "fire",
+    "categoria": "status",
+    "potencia": 0,
+    "precision": 0,
+    "pp": 10,
+    "prioridad": 4,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "gouging-fire"
+    ]
+}

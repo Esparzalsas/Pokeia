@@ -1,0 +1,17 @@
+{
+    "id": 850,
+    "nombre_en": "take-heart",
+    "nombre_es": null,
+    "tipo": "psychic",
+    "categoria": "status",
+    "potencia": 0,
+    "precision": null,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "phione",
+        "manaphy"
+    ]
+}

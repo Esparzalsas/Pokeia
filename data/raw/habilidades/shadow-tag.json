@@ -1,0 +1,31 @@
+{
+    "pokemon": [
+        {
+            "nombre": "gengar-mega",
+            "oculta": false
+        },
+        {
+            "nombre": "gothita",
+            "oculta": true
+        },
+        {
+            "nombre": "gothitelle",
+            "oculta": true
+        },
+        {
+            "nombre": "gothorita",
+            "oculta": true
+        },
+        {
+            "nombre": "wobbuffet",
+            "oculta": false
+        },
+        {
+            "nombre": "wynaut",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Sombra Trampa",
+    "descripcion": "Evita que el enemigo huya.",
+    "generacion_introduccion": "generation-iii"
+}

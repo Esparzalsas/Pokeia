@@ -1,0 +1,16 @@
+{
+    "id": 454,
+    "nombre_en": "attack-order",
+    "nombre_es": "Al Ataque",
+    "tipo": "bug",
+    "categoria": "physical",
+    "potencia": 90,
+    "precision": 100,
+    "pp": 15,
+    "prioridad": 0,
+    "generacion": "generation-iv",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "vespiquen"
+    ]
+}

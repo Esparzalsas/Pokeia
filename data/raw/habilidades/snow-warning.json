@@ -1,0 +1,39 @@
+{
+    "pokemon": [
+        {
+            "nombre": "abomasnow-mega",
+            "oculta": false
+        },
+        {
+            "nombre": "abomasnow",
+            "oculta": false
+        },
+        {
+            "nombre": "amaura",
+            "oculta": true
+        },
+        {
+            "nombre": "aurorus",
+            "oculta": true
+        },
+        {
+            "nombre": "ninetales-alola",
+            "oculta": true
+        },
+        {
+            "nombre": "snover",
+            "oculta": false
+        },
+        {
+            "nombre": "vanilluxe",
+            "oculta": false
+        },
+        {
+            "nombre": "vulpix-alola",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Nevada",
+    "descripcion": "El Pokémon invoca una tormenta de granizo.",
+    "generacion_introduccion": "generation-iv"
+}

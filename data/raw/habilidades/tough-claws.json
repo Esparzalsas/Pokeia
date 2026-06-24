@@ -1,0 +1,39 @@
+{
+    "pokemon": [
+        {
+            "nombre": "aerodactyl-mega",
+            "oculta": false
+        },
+        {
+            "nombre": "barbaracle",
+            "oculta": false
+        },
+        {
+            "nombre": "binacle",
+            "oculta": false
+        },
+        {
+            "nombre": "charizard-mega-x",
+            "oculta": false
+        },
+        {
+            "nombre": "lycanroc-dusk",
+            "oculta": false
+        },
+        {
+            "nombre": "meowth-galar",
+            "oculta": false
+        },
+        {
+            "nombre": "metagross-mega",
+            "oculta": false
+        },
+        {
+            "nombre": "perrserker",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Garra Dura",
+    "descripcion": "Aumenta la potencia de los movimientos de contacto directo.",
+    "generacion_introduccion": "generation-vi"
+}

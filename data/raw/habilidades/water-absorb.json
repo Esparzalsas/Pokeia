@@ -1,0 +1,127 @@
+{
+    "pokemon": [
+        {
+            "nombre": "araquanid-totem",
+            "oculta": true
+        },
+        {
+            "nombre": "araquanid",
+            "oculta": true
+        },
+        {
+            "nombre": "arctovish",
+            "oculta": false
+        },
+        {
+            "nombre": "cacnea",
+            "oculta": true
+        },
+        {
+            "nombre": "cacturne",
+            "oculta": true
+        },
+        {
+            "nombre": "chinchou",
+            "oculta": true
+        },
+        {
+            "nombre": "clodsire",
+            "oculta": false
+        },
+        {
+            "nombre": "dewpider",
+            "oculta": true
+        },
+        {
+            "nombre": "dracovish",
+            "oculta": false
+        },
+        {
+            "nombre": "frillish",
+            "oculta": false
+        },
+        {
+            "nombre": "jellicent",
+            "oculta": false
+        },
+        {
+            "nombre": "lanturn",
+            "oculta": true
+        },
+        {
+            "nombre": "lapras-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "lapras",
+            "oculta": false
+        },
+        {
+            "nombre": "mantine",
+            "oculta": false
+        },
+        {
+            "nombre": "mantyke",
+            "oculta": false
+        },
+        {
+            "nombre": "maractus",
+            "oculta": false
+        },
+        {
+            "nombre": "ogerpon-wellspring-mask",
+            "oculta": false
+        },
+        {
+            "nombre": "palpitoad",
+            "oculta": true
+        },
+        {
+            "nombre": "politoed",
+            "oculta": false
+        },
+        {
+            "nombre": "poliwag",
+            "oculta": false
+        },
+        {
+            "nombre": "poliwhirl",
+            "oculta": false
+        },
+        {
+            "nombre": "poliwrath",
+            "oculta": false
+        },
+        {
+            "nombre": "quagsire",
+            "oculta": false
+        },
+        {
+            "nombre": "seismitoad",
+            "oculta": true
+        },
+        {
+            "nombre": "tympole",
+            "oculta": true
+        },
+        {
+            "nombre": "vaporeon",
+            "oculta": false
+        },
+        {
+            "nombre": "volcanion",
+            "oculta": false
+        },
+        {
+            "nombre": "wooper-paldea",
+            "oculta": false
+        },
+        {
+            "nombre": "wooper",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Absorbe Agua",
+    "descripcion": "Recupera PS al recibir ataques de tipo Agua.",
+    "generacion_introduccion": "generation-iii"
+}

@@ -1,0 +1,191 @@
+{
+    "pokemon": [
+        {
+            "nombre": "arbok",
+            "oculta": false
+        },
+        {
+            "nombre": "arcanine-hisui",
+            "oculta": false
+        },
+        {
+            "nombre": "arcanine",
+            "oculta": false
+        },
+        {
+            "nombre": "ekans",
+            "oculta": false
+        },
+        {
+            "nombre": "granbull",
+            "oculta": false
+        },
+        {
+            "nombre": "growlithe-hisui",
+            "oculta": false
+        },
+        {
+            "nombre": "growlithe",
+            "oculta": false
+        },
+        {
+            "nombre": "gyarados",
+            "oculta": false
+        },
+        {
+            "nombre": "herdier",
+            "oculta": false
+        },
+        {
+            "nombre": "hitmontop",
+            "oculta": false
+        },
+        {
+            "nombre": "incineroar",
+            "oculta": true
+        },
+        {
+            "nombre": "krokorok",
+            "oculta": false
+        },
+        {
+            "nombre": "krookodile",
+            "oculta": false
+        },
+        {
+            "nombre": "landorus-therian",
+            "oculta": false
+        },
+        {
+            "nombre": "litten",
+            "oculta": true
+        },
+        {
+            "nombre": "luxio",
+            "oculta": false
+        },
+        {
+            "nombre": "luxray",
+            "oculta": false
+        },
+        {
+            "nombre": "mabosstiff",
+            "oculta": false
+        },
+        {
+            "nombre": "manectric-mega",
+            "oculta": false
+        },
+        {
+            "nombre": "maschiff",
+            "oculta": false
+        },
+        {
+            "nombre": "masquerain",
+            "oculta": false
+        },
+        {
+            "nombre": "mawile",
+            "oculta": false
+        },
+        {
+            "nombre": "mightyena",
+            "oculta": false
+        },
+        {
+            "nombre": "overqwil",
+            "oculta": true
+        },
+        {
+            "nombre": "qwilfish-hisui",
+            "oculta": true
+        },
+        {
+            "nombre": "qwilfish",
+            "oculta": true
+        },
+        {
+            "nombre": "salamence",
+            "oculta": false
+        },
+        {
+            "nombre": "sandile",
+            "oculta": false
+        },
+        {
+            "nombre": "scrafty",
+            "oculta": true
+        },
+        {
+            "nombre": "scraggy",
+            "oculta": true
+        },
+        {
+            "nombre": "shinx",
+            "oculta": false
+        },
+        {
+            "nombre": "snubbull",
+            "oculta": false
+        },
+        {
+            "nombre": "squawkabilly-blue-plumage",
+            "oculta": false
+        },
+        {
+            "nombre": "squawkabilly-green-plumage",
+            "oculta": false
+        },
+        {
+            "nombre": "squawkabilly-white-plumage",
+            "oculta": false
+        },
+        {
+            "nombre": "squawkabilly-yellow-plumage",
+            "oculta": false
+        },
+        {
+            "nombre": "stantler",
+            "oculta": false
+        },
+        {
+            "nombre": "staraptor",
+            "oculta": false
+        },
+        {
+            "nombre": "staravia",
+            "oculta": false
+        },
+        {
+            "nombre": "stoutland",
+            "oculta": false
+        },
+        {
+            "nombre": "tauros-paldea-aqua-breed",
+            "oculta": false
+        },
+        {
+            "nombre": "tauros-paldea-blaze-breed",
+            "oculta": false
+        },
+        {
+            "nombre": "tauros-paldea-combat-breed",
+            "oculta": false
+        },
+        {
+            "nombre": "tauros",
+            "oculta": false
+        },
+        {
+            "nombre": "torracat",
+            "oculta": true
+        },
+        {
+            "nombre": "wyrdeer",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Intimidación",
+    "descripcion": "Baja el Ataque del rival.",
+    "generacion_introduccion": "generation-iii"
+}

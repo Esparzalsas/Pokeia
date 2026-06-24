@@ -1,0 +1,47 @@
+{
+    "pokemon": [
+        {
+            "nombre": "absol-mega",
+            "oculta": false
+        },
+        {
+            "nombre": "diancie-mega",
+            "oculta": false
+        },
+        {
+            "nombre": "espeon",
+            "oculta": true
+        },
+        {
+            "nombre": "hatenna",
+            "oculta": true
+        },
+        {
+            "nombre": "hatterene-gmax",
+            "oculta": true
+        },
+        {
+            "nombre": "hatterene",
+            "oculta": true
+        },
+        {
+            "nombre": "hattrem",
+            "oculta": true
+        },
+        {
+            "nombre": "natu",
+            "oculta": true
+        },
+        {
+            "nombre": "sableye-mega",
+            "oculta": false
+        },
+        {
+            "nombre": "xatu",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Espejo Mágico",
+    "descripcion": "Permite devolver los ataques de estado.",
+    "generacion_introduccion": "generation-v"
+}

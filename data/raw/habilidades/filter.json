@@ -1,0 +1,23 @@
+{
+    "pokemon": [
+        {
+            "nombre": "aggron-mega",
+            "oculta": false
+        },
+        {
+            "nombre": "mime-jr",
+            "oculta": false
+        },
+        {
+            "nombre": "mr-mime",
+            "oculta": false
+        },
+        {
+            "nombre": "revavroom",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Filtro",
+    "descripcion": "Mitiga los movimientos supereficaces.",
+    "generacion_introduccion": "generation-iv"
+}

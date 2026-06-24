@@ -1,0 +1,21 @@
+{
+    "id": 882,
+    "nombre_en": "tidy-up",
+    "nombre_es": null,
+    "tipo": "normal",
+    "categoria": "status",
+    "potencia": 0,
+    "precision": null,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "sentret",
+        "furret",
+        "minccino",
+        "cinccino",
+        "maushold-family-of-four",
+        "maushold-family-of-three"
+    ]
+}

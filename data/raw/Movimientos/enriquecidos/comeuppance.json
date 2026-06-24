@@ -1,0 +1,20 @@
+{
+    "id": 894,
+    "nombre_en": "comeuppance",
+    "nombre_es": null,
+    "tipo": "dark",
+    "categoria": "physical",
+    "potencia": 1,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "houndour",
+        "houndoom",
+        "honchkrow",
+        "mabosstiff",
+        "zorua-hisui"
+    ]
+}

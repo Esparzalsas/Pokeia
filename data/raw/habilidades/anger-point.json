@@ -1,0 +1,55 @@
+{
+    "pokemon": [
+        {
+            "nombre": "camerupt",
+            "oculta": true
+        },
+        {
+            "nombre": "crabominable",
+            "oculta": true
+        },
+        {
+            "nombre": "crabrawler",
+            "oculta": true
+        },
+        {
+            "nombre": "krokorok",
+            "oculta": true
+        },
+        {
+            "nombre": "krookodile",
+            "oculta": true
+        },
+        {
+            "nombre": "mankey",
+            "oculta": false
+        },
+        {
+            "nombre": "primeape",
+            "oculta": false
+        },
+        {
+            "nombre": "sandile",
+            "oculta": true
+        },
+        {
+            "nombre": "tauros-paldea-aqua-breed",
+            "oculta": false
+        },
+        {
+            "nombre": "tauros-paldea-blaze-breed",
+            "oculta": false
+        },
+        {
+            "nombre": "tauros-paldea-combat-breed",
+            "oculta": false
+        },
+        {
+            "nombre": "tauros",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Irascible",
+    "descripcion": "Sube el Ataque al máximo tras un golpe crítico.",
+    "generacion_introduccion": "generation-iv"
+}

@@ -1,0 +1,38 @@
+{
+    "id": 840,
+    "nombre": "applin",
+    "tipos": [
+        "grass",
+        "dragon"
+    ],
+    "stats_base": {
+        "hp": 40,
+        "attack": 40,
+        "defense": 80,
+        "special-attack": 40,
+        "special-defense": 40,
+        "speed": 20
+    },
+    "habilidades": {
+        "normales": [
+            "ripen",
+            "gluttony"
+        ],
+        "oculta": "bulletproof"
+    },
+    "movimientos": [
+        "withdraw",
+        "defense-curl",
+        "rollout",
+        "attract",
+        "recycle",
+        "astonish",
+        "sucker-punch",
+        "draco-meteor",
+        "grassy-glide",
+        "tera-blast",
+        "pounce"
+    ],
+    "peso": 5,
+    "altura": 2
+}

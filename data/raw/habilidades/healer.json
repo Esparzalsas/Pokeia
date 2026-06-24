@@ -1,0 +1,55 @@
+{
+    "pokemon": [
+        {
+            "nombre": "alomomola",
+            "oculta": false
+        },
+        {
+            "nombre": "aromatisse",
+            "oculta": false
+        },
+        {
+            "nombre": "audino-mega",
+            "oculta": false
+        },
+        {
+            "nombre": "audino",
+            "oculta": false
+        },
+        {
+            "nombre": "bellossom",
+            "oculta": true
+        },
+        {
+            "nombre": "blissey",
+            "oculta": true
+        },
+        {
+            "nombre": "chansey",
+            "oculta": true
+        },
+        {
+            "nombre": "hatenna",
+            "oculta": false
+        },
+        {
+            "nombre": "hatterene-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "hatterene",
+            "oculta": false
+        },
+        {
+            "nombre": "hattrem",
+            "oculta": false
+        },
+        {
+            "nombre": "spritzee",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Alma Cura",
+    "descripcion": "A veces cura los cambios de estado de un aliado.",
+    "generacion_introduccion": "generation-v"
+}

@@ -1,0 +1,16 @@
+{
+    "id": 835,
+    "nombre_en": "chloroblast",
+    "nombre_es": null,
+    "tipo": "grass",
+    "categoria": "special",
+    "potencia": 150,
+    "precision": 95,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "electrode-hisui"
+    ]
+}

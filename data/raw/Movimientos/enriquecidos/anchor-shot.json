@@ -1,0 +1,16 @@
+{
+    "id": 677,
+    "nombre_en": "anchor-shot",
+    "nombre_es": "Anclaje",
+    "tipo": "steel",
+    "categoria": "physical",
+    "potencia": 80,
+    "precision": 100,
+    "pp": 20,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "dhelmise"
+    ]
+}

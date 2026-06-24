@@ -1,0 +1,51 @@
+{
+    "pokemon": [
+        {
+            "nombre": "blacephalon",
+            "oculta": false
+        },
+        {
+            "nombre": "buzzwole",
+            "oculta": false
+        },
+        {
+            "nombre": "celesteela",
+            "oculta": false
+        },
+        {
+            "nombre": "guzzlord",
+            "oculta": false
+        },
+        {
+            "nombre": "kartana",
+            "oculta": false
+        },
+        {
+            "nombre": "naganadel",
+            "oculta": false
+        },
+        {
+            "nombre": "nihilego",
+            "oculta": false
+        },
+        {
+            "nombre": "pheromosa",
+            "oculta": false
+        },
+        {
+            "nombre": "poipole",
+            "oculta": false
+        },
+        {
+            "nombre": "stakataka",
+            "oculta": false
+        },
+        {
+            "nombre": "xurkitree",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Ultraimpulso",
+    "descripcion": "Si el Pokémon derrota a un rival en ese turno, aumenta su característica más fuerte.",
+    "generacion_introduccion": "generation-vii"
+}

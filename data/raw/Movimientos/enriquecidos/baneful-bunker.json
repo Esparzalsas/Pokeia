@@ -1,0 +1,16 @@
+{
+    "id": 661,
+    "nombre_en": "baneful-bunker",
+    "nombre_es": "Búnker",
+    "tipo": "poison",
+    "categoria": "status",
+    "potencia": null,
+    "precision": null,
+    "pp": 10,
+    "prioridad": 4,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "toxapex"
+    ]
+}

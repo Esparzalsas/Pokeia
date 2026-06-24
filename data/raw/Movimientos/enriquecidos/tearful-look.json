@@ -1,0 +1,33 @@
+{
+    "id": 715,
+    "nombre_en": "tearful-look",
+    "nombre_es": "Ojos Llorosos",
+    "tipo": "normal",
+    "categoria": "status",
+    "potencia": null,
+    "precision": null,
+    "pp": 20,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "sudowoodo",
+        "plusle",
+        "minun",
+        "luvdisc",
+        "bonsly",
+        "patrat",
+        "flabebe",
+        "dedenne",
+        "goodra",
+        "wishiwashi-solo",
+        "sobble",
+        "drizzile",
+        "inteleon",
+        "toxel",
+        "toxtricity-amped",
+        "wishiwashi-school",
+        "toxtricity-low-key",
+        "goodra-hisui"
+    ]
+}

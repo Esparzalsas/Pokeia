@@ -1,0 +1,17 @@
+{
+    "id": 672,
+    "nombre_en": "toxic-thread",
+    "nombre_es": "Hilo Venenoso",
+    "tipo": "poison",
+    "categoria": "status",
+    "potencia": null,
+    "precision": 100,
+    "pp": 20,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "spinarak",
+        "ariados"
+    ]
+}

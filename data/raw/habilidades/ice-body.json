@@ -1,0 +1,91 @@
+{
+    "pokemon": [
+        {
+            "nombre": "arctibax",
+            "oculta": true
+        },
+        {
+            "nombre": "arctovish",
+            "oculta": false
+        },
+        {
+            "nombre": "avalugg-hisui",
+            "oculta": false
+        },
+        {
+            "nombre": "avalugg",
+            "oculta": false
+        },
+        {
+            "nombre": "baxcalibur",
+            "oculta": true
+        },
+        {
+            "nombre": "bergmite",
+            "oculta": false
+        },
+        {
+            "nombre": "dewgong",
+            "oculta": true
+        },
+        {
+            "nombre": "frigibax",
+            "oculta": true
+        },
+        {
+            "nombre": "glaceon",
+            "oculta": true
+        },
+        {
+            "nombre": "glalie",
+            "oculta": false
+        },
+        {
+            "nombre": "mr-mime-galar",
+            "oculta": true
+        },
+        {
+            "nombre": "mr-rime",
+            "oculta": true
+        },
+        {
+            "nombre": "regice",
+            "oculta": true
+        },
+        {
+            "nombre": "sealeo",
+            "oculta": false
+        },
+        {
+            "nombre": "seel",
+            "oculta": true
+        },
+        {
+            "nombre": "snorunt",
+            "oculta": false
+        },
+        {
+            "nombre": "spheal",
+            "oculta": false
+        },
+        {
+            "nombre": "vanillish",
+            "oculta": false
+        },
+        {
+            "nombre": "vanillite",
+            "oculta": false
+        },
+        {
+            "nombre": "vanilluxe",
+            "oculta": false
+        },
+        {
+            "nombre": "walrein",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Gélido",
+    "descripcion": "Recupera algunos PS cuando hay tormentas de granizo.",
+    "generacion_introduccion": "generation-iv"
+}

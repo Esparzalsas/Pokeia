@@ -1,0 +1,19 @@
+{
+    "pokemon": [
+        {
+            "nombre": "archaludon",
+            "oculta": true
+        },
+        {
+            "nombre": "duraludon-gmax",
+            "oculta": true
+        },
+        {
+            "nombre": "duraludon",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Acérrimo",
+    "descripcion": "Impide que el rival pueda atraer ataques hacia sí mismo por efecto de su habilidad o sus movimientos.",
+    "generacion_introduccion": "generation-viii"
+}

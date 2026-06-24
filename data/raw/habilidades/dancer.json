@@ -1,0 +1,23 @@
+{
+    "pokemon": [
+        {
+            "nombre": "oricorio-baile",
+            "oculta": false
+        },
+        {
+            "nombre": "oricorio-pau",
+            "oculta": false
+        },
+        {
+            "nombre": "oricorio-pom-pom",
+            "oculta": false
+        },
+        {
+            "nombre": "oricorio-sensu",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Pareja de Baile",
+    "descripcion": "Permite copiar inmediatamente cualquier movimiento de baile que haya usado otro Pokémon presente en el combate.",
+    "generacion_introduccion": "generation-vii"
+}

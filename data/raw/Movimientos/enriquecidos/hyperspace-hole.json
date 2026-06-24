@@ -1,0 +1,16 @@
+{
+    "id": 593,
+    "nombre_en": "hyperspace-hole",
+    "nombre_es": "Paso Dimensional",
+    "tipo": "psychic",
+    "categoria": "special",
+    "potencia": 80,
+    "precision": null,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-vi",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "hoopa"
+    ]
+}

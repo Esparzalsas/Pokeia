@@ -1,0 +1,23 @@
+{
+    "pokemon": [
+        {
+            "nombre": "genesect",
+            "oculta": false
+        },
+        {
+            "nombre": "porygon-z",
+            "oculta": false
+        },
+        {
+            "nombre": "porygon",
+            "oculta": false
+        },
+        {
+            "nombre": "porygon2",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Descarga",
+    "descripcion": "Adapta su fuerza para cada rival.",
+    "generacion_introduccion": "generation-iv"
+}

@@ -1,0 +1,18 @@
+{
+    "id": 176,
+    "nombre_en": "conversion-2",
+    "nombre_es": "Conversión2",
+    "tipo": "normal",
+    "categoria": "status",
+    "potencia": null,
+    "precision": null,
+    "pp": 30,
+    "prioridad": 0,
+    "generacion": "generation-ii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "porygon",
+        "porygon2",
+        "porygon-z"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "pokemon": [
+        {
+            "nombre": "darmanitan-galar-standard",
+            "oculta": false
+        },
+        {
+            "nombre": "darmanitan-galar-zen",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Monotema",
+    "descripcion": "Potencia su Ataque, pero solo puede usar el primer movimiento escogido.",
+    "generacion_introduccion": "generation-viii"
+}

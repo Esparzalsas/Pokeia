@@ -1,0 +1,17 @@
+{
+    "id": 789,
+    "nombre_en": "spirit-break",
+    "nombre_es": "Choque Anímico",
+    "tipo": "fairy",
+    "categoria": "physical",
+    "potencia": 75,
+    "precision": 100,
+    "pp": 15,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "grimmsnarl",
+        "iron-valiant"
+    ]
+}

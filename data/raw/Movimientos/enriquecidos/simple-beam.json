@@ -1,0 +1,31 @@
+{
+    "id": 493,
+    "nombre_en": "simple-beam",
+    "nombre_es": "Onda Simple",
+    "tipo": "normal",
+    "categoria": "status",
+    "potencia": null,
+    "precision": 100,
+    "pp": 15,
+    "prioridad": 0,
+    "generacion": "generation-v",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "psyduck",
+        "farfetchd",
+        "natu",
+        "zigzagoon",
+        "skitty",
+        "spoink",
+        "latios",
+        "woobat",
+        "swoobat",
+        "audino",
+        "elgyem",
+        "beheeyem",
+        "genesect",
+        "inkay",
+        "audino-mega",
+        "farfetchd-galar"
+    ]
+}

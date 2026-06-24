@@ -1,0 +1,17 @@
+{
+    "id": 848,
+    "nombre_en": "sandsear-storm",
+    "nombre_es": null,
+    "tipo": "ground",
+    "categoria": "special",
+    "potencia": 100,
+    "precision": 80,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "landorus-incarnate",
+        "landorus-therian"
+    ]
+}

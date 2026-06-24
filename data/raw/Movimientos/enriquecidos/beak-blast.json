@@ -1,0 +1,16 @@
+{
+    "id": 690,
+    "nombre_en": "beak-blast",
+    "nombre_es": "Pico Cañón",
+    "tipo": "flying",
+    "categoria": "physical",
+    "potencia": 100,
+    "precision": 100,
+    "pp": 15,
+    "prioridad": -3,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "toucannon"
+    ]
+}

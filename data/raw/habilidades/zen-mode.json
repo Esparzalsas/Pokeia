@@ -1,0 +1,23 @@
+{
+    "pokemon": [
+        {
+            "nombre": "darmanitan-galar-standard",
+            "oculta": true
+        },
+        {
+            "nombre": "darmanitan-galar-zen",
+            "oculta": true
+        },
+        {
+            "nombre": "darmanitan-standard",
+            "oculta": true
+        },
+        {
+            "nombre": "darmanitan-zen",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Modo Daruma",
+    "descripcion": "Cambia de forma en un apuro.",
+    "generacion_introduccion": "generation-v"
+}

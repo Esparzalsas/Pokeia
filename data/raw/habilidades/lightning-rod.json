@@ -1,0 +1,155 @@
+{
+    "pokemon": [
+        {
+            "nombre": "blitzle",
+            "oculta": false
+        },
+        {
+            "nombre": "cubone",
+            "oculta": false
+        },
+        {
+            "nombre": "electrike",
+            "oculta": false
+        },
+        {
+            "nombre": "goldeen",
+            "oculta": true
+        },
+        {
+            "nombre": "manectric",
+            "oculta": false
+        },
+        {
+            "nombre": "marowak-alola",
+            "oculta": false
+        },
+        {
+            "nombre": "marowak-totem",
+            "oculta": false
+        },
+        {
+            "nombre": "marowak",
+            "oculta": false
+        },
+        {
+            "nombre": "pichu",
+            "oculta": true
+        },
+        {
+            "nombre": "pikachu-alola-cap",
+            "oculta": true
+        },
+        {
+            "nombre": "pikachu-belle",
+            "oculta": true
+        },
+        {
+            "nombre": "pikachu-cosplay",
+            "oculta": true
+        },
+        {
+            "nombre": "pikachu-gmax",
+            "oculta": true
+        },
+        {
+            "nombre": "pikachu-hoenn-cap",
+            "oculta": true
+        },
+        {
+            "nombre": "pikachu-kalos-cap",
+            "oculta": true
+        },
+        {
+            "nombre": "pikachu-libre",
+            "oculta": true
+        },
+        {
+            "nombre": "pikachu-original-cap",
+            "oculta": true
+        },
+        {
+            "nombre": "pikachu-partner-cap",
+            "oculta": true
+        },
+        {
+            "nombre": "pikachu-phd",
+            "oculta": true
+        },
+        {
+            "nombre": "pikachu-pop-star",
+            "oculta": true
+        },
+        {
+            "nombre": "pikachu-rock-star",
+            "oculta": true
+        },
+        {
+            "nombre": "pikachu-sinnoh-cap",
+            "oculta": true
+        },
+        {
+            "nombre": "pikachu-starter",
+            "oculta": true
+        },
+        {
+            "nombre": "pikachu-unova-cap",
+            "oculta": true
+        },
+        {
+            "nombre": "pikachu-world-cap",
+            "oculta": true
+        },
+        {
+            "nombre": "pikachu",
+            "oculta": true
+        },
+        {
+            "nombre": "pincurchin",
+            "oculta": false
+        },
+        {
+            "nombre": "plusle",
+            "oculta": true
+        },
+        {
+            "nombre": "raichu",
+            "oculta": true
+        },
+        {
+            "nombre": "rhydon",
+            "oculta": false
+        },
+        {
+            "nombre": "rhyhorn",
+            "oculta": false
+        },
+        {
+            "nombre": "rhyperior",
+            "oculta": false
+        },
+        {
+            "nombre": "sceptile-mega",
+            "oculta": false
+        },
+        {
+            "nombre": "seaking",
+            "oculta": true
+        },
+        {
+            "nombre": "togedemaru-totem",
+            "oculta": false
+        },
+        {
+            "nombre": "togedemaru",
+            "oculta": false
+        },
+        {
+            "nombre": "zebstrika",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Pararrayos",
+    "descripcion": "Atrae y neutraliza movimientos de tipo Eléctrico y sube el At. Esp.",
+    "generacion_introduccion": "generation-iii"
+}

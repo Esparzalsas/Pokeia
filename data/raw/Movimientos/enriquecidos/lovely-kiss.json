@@ -1,0 +1,17 @@
+{
+    "id": 142,
+    "nombre_en": "lovely-kiss",
+    "nombre_es": "Beso Amoroso",
+    "tipo": "normal",
+    "categoria": "status",
+    "potencia": null,
+    "precision": 75,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-i",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "jynx",
+        "smoochum"
+    ]
+}

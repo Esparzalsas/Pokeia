@@ -1,0 +1,31 @@
+{
+    "pokemon": [
+        {
+            "nombre": "carvanha",
+            "oculta": false
+        },
+        {
+            "nombre": "druddigon",
+            "oculta": false
+        },
+        {
+            "nombre": "gabite",
+            "oculta": true
+        },
+        {
+            "nombre": "garchomp",
+            "oculta": true
+        },
+        {
+            "nombre": "gible",
+            "oculta": true
+        },
+        {
+            "nombre": "sharpedo",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Piel Tosca",
+    "descripcion": "Hiere al tacto.",
+    "generacion_introduccion": "generation-iii"
+}

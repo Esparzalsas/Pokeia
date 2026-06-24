@@ -1,0 +1,111 @@
+{
+    "pokemon": [
+        {
+            "nombre": "brambleghast",
+            "oculta": true
+        },
+        {
+            "nombre": "bramblin",
+            "oculta": true
+        },
+        {
+            "nombre": "chandelure",
+            "oculta": true
+        },
+        {
+            "nombre": "cottonee",
+            "oculta": false
+        },
+        {
+            "nombre": "crobat",
+            "oculta": true
+        },
+        {
+            "nombre": "dragapult",
+            "oculta": false
+        },
+        {
+            "nombre": "drakloak",
+            "oculta": false
+        },
+        {
+            "nombre": "dreepy",
+            "oculta": false
+        },
+        {
+            "nombre": "espurr",
+            "oculta": false
+        },
+        {
+            "nombre": "golbat",
+            "oculta": true
+        },
+        {
+            "nombre": "hoppip",
+            "oculta": true
+        },
+        {
+            "nombre": "inkay",
+            "oculta": true
+        },
+        {
+            "nombre": "jumpluff",
+            "oculta": true
+        },
+        {
+            "nombre": "lampent",
+            "oculta": true
+        },
+        {
+            "nombre": "litwick",
+            "oculta": true
+        },
+        {
+            "nombre": "malamar",
+            "oculta": true
+        },
+        {
+            "nombre": "meowstic-female",
+            "oculta": false
+        },
+        {
+            "nombre": "meowstic-male",
+            "oculta": false
+        },
+        {
+            "nombre": "ninjask",
+            "oculta": true
+        },
+        {
+            "nombre": "noibat",
+            "oculta": false
+        },
+        {
+            "nombre": "noivern",
+            "oculta": false
+        },
+        {
+            "nombre": "seviper",
+            "oculta": true
+        },
+        {
+            "nombre": "skiploom",
+            "oculta": true
+        },
+        {
+            "nombre": "spiritomb",
+            "oculta": true
+        },
+        {
+            "nombre": "whimsicott",
+            "oculta": false
+        },
+        {
+            "nombre": "zubat",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Allanamiento",
+    "descripcion": "Ataca rodeando la barrera del rival.",
+    "generacion_introduccion": "generation-v"
+}

@@ -1,0 +1,43 @@
+{
+    "pokemon": [
+        {
+            "nombre": "geodude-alola",
+            "oculta": false
+        },
+        {
+            "nombre": "golem-alola",
+            "oculta": false
+        },
+        {
+            "nombre": "graveler-alola",
+            "oculta": false
+        },
+        {
+            "nombre": "magnemite",
+            "oculta": false
+        },
+        {
+            "nombre": "magneton",
+            "oculta": false
+        },
+        {
+            "nombre": "magnezone",
+            "oculta": false
+        },
+        {
+            "nombre": "meltan",
+            "oculta": false
+        },
+        {
+            "nombre": "nosepass",
+            "oculta": false
+        },
+        {
+            "nombre": "probopass",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Imán",
+    "descripcion": "Impide huir a los Pokémon de tipo Acero.",
+    "generacion_introduccion": "generation-iii"
+}

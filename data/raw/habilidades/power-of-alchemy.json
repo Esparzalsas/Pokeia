@@ -1,0 +1,15 @@
+{
+    "pokemon": [
+        {
+            "nombre": "grimer-alola",
+            "oculta": true
+        },
+        {
+            "nombre": "muk-alola",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Reacción Química",
+    "descripcion": "Reacciona copiando la habilidad de un aliado debilitado.",
+    "generacion_introduccion": "generation-vii"
+}

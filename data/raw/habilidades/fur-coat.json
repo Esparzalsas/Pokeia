@@ -1,0 +1,15 @@
+{
+    "pokemon": [
+        {
+            "nombre": "furfrou",
+            "oculta": false
+        },
+        {
+            "nombre": "persian-alola",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Pelaje Recio",
+    "descripcion": "Reduce a la mitad el daño recibido por ataques físicos.",
+    "generacion_introduccion": "generation-vi"
+}

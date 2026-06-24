@@ -1,0 +1,79 @@
+{
+    "pokemon": [
+        {
+            "nombre": "boldore",
+            "oculta": true
+        },
+        {
+            "nombre": "diglett-alola",
+            "oculta": true
+        },
+        {
+            "nombre": "diglett",
+            "oculta": true
+        },
+        {
+            "nombre": "drilbur",
+            "oculta": false
+        },
+        {
+            "nombre": "dugtrio-alola",
+            "oculta": true
+        },
+        {
+            "nombre": "dugtrio",
+            "oculta": true
+        },
+        {
+            "nombre": "excadrill",
+            "oculta": false
+        },
+        {
+            "nombre": "garchomp-mega",
+            "oculta": false
+        },
+        {
+            "nombre": "gastrodon",
+            "oculta": true
+        },
+        {
+            "nombre": "gigalith",
+            "oculta": true
+        },
+        {
+            "nombre": "hippopotas",
+            "oculta": true
+        },
+        {
+            "nombre": "hippowdon",
+            "oculta": true
+        },
+        {
+            "nombre": "landorus-incarnate",
+            "oculta": false
+        },
+        {
+            "nombre": "nosepass",
+            "oculta": true
+        },
+        {
+            "nombre": "probopass",
+            "oculta": true
+        },
+        {
+            "nombre": "roggenrola",
+            "oculta": true
+        },
+        {
+            "nombre": "shellos",
+            "oculta": true
+        },
+        {
+            "nombre": "steelix-mega",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Poder Arena",
+    "descripcion": "Potencia algunos movimientos durante las tormentas de arena.",
+    "generacion_introduccion": "generation-v"
+}

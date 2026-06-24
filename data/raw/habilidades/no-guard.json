@@ -1,0 +1,51 @@
+{
+    "pokemon": [
+        {
+            "nombre": "doublade",
+            "oculta": false
+        },
+        {
+            "nombre": "golett",
+            "oculta": true
+        },
+        {
+            "nombre": "golurk",
+            "oculta": true
+        },
+        {
+            "nombre": "honedge",
+            "oculta": false
+        },
+        {
+            "nombre": "karrablast",
+            "oculta": true
+        },
+        {
+            "nombre": "lycanroc-midnight",
+            "oculta": true
+        },
+        {
+            "nombre": "machamp-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "machamp",
+            "oculta": false
+        },
+        {
+            "nombre": "machoke",
+            "oculta": false
+        },
+        {
+            "nombre": "machop",
+            "oculta": false
+        },
+        {
+            "nombre": "pidgeot-mega",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Indefenso",
+    "descripcion": "El movimiento del Pokémon y el del rival acertarán.",
+    "generacion_introduccion": "generation-iv"
+}

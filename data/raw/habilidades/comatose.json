@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "komala",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Letargo Perenne",
+    "descripcion": "No despierta jamás de su profundo letargo  e incluso ataca dormido.",
+    "generacion_introduccion": "generation-vii"
+}

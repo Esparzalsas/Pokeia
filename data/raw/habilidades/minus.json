@@ -1,0 +1,39 @@
+{
+    "pokemon": [
+        {
+            "nombre": "electrike",
+            "oculta": true
+        },
+        {
+            "nombre": "klang",
+            "oculta": false
+        },
+        {
+            "nombre": "klink",
+            "oculta": false
+        },
+        {
+            "nombre": "klinklang",
+            "oculta": false
+        },
+        {
+            "nombre": "manectric",
+            "oculta": true
+        },
+        {
+            "nombre": "minun",
+            "oculta": false
+        },
+        {
+            "nombre": "toxtricity-low-key-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "toxtricity-low-key",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Menos",
+    "descripcion": "Potencia el At. Esp. si algún otro Pokémon tiene Más o Menos.",
+    "generacion_introduccion": "generation-iii"
+}

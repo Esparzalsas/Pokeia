@@ -1,0 +1,14 @@
+{
+    "id": 165,
+    "nombre_en": "struggle",
+    "nombre_es": "Forcejeo",
+    "tipo": "normal",
+    "categoria": "physical",
+    "potencia": 50,
+    "precision": null,
+    "pp": 1,
+    "prioridad": 0,
+    "generacion": "generation-i",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

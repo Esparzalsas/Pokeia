@@ -1,0 +1,25 @@
+{
+    "id": 569,
+    "nombre_en": "ion-deluge",
+    "nombre_es": "Cortina Plasma",
+    "tipo": "electric",
+    "categoria": "status",
+    "potencia": null,
+    "precision": null,
+    "pp": 25,
+    "prioridad": 1,
+    "generacion": "generation-vi",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "chinchou",
+        "lanturn",
+        "ampharos",
+        "pachirisu",
+        "electivire",
+        "zebstrika",
+        "emolga",
+        "eelektross",
+        "xurkitree",
+        "ampharos-mega"
+    ]
+}

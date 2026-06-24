@@ -1,0 +1,19 @@
+{
+    "pokemon": [
+        {
+            "nombre": "amaura",
+            "oculta": false
+        },
+        {
+            "nombre": "aurorus",
+            "oculta": false
+        },
+        {
+            "nombre": "glalie-mega",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Piel Helada",
+    "descripcion": "Convierte movimientos de tipo Normal en tipo Hielo.",
+    "generacion_introduccion": "generation-vi"
+}

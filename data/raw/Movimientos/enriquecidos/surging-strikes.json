@@ -1,0 +1,16 @@
+{
+    "id": 818,
+    "nombre_en": "surging-strikes",
+    "nombre_es": "Azote Torrencial",
+    "tipo": "water",
+    "categoria": "physical",
+    "potencia": 25,
+    "precision": 100,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "urshifu-rapid-strike"
+    ]
+}

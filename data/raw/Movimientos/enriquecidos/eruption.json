@@ -1,0 +1,25 @@
+{
+    "id": 284,
+    "nombre_en": "eruption",
+    "nombre_es": "Estallido",
+    "tipo": "fire",
+    "categoria": "special",
+    "potencia": 150,
+    "precision": 100,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-iii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "cyndaquil",
+        "quilava",
+        "typhlosion",
+        "entei",
+        "camerupt",
+        "torkoal",
+        "groudon",
+        "groudon-primal",
+        "camerupt-mega",
+        "typhlosion-hisui"
+    ]
+}

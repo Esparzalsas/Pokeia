@@ -1,0 +1,16 @@
+{
+    "id": 750,
+    "nombre_en": "magic-powder",
+    "nombre_es": "Polvo Mágico",
+    "tipo": "psychic",
+    "categoria": "status",
+    "potencia": null,
+    "precision": 100,
+    "pp": 20,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "hatterene"
+    ]
+}

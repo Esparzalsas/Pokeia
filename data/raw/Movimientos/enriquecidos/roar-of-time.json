@@ -1,0 +1,17 @@
+{
+    "id": 459,
+    "nombre_en": "roar-of-time",
+    "nombre_es": "Distorsión",
+    "tipo": "dragon",
+    "categoria": "special",
+    "potencia": 150,
+    "precision": 90,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-iv",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "dialga",
+        "dialga-origin"
+    ]
+}

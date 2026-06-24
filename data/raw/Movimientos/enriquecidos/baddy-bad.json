@@ -1,0 +1,16 @@
+{
+    "id": 737,
+    "nombre_en": "baddy-bad",
+    "nombre_es": "Umbreozona",
+    "tipo": "dark",
+    "categoria": "special",
+    "potencia": 80,
+    "precision": 95,
+    "pp": 15,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "eevee-starter"
+    ]
+}

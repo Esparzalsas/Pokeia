@@ -1,0 +1,35 @@
+{
+    "pokemon": [
+        {
+            "nombre": "floragato",
+            "oculta": true
+        },
+        {
+            "nombre": "froakie",
+            "oculta": true
+        },
+        {
+            "nombre": "frogadier",
+            "oculta": true
+        },
+        {
+            "nombre": "greninja",
+            "oculta": true
+        },
+        {
+            "nombre": "kecleon",
+            "oculta": true
+        },
+        {
+            "nombre": "meowscarada",
+            "oculta": true
+        },
+        {
+            "nombre": "sprigatito",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Mutatipo",
+    "descripcion": "Cambia su tipo al del movimiento que acaba de usar.",
+    "generacion_introduccion": "generation-vi"
+}

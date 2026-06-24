@@ -1,0 +1,14 @@
+{
+    "id": 657,
+    "nombre_en": "twinkle-tackle--special",
+    "nombre_es": "Arrumaco Sideral",
+    "tipo": "fairy",
+    "categoria": "special",
+    "potencia": null,
+    "precision": null,
+    "pp": 1,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

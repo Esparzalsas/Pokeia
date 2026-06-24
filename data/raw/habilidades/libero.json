@@ -1,0 +1,23 @@
+{
+    "pokemon": [
+        {
+            "nombre": "cinderace-gmax",
+            "oculta": true
+        },
+        {
+            "nombre": "cinderace",
+            "oculta": true
+        },
+        {
+            "nombre": "raboot",
+            "oculta": true
+        },
+        {
+            "nombre": "scorbunny",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Líbero",
+    "descripcion": "Cambia su tipo al del movimiento que va a usar.",
+    "generacion_introduccion": "generation-viii"
+}

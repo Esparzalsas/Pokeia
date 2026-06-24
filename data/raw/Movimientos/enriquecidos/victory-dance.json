@@ -1,0 +1,16 @@
+{
+    "id": 837,
+    "nombre_en": "victory-dance",
+    "nombre_es": null,
+    "tipo": "fighting",
+    "categoria": "status",
+    "potencia": 0,
+    "precision": null,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "lilligant-hisui"
+    ]
+}

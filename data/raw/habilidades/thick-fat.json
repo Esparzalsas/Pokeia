@@ -1,0 +1,139 @@
+{
+    "pokemon": [
+        {
+            "nombre": "appletun-gmax",
+            "oculta": true
+        },
+        {
+            "nombre": "appletun",
+            "oculta": true
+        },
+        {
+            "nombre": "azumarill",
+            "oculta": false
+        },
+        {
+            "nombre": "azurill",
+            "oculta": false
+        },
+        {
+            "nombre": "cetitan",
+            "oculta": false
+        },
+        {
+            "nombre": "cetoddle",
+            "oculta": false
+        },
+        {
+            "nombre": "dewgong",
+            "oculta": false
+        },
+        {
+            "nombre": "grumpig",
+            "oculta": false
+        },
+        {
+            "nombre": "hariyama",
+            "oculta": false
+        },
+        {
+            "nombre": "lechonk",
+            "oculta": true
+        },
+        {
+            "nombre": "makuhita",
+            "oculta": false
+        },
+        {
+            "nombre": "mamoswine",
+            "oculta": true
+        },
+        {
+            "nombre": "marill",
+            "oculta": false
+        },
+        {
+            "nombre": "miltank",
+            "oculta": false
+        },
+        {
+            "nombre": "munchlax",
+            "oculta": false
+        },
+        {
+            "nombre": "oinkologne-female",
+            "oculta": true
+        },
+        {
+            "nombre": "oinkologne-male",
+            "oculta": true
+        },
+        {
+            "nombre": "pignite",
+            "oculta": true
+        },
+        {
+            "nombre": "piloswine",
+            "oculta": true
+        },
+        {
+            "nombre": "purugly",
+            "oculta": false
+        },
+        {
+            "nombre": "raticate-alola",
+            "oculta": true
+        },
+        {
+            "nombre": "raticate-totem-alola",
+            "oculta": true
+        },
+        {
+            "nombre": "rattata-alola",
+            "oculta": true
+        },
+        {
+            "nombre": "sealeo",
+            "oculta": false
+        },
+        {
+            "nombre": "seel",
+            "oculta": false
+        },
+        {
+            "nombre": "snorlax-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "snorlax",
+            "oculta": false
+        },
+        {
+            "nombre": "spheal",
+            "oculta": false
+        },
+        {
+            "nombre": "spoink",
+            "oculta": false
+        },
+        {
+            "nombre": "swinub",
+            "oculta": true
+        },
+        {
+            "nombre": "tepig",
+            "oculta": true
+        },
+        {
+            "nombre": "venusaur-mega",
+            "oculta": false
+        },
+        {
+            "nombre": "walrein",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Sebo",
+    "descripcion": "Atenúa los ataques de tipo Fuego y Hielo.",
+    "generacion_introduccion": "generation-iii"
+}

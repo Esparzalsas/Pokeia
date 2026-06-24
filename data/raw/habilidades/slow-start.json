@@ -1,0 +1,15 @@
+{
+    "pokemon": [
+        {
+            "nombre": "regigigas",
+            "oculta": false
+        },
+        {
+            "nombre": "varoom",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Inicio Lento",
+    "descripcion": "Baja a la mitad el Ataque y la Velocidad durante un rato.",
+    "generacion_introduccion": "generation-iv"
+}

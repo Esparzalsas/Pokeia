@@ -1,0 +1,15 @@
+{
+    "pokemon": [
+        {
+            "nombre": "zygarde-10",
+            "oculta": false
+        },
+        {
+            "nombre": "zygarde-50",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Rompeaura",
+    "descripcion": "Invierte los efectos que causan las auras.",
+    "generacion_introduccion": "generation-vi"
+}

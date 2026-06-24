@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "glastrier",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Relincho Blanco",
+    "descripcion": "Al derrotar a un objetivo, emite un relincho gélido y aumenta su Ataque.",
+    "generacion_introduccion": "generation-viii"
+}

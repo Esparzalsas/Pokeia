@@ -1,0 +1,19 @@
+{
+    "pokemon": [
+        {
+            "nombre": "dragonair",
+            "oculta": true
+        },
+        {
+            "nombre": "dratini",
+            "oculta": true
+        },
+        {
+            "nombre": "milotic",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Escama Especial",
+    "descripcion": "Sube la Defensa si sufre un problema de estado.",
+    "generacion_introduccion": "generation-iii"
+}

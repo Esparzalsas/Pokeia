@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "zangoose",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Ímpetu Tóxico",
+    "descripcion": "Aumenta la potencia física si está envenenado.",
+    "generacion_introduccion": "generation-v"
+}

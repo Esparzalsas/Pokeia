@@ -1,0 +1,17 @@
+{
+    "id": 591,
+    "nombre_en": "diamond-storm",
+    "nombre_es": "Torm. Diamantes",
+    "tipo": "rock",
+    "categoria": "physical",
+    "potencia": 100,
+    "precision": 95,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-vi",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "diancie",
+        "diancie-mega"
+    ]
+}

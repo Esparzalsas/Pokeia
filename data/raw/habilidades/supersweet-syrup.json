@@ -1,0 +1,15 @@
+{
+    "pokemon": [
+        {
+            "nombre": "dipplin",
+            "oculta": false
+        },
+        {
+            "nombre": "hydrapple",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Néctar Dulce",
+    "descripcion": null,
+    "generacion_introduccion": "generation-ix"
+}

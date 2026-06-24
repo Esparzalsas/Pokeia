@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "xerneas",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Aura Feérica",
+    "descripcion": "Aumenta la potencia de todos los movimientos de tipo Hada.",
+    "generacion_introduccion": "generation-vi"
+}

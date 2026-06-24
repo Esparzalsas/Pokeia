@@ -1,0 +1,27 @@
+{
+    "pokemon": [
+        {
+            "nombre": "gigalith",
+            "oculta": false
+        },
+        {
+            "nombre": "hippopotas",
+            "oculta": false
+        },
+        {
+            "nombre": "hippowdon",
+            "oculta": false
+        },
+        {
+            "nombre": "tyranitar-mega",
+            "oculta": false
+        },
+        {
+            "nombre": "tyranitar",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Chorro Arena",
+    "descripcion": "Crea una tormenta de arena en el combate.",
+    "generacion_introduccion": "generation-iii"
+}

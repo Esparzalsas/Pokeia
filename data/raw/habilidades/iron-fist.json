@@ -1,0 +1,83 @@
+{
+    "pokemon": [
+        {
+            "nombre": "chimchar",
+            "oculta": true
+        },
+        {
+            "nombre": "conkeldurr",
+            "oculta": true
+        },
+        {
+            "nombre": "crabominable",
+            "oculta": false
+        },
+        {
+            "nombre": "crabrawler",
+            "oculta": false
+        },
+        {
+            "nombre": "golett",
+            "oculta": false
+        },
+        {
+            "nombre": "golurk",
+            "oculta": false
+        },
+        {
+            "nombre": "gurdurr",
+            "oculta": true
+        },
+        {
+            "nombre": "hitmonchan",
+            "oculta": false
+        },
+        {
+            "nombre": "infernape",
+            "oculta": true
+        },
+        {
+            "nombre": "ledian",
+            "oculta": true
+        },
+        {
+            "nombre": "melmetal-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "melmetal",
+            "oculta": false
+        },
+        {
+            "nombre": "monferno",
+            "oculta": true
+        },
+        {
+            "nombre": "pancham",
+            "oculta": false
+        },
+        {
+            "nombre": "pangoro",
+            "oculta": false
+        },
+        {
+            "nombre": "pawmi",
+            "oculta": true
+        },
+        {
+            "nombre": "pawmo",
+            "oculta": true
+        },
+        {
+            "nombre": "pawmot",
+            "oculta": true
+        },
+        {
+            "nombre": "timburr",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Puño Férreo",
+    "descripcion": "Aumenta la fuerza de los puñetazos.",
+    "generacion_introduccion": "generation-iv"
+}

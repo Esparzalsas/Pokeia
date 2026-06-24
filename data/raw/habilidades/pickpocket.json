@@ -1,0 +1,71 @@
+{
+    "pokemon": [
+        {
+            "nombre": "barbaracle",
+            "oculta": true
+        },
+        {
+            "nombre": "binacle",
+            "oculta": true
+        },
+        {
+            "nombre": "grimmsnarl-gmax",
+            "oculta": true
+        },
+        {
+            "nombre": "grimmsnarl",
+            "oculta": true
+        },
+        {
+            "nombre": "impidimp",
+            "oculta": true
+        },
+        {
+            "nombre": "morgrem",
+            "oculta": true
+        },
+        {
+            "nombre": "nuzleaf",
+            "oculta": true
+        },
+        {
+            "nombre": "seedot",
+            "oculta": true
+        },
+        {
+            "nombre": "shiftry",
+            "oculta": true
+        },
+        {
+            "nombre": "shroodle",
+            "oculta": false
+        },
+        {
+            "nombre": "sneasel-hisui",
+            "oculta": true
+        },
+        {
+            "nombre": "sneasel",
+            "oculta": true
+        },
+        {
+            "nombre": "tinkatink",
+            "oculta": true
+        },
+        {
+            "nombre": "tinkaton",
+            "oculta": true
+        },
+        {
+            "nombre": "tinkatuff",
+            "oculta": true
+        },
+        {
+            "nombre": "weavile",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Hurto",
+    "descripcion": "Al ser golpeado, roba el objeto del objetivo.",
+    "generacion_introduccion": "generation-v"
+}

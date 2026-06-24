@@ -1,0 +1,18 @@
+{
+    "id": 582,
+    "nombre_en": "electrify",
+    "nombre_es": "Electrificación",
+    "tipo": "electric",
+    "categoria": "status",
+    "potencia": null,
+    "precision": null,
+    "pp": 20,
+    "prioridad": 0,
+    "generacion": "generation-vi",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "helioptile",
+        "heliolisk",
+        "boltund"
+    ]
+}

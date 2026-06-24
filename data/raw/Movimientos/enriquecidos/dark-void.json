@@ -1,0 +1,16 @@
+{
+    "id": 464,
+    "nombre_en": "dark-void",
+    "nombre_es": "Brecha Negra",
+    "tipo": "dark",
+    "categoria": "status",
+    "potencia": null,
+    "precision": 50,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-iv",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "darkrai"
+    ]
+}

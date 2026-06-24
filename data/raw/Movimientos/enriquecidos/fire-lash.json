@@ -1,0 +1,19 @@
+{
+    "id": 680,
+    "nombre_en": "fire-lash",
+    "nombre_es": "Látigo Ígneo",
+    "tipo": "fire",
+    "categoria": "physical",
+    "potencia": 80,
+    "precision": 100,
+    "pp": 15,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "heatmor",
+        "salazzle",
+        "sizzlipede",
+        "centiskorch"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": 586,
+    "nombre_en": "boomburst",
+    "nombre_es": "Estruendo",
+    "tipo": "normal",
+    "categoria": "special",
+    "potencia": 140,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-vi",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "taillow",
+        "exploud",
+        "vibrava",
+        "flygon",
+        "chatot",
+        "noivern",
+        "pikipek",
+        "trumbeak",
+        "toucannon",
+        "kommo-o",
+        "rillaboom",
+        "toxtricity-amped",
+        "finizen",
+        "dudunsparce-two-segment",
+        "scream-tail",
+        "toxtricity-low-key",
+        "dudunsparce-three-segment"
+    ]
+}

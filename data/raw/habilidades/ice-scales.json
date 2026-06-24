@@ -1,0 +1,15 @@
+{
+    "pokemon": [
+        {
+            "nombre": "frosmoth",
+            "oculta": true
+        },
+        {
+            "nombre": "snom",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Escama de Hielo",
+    "descripcion": "Las gélidas escamas que protegen su cuerpo reducen a la mitad el daño que le infligen los ataques especiales.",
+    "generacion_introduccion": "generation-viii"
+}

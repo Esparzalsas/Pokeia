@@ -1,0 +1,68 @@
+{
+    "id": 895,
+    "nombre": "regidrago",
+    "tipos": [
+        "dragon"
+    ],
+    "stats_base": {
+        "hp": 200,
+        "attack": 100,
+        "defense": 50,
+        "special-attack": 100,
+        "special-defense": 50,
+        "speed": 80
+    },
+    "habilidades": {
+        "normales": [
+            "dragons-maw"
+        ],
+        "oculta": null
+    },
+    "movimientos": [
+        "vice-grip",
+        "body-slam",
+        "take-down",
+        "thrash",
+        "bite",
+        "hyper-beam",
+        "earthquake",
+        "light-screen",
+        "reflect",
+        "focus-energy",
+        "self-destruct",
+        "swift",
+        "explosion",
+        "rest",
+        "substitute",
+        "snore",
+        "reversal",
+        "protect",
+        "outrage",
+        "endure",
+        "sleep-talk",
+        "dragon-breath",
+        "twister",
+        "crunch",
+        "ancient-power",
+        "facade",
+        "dragon-claw",
+        "dragon-dance",
+        "hammer-arm",
+        "dragon-pulse",
+        "earth-power",
+        "giga-impact",
+        "thunder-fang",
+        "ice-fang",
+        "fire-fang",
+        "draco-meteor",
+        "round",
+        "laser-focus",
+        "breaking-swipe",
+        "scale-shot",
+        "dragon-energy",
+        "tera-blast",
+        "dragon-cheer"
+    ],
+    "peso": 2000,
+    "altura": 21
+}

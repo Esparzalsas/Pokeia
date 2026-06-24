@@ -1,0 +1,19 @@
+{
+    "id": 594,
+    "nombre_en": "water-shuriken",
+    "nombre_es": "Shuriken de Agua",
+    "tipo": "water",
+    "categoria": "special",
+    "potencia": 15,
+    "precision": 100,
+    "pp": 20,
+    "prioridad": 1,
+    "generacion": "generation-vi",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "accelgor",
+        "greninja",
+        "greninja-battle-bond",
+        "greninja-ash"
+    ]
+}

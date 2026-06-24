@@ -1,0 +1,139 @@
+{
+    "pokemon": [
+        {
+            "nombre": "avalugg",
+            "oculta": false
+        },
+        {
+            "nombre": "bergmite",
+            "oculta": false
+        },
+        {
+            "nombre": "espurr",
+            "oculta": true
+        },
+        {
+            "nombre": "fidough",
+            "oculta": false
+        },
+        {
+            "nombre": "glameow",
+            "oculta": false
+        },
+        {
+            "nombre": "grumpig",
+            "oculta": false
+        },
+        {
+            "nombre": "indeedee-female",
+            "oculta": false
+        },
+        {
+            "nombre": "lickilicky",
+            "oculta": false
+        },
+        {
+            "nombre": "lickitung",
+            "oculta": false
+        },
+        {
+            "nombre": "lilligant",
+            "oculta": false
+        },
+        {
+            "nombre": "lombre",
+            "oculta": true
+        },
+        {
+            "nombre": "lotad",
+            "oculta": true
+        },
+        {
+            "nombre": "ludicolo",
+            "oculta": true
+        },
+        {
+            "nombre": "mudbray",
+            "oculta": false
+        },
+        {
+            "nombre": "mudsdale",
+            "oculta": false
+        },
+        {
+            "nombre": "numel",
+            "oculta": true
+        },
+        {
+            "nombre": "petilil",
+            "oculta": false
+        },
+        {
+            "nombre": "purugly",
+            "oculta": false
+        },
+        {
+            "nombre": "rockruff-own-tempo",
+            "oculta": false
+        },
+        {
+            "nombre": "slowbro-galar",
+            "oculta": false
+        },
+        {
+            "nombre": "slowbro",
+            "oculta": false
+        },
+        {
+            "nombre": "slowking-galar",
+            "oculta": false
+        },
+        {
+            "nombre": "slowking",
+            "oculta": false
+        },
+        {
+            "nombre": "slowpoke-galar",
+            "oculta": false
+        },
+        {
+            "nombre": "slowpoke",
+            "oculta": false
+        },
+        {
+            "nombre": "smeargle",
+            "oculta": false
+        },
+        {
+            "nombre": "spinda",
+            "oculta": false
+        },
+        {
+            "nombre": "spoink",
+            "oculta": false
+        },
+        {
+            "nombre": "tadbulb",
+            "oculta": false
+        },
+        {
+            "nombre": "tandemaus",
+            "oculta": true
+        },
+        {
+            "nombre": "tinkatink",
+            "oculta": false
+        },
+        {
+            "nombre": "tinkaton",
+            "oculta": false
+        },
+        {
+            "nombre": "tinkatuff",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Ritmo Propio",
+    "descripcion": "Evita ser confundido.",
+    "generacion_introduccion": "generation-iii"
+}

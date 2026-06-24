@@ -1,0 +1,115 @@
+{
+    "pokemon": [
+        {
+            "nombre": "alomomola",
+            "oculta": true
+        },
+        {
+            "nombre": "amoonguss",
+            "oculta": true
+        },
+        {
+            "nombre": "audino",
+            "oculta": false
+        },
+        {
+            "nombre": "corsola",
+            "oculta": true
+        },
+        {
+            "nombre": "cyclizar",
+            "oculta": true
+        },
+        {
+            "nombre": "duosion",
+            "oculta": true
+        },
+        {
+            "nombre": "eldegoss",
+            "oculta": false
+        },
+        {
+            "nombre": "foongus",
+            "oculta": true
+        },
+        {
+            "nombre": "gossifleur",
+            "oculta": false
+        },
+        {
+            "nombre": "ho-oh",
+            "oculta": true
+        },
+        {
+            "nombre": "hydrapple",
+            "oculta": false
+        },
+        {
+            "nombre": "klawf",
+            "oculta": true
+        },
+        {
+            "nombre": "mareanie",
+            "oculta": true
+        },
+        {
+            "nombre": "mienfoo",
+            "oculta": false
+        },
+        {
+            "nombre": "mienshao",
+            "oculta": false
+        },
+        {
+            "nombre": "reuniclus",
+            "oculta": true
+        },
+        {
+            "nombre": "slowbro-galar",
+            "oculta": true
+        },
+        {
+            "nombre": "slowbro",
+            "oculta": true
+        },
+        {
+            "nombre": "slowking-galar",
+            "oculta": true
+        },
+        {
+            "nombre": "slowking",
+            "oculta": true
+        },
+        {
+            "nombre": "slowpoke-galar",
+            "oculta": true
+        },
+        {
+            "nombre": "slowpoke",
+            "oculta": true
+        },
+        {
+            "nombre": "solosis",
+            "oculta": true
+        },
+        {
+            "nombre": "tangela",
+            "oculta": true
+        },
+        {
+            "nombre": "tangrowth",
+            "oculta": true
+        },
+        {
+            "nombre": "tornadus-therian",
+            "oculta": false
+        },
+        {
+            "nombre": "toxapex",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Regeneración",
+    "descripcion": "Recupera unos pocos PS al cambiar de Pokémon.",
+    "generacion_introduccion": "generation-v"
+}

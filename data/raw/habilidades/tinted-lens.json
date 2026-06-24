@@ -1,0 +1,59 @@
+{
+    "pokemon": [
+        {
+            "nombre": "braviary-hisui",
+            "oculta": true
+        },
+        {
+            "nombre": "butterfree-gmax",
+            "oculta": true
+        },
+        {
+            "nombre": "butterfree",
+            "oculta": true
+        },
+        {
+            "nombre": "hoothoot",
+            "oculta": true
+        },
+        {
+            "nombre": "illumise",
+            "oculta": false
+        },
+        {
+            "nombre": "lokix",
+            "oculta": true
+        },
+        {
+            "nombre": "mothim",
+            "oculta": true
+        },
+        {
+            "nombre": "noctowl",
+            "oculta": true
+        },
+        {
+            "nombre": "nymble",
+            "oculta": true
+        },
+        {
+            "nombre": "sigilyph",
+            "oculta": true
+        },
+        {
+            "nombre": "venomoth",
+            "oculta": false
+        },
+        {
+            "nombre": "venonat",
+            "oculta": false
+        },
+        {
+            "nombre": "yanmega",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Cromolente",
+    "descripcion": "Potencia los movimientos que no son muy eficaces.",
+    "generacion_introduccion": "generation-iv"
+}

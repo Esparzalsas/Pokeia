@@ -1,0 +1,19 @@
+{
+    "pokemon": [
+        {
+            "nombre": "kyogre",
+            "oculta": false
+        },
+        {
+            "nombre": "pelipper",
+            "oculta": false
+        },
+        {
+            "nombre": "politoed",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Llovizna",
+    "descripcion": "Hace que llueva cuando entra en combate.",
+    "generacion_introduccion": "generation-iii"
+}

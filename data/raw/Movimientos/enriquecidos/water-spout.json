@@ -1,0 +1,25 @@
+{
+    "id": 323,
+    "nombre_en": "water-spout",
+    "nombre_es": "Salpicar",
+    "tipo": "water",
+    "categoria": "special",
+    "potencia": 150,
+    "precision": 100,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-iii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "squirtle",
+        "wartortle",
+        "blastoise",
+        "remoraid",
+        "wailmer",
+        "wailord",
+        "kyogre",
+        "frillish",
+        "jellicent",
+        "kyogre-primal"
+    ]
+}

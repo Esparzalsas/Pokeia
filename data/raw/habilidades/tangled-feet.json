@@ -1,0 +1,43 @@
+{
+    "pokemon": [
+        {
+            "nombre": "chatot",
+            "oculta": false
+        },
+        {
+            "nombre": "dodrio",
+            "oculta": true
+        },
+        {
+            "nombre": "doduo",
+            "oculta": true
+        },
+        {
+            "nombre": "flamigo",
+            "oculta": false
+        },
+        {
+            "nombre": "mr-rime",
+            "oculta": false
+        },
+        {
+            "nombre": "pidgeot",
+            "oculta": false
+        },
+        {
+            "nombre": "pidgeotto",
+            "oculta": false
+        },
+        {
+            "nombre": "pidgey",
+            "oculta": false
+        },
+        {
+            "nombre": "spinda",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Tumbos",
+    "descripcion": "Sube la Evasión si el Pokémon está confuso.",
+    "generacion_introduccion": "generation-iv"
+}

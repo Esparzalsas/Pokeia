@@ -1,0 +1,55 @@
+{
+    "pokemon": [
+        {
+            "nombre": "caterpie",
+            "oculta": false
+        },
+        {
+            "nombre": "cutiefly",
+            "oculta": false
+        },
+        {
+            "nombre": "dustox",
+            "oculta": false
+        },
+        {
+            "nombre": "frosmoth",
+            "oculta": false
+        },
+        {
+            "nombre": "ribombee-totem",
+            "oculta": false
+        },
+        {
+            "nombre": "ribombee",
+            "oculta": false
+        },
+        {
+            "nombre": "scatterbug",
+            "oculta": false
+        },
+        {
+            "nombre": "snom",
+            "oculta": false
+        },
+        {
+            "nombre": "venomoth",
+            "oculta": false
+        },
+        {
+            "nombre": "vivillon",
+            "oculta": false
+        },
+        {
+            "nombre": "weedle",
+            "oculta": false
+        },
+        {
+            "nombre": "wurmple",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Polvo Escudo",
+    "descripcion": "Anula el efecto secundario del ataque sufrido.",
+    "generacion_introduccion": "generation-iii"
+}

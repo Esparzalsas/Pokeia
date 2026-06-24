@@ -1,0 +1,72 @@
+{
+    "id": 847,
+    "nombre": "barraskewda",
+    "tipos": [
+        "water"
+    ],
+    "stats_base": {
+        "hp": 61,
+        "attack": 123,
+        "defense": 60,
+        "special-attack": 60,
+        "special-defense": 50,
+        "speed": 136
+    },
+    "habilidades": {
+        "normales": [
+            "swift-swim"
+        ],
+        "oculta": "propeller-tail"
+    },
+    "movimientos": [
+        "fury-attack",
+        "take-down",
+        "double-edge",
+        "bite",
+        "hydro-pump",
+        "surf",
+        "ice-beam",
+        "blizzard",
+        "hyper-beam",
+        "peck",
+        "agility",
+        "focus-energy",
+        "waterfall",
+        "swift",
+        "rest",
+        "substitute",
+        "snore",
+        "protect",
+        "scary-face",
+        "endure",
+        "attract",
+        "sleep-talk",
+        "rain-dance",
+        "crunch",
+        "whirlpool",
+        "facade",
+        "brick-break",
+        "dive",
+        "bounce",
+        "water-pulse",
+        "close-combat",
+        "assurance",
+        "poison-jab",
+        "giga-impact",
+        "ice-fang",
+        "aqua-jet",
+        "round",
+        "scald",
+        "drill-run",
+        "laser-focus",
+        "throat-chop",
+        "psychic-fangs",
+        "liquidation",
+        "scale-shot",
+        "flip-turn",
+        "tera-blast",
+        "chilling-water"
+    ],
+    "peso": 300,
+    "altura": 13
+}

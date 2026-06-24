@@ -1,0 +1,67 @@
+{
+    "id": 969,
+    "nombre": "glimmet",
+    "tipos": [
+        "rock",
+        "poison"
+    ],
+    "stats_base": {
+        "hp": 48,
+        "attack": 35,
+        "defense": 42,
+        "special-attack": 105,
+        "special-defense": 60,
+        "speed": 60
+    },
+    "habilidades": {
+        "normales": [
+            "toxic-debris"
+        ],
+        "oculta": "corrosion"
+    },
+    "movimientos": [
+        "rock-throw",
+        "toxic",
+        "harden",
+        "confuse-ray",
+        "light-screen",
+        "reflect",
+        "self-destruct",
+        "acid-armor",
+        "explosion",
+        "rest",
+        "rock-slide",
+        "substitute",
+        "protect",
+        "sludge-bomb",
+        "spikes",
+        "sandstorm",
+        "endure",
+        "sleep-talk",
+        "rain-dance",
+        "sunny-day",
+        "ancient-power",
+        "memento",
+        "facade",
+        "rock-tomb",
+        "sand-tomb",
+        "iron-defense",
+        "mud-shot",
+        "rock-blast",
+        "toxic-spikes",
+        "rock-polish",
+        "power-gem",
+        "gunk-shot",
+        "stone-edge",
+        "stealth-rock",
+        "venoshock",
+        "smack-down",
+        "sludge-wave",
+        "acid-spray",
+        "dazzling-gleam",
+        "meteor-beam",
+        "tera-blast"
+    ],
+    "peso": 80,
+    "altura": 7
+}

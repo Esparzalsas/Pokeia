@@ -1,0 +1,23 @@
+{
+    "pokemon": [
+        {
+            "nombre": "camerupt",
+            "oculta": false
+        },
+        {
+            "nombre": "carracosta",
+            "oculta": false
+        },
+        {
+            "nombre": "rhyperior",
+            "oculta": false
+        },
+        {
+            "nombre": "tirtouga",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Roca Sólida",
+    "descripcion": "Mitiga los movimientos supereficaces.",
+    "generacion_introduccion": "generation-iv"
+}

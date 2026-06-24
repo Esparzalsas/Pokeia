@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "bruxish",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Cuerpo Vívido",
+    "descripcion": "Desconcierta al rival y le impide utilizar movimientos con prioridad contra el usuario.",
+    "generacion_introduccion": "generation-vii"
+}

@@ -1,0 +1,119 @@
+{
+    "pokemon": [
+        {
+            "nombre": "ambipom",
+            "oculta": false
+        },
+        {
+            "nombre": "breloom",
+            "oculta": true
+        },
+        {
+            "nombre": "cinccino",
+            "oculta": false
+        },
+        {
+            "nombre": "clobbopus",
+            "oculta": true
+        },
+        {
+            "nombre": "fezandipiti",
+            "oculta": true
+        },
+        {
+            "nombre": "grapploct",
+            "oculta": true
+        },
+        {
+            "nombre": "hitmontop",
+            "oculta": false
+        },
+        {
+            "nombre": "kricketune",
+            "oculta": true
+        },
+        {
+            "nombre": "marshadow",
+            "oculta": false
+        },
+        {
+            "nombre": "maushold-family-of-four",
+            "oculta": true
+        },
+        {
+            "nombre": "maushold-family-of-three",
+            "oculta": true
+        },
+        {
+            "nombre": "meowth-alola",
+            "oculta": false
+        },
+        {
+            "nombre": "meowth-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "meowth",
+            "oculta": false
+        },
+        {
+            "nombre": "mime-jr",
+            "oculta": true
+        },
+        {
+            "nombre": "minccino",
+            "oculta": false
+        },
+        {
+            "nombre": "mr-mime",
+            "oculta": true
+        },
+        {
+            "nombre": "persian-alola",
+            "oculta": false
+        },
+        {
+            "nombre": "persian",
+            "oculta": false
+        },
+        {
+            "nombre": "roserade",
+            "oculta": true
+        },
+        {
+            "nombre": "scizor-mega",
+            "oculta": false
+        },
+        {
+            "nombre": "scizor",
+            "oculta": false
+        },
+        {
+            "nombre": "scyther",
+            "oculta": false
+        },
+        {
+            "nombre": "smeargle",
+            "oculta": false
+        },
+        {
+            "nombre": "toxtricity-amped-gmax",
+            "oculta": true
+        },
+        {
+            "nombre": "toxtricity-amped",
+            "oculta": true
+        },
+        {
+            "nombre": "toxtricity-low-key-gmax",
+            "oculta": true
+        },
+        {
+            "nombre": "toxtricity-low-key",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Experto",
+    "descripcion": "Potencia los movimientos más débiles del Pokémon.",
+    "generacion_introduccion": "generation-iv"
+}

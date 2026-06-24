@@ -1,0 +1,20 @@
+{
+    "id": 838,
+    "nombre_en": "headlong-rush",
+    "nombre_es": null,
+    "tipo": "ground",
+    "categoria": "physical",
+    "potencia": 120,
+    "precision": 100,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "hariyama",
+        "torterra",
+        "ursaluna",
+        "great-tusk",
+        "ursaluna-bloodmoon"
+    ]
+}

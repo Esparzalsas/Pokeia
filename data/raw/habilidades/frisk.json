@@ -1,0 +1,159 @@
+{
+    "pokemon": [
+        {
+            "nombre": "banette",
+            "oculta": false
+        },
+        {
+            "nombre": "dusclops",
+            "oculta": true
+        },
+        {
+            "nombre": "dusknoir",
+            "oculta": true
+        },
+        {
+            "nombre": "duskull",
+            "oculta": true
+        },
+        {
+            "nombre": "espathra",
+            "oculta": false
+        },
+        {
+            "nombre": "exeggutor-alola",
+            "oculta": false
+        },
+        {
+            "nombre": "flittle",
+            "oculta": false
+        },
+        {
+            "nombre": "furret",
+            "oculta": true
+        },
+        {
+            "nombre": "gothita",
+            "oculta": false
+        },
+        {
+            "nombre": "gothitelle",
+            "oculta": false
+        },
+        {
+            "nombre": "gothorita",
+            "oculta": false
+        },
+        {
+            "nombre": "gourgeist-average",
+            "oculta": false
+        },
+        {
+            "nombre": "gourgeist-large",
+            "oculta": false
+        },
+        {
+            "nombre": "gourgeist-small",
+            "oculta": false
+        },
+        {
+            "nombre": "gourgeist-super",
+            "oculta": false
+        },
+        {
+            "nombre": "grimmsnarl-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "grimmsnarl",
+            "oculta": false
+        },
+        {
+            "nombre": "impidimp",
+            "oculta": false
+        },
+        {
+            "nombre": "morgrem",
+            "oculta": false
+        },
+        {
+            "nombre": "munkidori",
+            "oculta": true
+        },
+        {
+            "nombre": "noibat",
+            "oculta": false
+        },
+        {
+            "nombre": "noivern",
+            "oculta": false
+        },
+        {
+            "nombre": "orbeetle-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "orbeetle",
+            "oculta": false
+        },
+        {
+            "nombre": "phantump",
+            "oculta": false
+        },
+        {
+            "nombre": "pumpkaboo-average",
+            "oculta": false
+        },
+        {
+            "nombre": "pumpkaboo-large",
+            "oculta": false
+        },
+        {
+            "nombre": "pumpkaboo-small",
+            "oculta": false
+        },
+        {
+            "nombre": "pumpkaboo-super",
+            "oculta": false
+        },
+        {
+            "nombre": "sentret",
+            "oculta": true
+        },
+        {
+            "nombre": "shuppet",
+            "oculta": false
+        },
+        {
+            "nombre": "stantler",
+            "oculta": false
+        },
+        {
+            "nombre": "trevenant",
+            "oculta": false
+        },
+        {
+            "nombre": "typhlosion-hisui",
+            "oculta": true
+        },
+        {
+            "nombre": "wigglytuff",
+            "oculta": true
+        },
+        {
+            "nombre": "wyrdeer",
+            "oculta": false
+        },
+        {
+            "nombre": "yanma",
+            "oculta": true
+        },
+        {
+            "nombre": "yanmega",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Cacheo",
+    "descripcion": "El Pokémon puede ver el objeto que lleva el rival.",
+    "generacion_introduccion": "generation-iv"
+}

@@ -1,0 +1,79 @@
+{
+    "pokemon": [
+        {
+            "nombre": "axew",
+            "oculta": false
+        },
+        {
+            "nombre": "beautifly",
+            "oculta": true
+        },
+        {
+            "nombre": "fraxure",
+            "oculta": false
+        },
+        {
+            "nombre": "haxorus",
+            "oculta": false
+        },
+        {
+            "nombre": "litleo",
+            "oculta": false
+        },
+        {
+            "nombre": "luxio",
+            "oculta": false
+        },
+        {
+            "nombre": "luxray",
+            "oculta": false
+        },
+        {
+            "nombre": "nidoking",
+            "oculta": false
+        },
+        {
+            "nombre": "nidoqueen",
+            "oculta": false
+        },
+        {
+            "nombre": "nidoran-f",
+            "oculta": false
+        },
+        {
+            "nombre": "nidoran-m",
+            "oculta": false
+        },
+        {
+            "nombre": "nidorina",
+            "oculta": false
+        },
+        {
+            "nombre": "nidorino",
+            "oculta": false
+        },
+        {
+            "nombre": "pidove",
+            "oculta": true
+        },
+        {
+            "nombre": "pyroar",
+            "oculta": false
+        },
+        {
+            "nombre": "shinx",
+            "oculta": false
+        },
+        {
+            "nombre": "tranquill",
+            "oculta": true
+        },
+        {
+            "nombre": "unfezant",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Rivalidad",
+    "descripcion": "Si el objetivo es del mismo sexo, inflige más daño.",
+    "generacion_introduccion": "generation-iv"
+}

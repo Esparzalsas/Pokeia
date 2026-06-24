@@ -1,0 +1,16 @@
+{
+    "id": 849,
+    "nombre_en": "lunar-blessing",
+    "nombre_es": null,
+    "tipo": "psychic",
+    "categoria": "status",
+    "potencia": 0,
+    "precision": null,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "cresselia"
+    ]
+}

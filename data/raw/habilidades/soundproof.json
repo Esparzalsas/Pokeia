@@ -1,0 +1,79 @@
+{
+    "pokemon": [
+        {
+            "nombre": "abomasnow",
+            "oculta": true
+        },
+        {
+            "nombre": "bastiodon",
+            "oculta": true
+        },
+        {
+            "nombre": "bouffalant",
+            "oculta": true
+        },
+        {
+            "nombre": "electrode-hisui",
+            "oculta": false
+        },
+        {
+            "nombre": "electrode",
+            "oculta": false
+        },
+        {
+            "nombre": "exploud",
+            "oculta": false
+        },
+        {
+            "nombre": "hakamo-o",
+            "oculta": false
+        },
+        {
+            "nombre": "jangmo-o",
+            "oculta": false
+        },
+        {
+            "nombre": "kommo-o-totem",
+            "oculta": false
+        },
+        {
+            "nombre": "kommo-o",
+            "oculta": false
+        },
+        {
+            "nombre": "loudred",
+            "oculta": false
+        },
+        {
+            "nombre": "mime-jr",
+            "oculta": false
+        },
+        {
+            "nombre": "mr-mime",
+            "oculta": false
+        },
+        {
+            "nombre": "shieldon",
+            "oculta": true
+        },
+        {
+            "nombre": "snover",
+            "oculta": true
+        },
+        {
+            "nombre": "voltorb-hisui",
+            "oculta": false
+        },
+        {
+            "nombre": "voltorb",
+            "oculta": false
+        },
+        {
+            "nombre": "whismur",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Insonorizar",
+    "descripcion": "Evita ataques de sonido.",
+    "generacion_introduccion": "generation-iii"
+}

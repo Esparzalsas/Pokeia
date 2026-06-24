@@ -1,0 +1,16 @@
+{
+    "id": 821,
+    "nombre_en": "freezing-glare",
+    "nombre_es": "Mirada Heladora",
+    "tipo": "psychic",
+    "categoria": "special",
+    "potencia": 90,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "articuno-galar"
+    ]
+}

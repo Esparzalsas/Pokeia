@@ -1,0 +1,15 @@
+{
+    "pokemon": [
+        {
+            "nombre": "aegislash-blade",
+            "oculta": false
+        },
+        {
+            "nombre": "aegislash-shield",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Cambio Táctico",
+    "descripcion": "Cambia de forma según su estilo de combate.",
+    "generacion_introduccion": "generation-vi"
+}

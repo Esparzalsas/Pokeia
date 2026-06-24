@@ -1,0 +1,17 @@
+{
+    "id": 708,
+    "nombre_en": "shadow-bone",
+    "nombre_es": "Hueso Sombrío",
+    "tipo": "ghost",
+    "categoria": "physical",
+    "potencia": 85,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "marowak-alola",
+        "marowak-totem"
+    ]
+}

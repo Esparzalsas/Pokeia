@@ -1,0 +1,24 @@
+{
+    "id": 4,
+    "nombre_en": "comet-punch",
+    "nombre_es": "Puño Cometa",
+    "tipo": "normal",
+    "categoria": "physical",
+    "potencia": 18,
+    "precision": 85,
+    "pp": 15,
+    "prioridad": 0,
+    "generacion": "generation-i",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "hitmonchan",
+        "kangaskhan",
+        "ledyba",
+        "ledian",
+        "timburr",
+        "pancham",
+        "pangoro",
+        "buzzwole",
+        "kangaskhan-mega"
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "pokemon": [
+        {
+            "nombre": "carkol",
+            "oculta": false
+        },
+        {
+            "nombre": "centiskorch-gmax",
+            "oculta": true
+        },
+        {
+            "nombre": "centiskorch",
+            "oculta": true
+        },
+        {
+            "nombre": "chandelure",
+            "oculta": false
+        },
+        {
+            "nombre": "charcadet",
+            "oculta": true
+        },
+        {
+            "nombre": "coalossal-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "coalossal",
+            "oculta": false
+        },
+        {
+            "nombre": "fletchinder",
+            "oculta": false
+        },
+        {
+            "nombre": "heatran",
+            "oculta": true
+        },
+        {
+            "nombre": "lampent",
+            "oculta": false
+        },
+        {
+            "nombre": "larvesta",
+            "oculta": false
+        },
+        {
+            "nombre": "litwick",
+            "oculta": false
+        },
+        {
+            "nombre": "magby",
+            "oculta": false
+        },
+        {
+            "nombre": "magcargo",
+            "oculta": false
+        },
+        {
+            "nombre": "magmar",
+            "oculta": false
+        },
+        {
+            "nombre": "magmortar",
+            "oculta": false
+        },
+        {
+            "nombre": "moltres",
+            "oculta": true
+        },
+        {
+            "nombre": "ponyta",
+            "oculta": true
+        },
+        {
+            "nombre": "rapidash",
+            "oculta": true
+        },
+        {
+            "nombre": "sizzlipede",
+            "oculta": true
+        },
+        {
+            "nombre": "slugma",
+            "oculta": false
+        },
+        {
+            "nombre": "talonflame",
+            "oculta": false
+        },
+        {
+            "nombre": "volcarona",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Cuerpo Llama",
+    "descripcion": "Puede quemar al mínimo contacto.",
+    "generacion_introduccion": "generation-iii"
+}

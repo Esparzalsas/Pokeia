@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "yamper",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Recogebolas",
+    "descripcion": "Si no lleva equipado ningún objeto, recupera la Poké Ball del primer intento de captura fallido.",
+    "generacion_introduccion": "generation-viii"
+}

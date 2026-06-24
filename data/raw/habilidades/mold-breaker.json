@@ -1,0 +1,111 @@
+{
+    "pokemon": [
+        {
+            "nombre": "ampharos-mega",
+            "oculta": false
+        },
+        {
+            "nombre": "axew",
+            "oculta": false
+        },
+        {
+            "nombre": "basculegion-female",
+            "oculta": true
+        },
+        {
+            "nombre": "basculegion-male",
+            "oculta": true
+        },
+        {
+            "nombre": "basculin-blue-striped",
+            "oculta": true
+        },
+        {
+            "nombre": "basculin-red-striped",
+            "oculta": true
+        },
+        {
+            "nombre": "basculin-white-striped",
+            "oculta": true
+        },
+        {
+            "nombre": "cranidos",
+            "oculta": false
+        },
+        {
+            "nombre": "drilbur",
+            "oculta": true
+        },
+        {
+            "nombre": "druddigon",
+            "oculta": true
+        },
+        {
+            "nombre": "excadrill",
+            "oculta": true
+        },
+        {
+            "nombre": "fraxure",
+            "oculta": false
+        },
+        {
+            "nombre": "gyarados-mega",
+            "oculta": false
+        },
+        {
+            "nombre": "hawlucha",
+            "oculta": true
+        },
+        {
+            "nombre": "haxorus",
+            "oculta": false
+        },
+        {
+            "nombre": "ogerpon-hearthflame-mask",
+            "oculta": false
+        },
+        {
+            "nombre": "pancham",
+            "oculta": false
+        },
+        {
+            "nombre": "pangoro",
+            "oculta": false
+        },
+        {
+            "nombre": "pinsir",
+            "oculta": false
+        },
+        {
+            "nombre": "rampardos",
+            "oculta": false
+        },
+        {
+            "nombre": "sawk",
+            "oculta": true
+        },
+        {
+            "nombre": "throh",
+            "oculta": true
+        },
+        {
+            "nombre": "tinkatink",
+            "oculta": false
+        },
+        {
+            "nombre": "tinkaton",
+            "oculta": false
+        },
+        {
+            "nombre": "tinkatuff",
+            "oculta": false
+        },
+        {
+            "nombre": "veluza",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Rompemoldes",
+    "descripcion": "Usa movimientos sin que importen las habilidades del objetivo.",
+    "generacion_introduccion": "generation-iv"
+}

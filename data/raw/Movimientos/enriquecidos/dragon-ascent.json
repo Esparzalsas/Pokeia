@@ -1,0 +1,17 @@
+{
+    "id": 620,
+    "nombre_en": "dragon-ascent",
+    "nombre_es": "Ascenso Draco",
+    "tipo": "flying",
+    "categoria": "physical",
+    "potencia": 120,
+    "precision": 100,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-vi",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "rayquaza",
+        "rayquaza-mega"
+    ]
+}

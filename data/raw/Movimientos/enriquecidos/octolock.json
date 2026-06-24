@@ -1,0 +1,16 @@
+{
+    "id": 753,
+    "nombre_en": "octolock",
+    "nombre_es": "Octopresa",
+    "tipo": "fighting",
+    "categoria": "status",
+    "potencia": null,
+    "precision": 100,
+    "pp": 15,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "grapploct"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "pokemon": [
+        {
+            "nombre": "bruxish",
+            "oculta": true
+        },
+        {
+            "nombre": "delcatty",
+            "oculta": true
+        },
+        {
+            "nombre": "sigilyph",
+            "oculta": false
+        },
+        {
+            "nombre": "skitty",
+            "oculta": true
+        },
+        {
+            "nombre": "venomoth",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Piel Milagro",
+    "descripcion": "Dificulta que le afecten los ataques de estado.",
+    "generacion_introduccion": "generation-v"
+}

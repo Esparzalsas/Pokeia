@@ -1,0 +1,47 @@
+{
+    "pokemon": [
+        {
+            "nombre": "iron-boulder",
+            "oculta": false
+        },
+        {
+            "nombre": "iron-bundle",
+            "oculta": false
+        },
+        {
+            "nombre": "iron-crown",
+            "oculta": false
+        },
+        {
+            "nombre": "iron-hands",
+            "oculta": false
+        },
+        {
+            "nombre": "iron-jugulis",
+            "oculta": false
+        },
+        {
+            "nombre": "iron-leaves",
+            "oculta": false
+        },
+        {
+            "nombre": "iron-moth",
+            "oculta": false
+        },
+        {
+            "nombre": "iron-thorns",
+            "oculta": false
+        },
+        {
+            "nombre": "iron-treads",
+            "oculta": false
+        },
+        {
+            "nombre": "iron-valiant",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Carga Cuark",
+    "descripcion": null,
+    "generacion_introduccion": "generation-ix"
+}

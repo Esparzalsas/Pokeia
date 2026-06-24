@@ -1,0 +1,23 @@
+{
+    "pokemon": [
+        {
+            "nombre": "zoroark-hisui",
+            "oculta": false
+        },
+        {
+            "nombre": "zoroark",
+            "oculta": false
+        },
+        {
+            "nombre": "zorua-hisui",
+            "oculta": false
+        },
+        {
+            "nombre": "zorua",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Ilusión",
+    "descripcion": "Se convierte en el último Pokémon del equipo.",
+    "generacion_introduccion": "generation-v"
+}

@@ -1,0 +1,16 @@
+{
+    "id": 462,
+    "nombre_en": "crush-grip",
+    "nombre_es": "Agarrón",
+    "tipo": "normal",
+    "categoria": "physical",
+    "potencia": null,
+    "precision": 100,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-iv",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "regigigas"
+    ]
+}

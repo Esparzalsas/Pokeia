@@ -1,0 +1,14 @@
+{
+    "id": 606,
+    "nombre_en": "celebrate",
+    "nombre_es": "Celebración",
+    "tipo": "normal",
+    "categoria": "status",
+    "potencia": null,
+    "precision": null,
+    "pp": 40,
+    "prioridad": 0,
+    "generacion": "generation-vi",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

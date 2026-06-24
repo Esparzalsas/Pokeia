@@ -1,0 +1,59 @@
+{
+    "pokemon": [
+        {
+            "nombre": "basculin-red-striped",
+            "oculta": false
+        },
+        {
+            "nombre": "bouffalant",
+            "oculta": false
+        },
+        {
+            "nombre": "emboar",
+            "oculta": true
+        },
+        {
+            "nombre": "hitmonlee",
+            "oculta": false
+        },
+        {
+            "nombre": "mienfoo",
+            "oculta": true
+        },
+        {
+            "nombre": "mienshao",
+            "oculta": true
+        },
+        {
+            "nombre": "obstagoon",
+            "oculta": false
+        },
+        {
+            "nombre": "rhydon",
+            "oculta": true
+        },
+        {
+            "nombre": "rhyhorn",
+            "oculta": true
+        },
+        {
+            "nombre": "rhyperior",
+            "oculta": true
+        },
+        {
+            "nombre": "staraptor",
+            "oculta": true
+        },
+        {
+            "nombre": "staravia",
+            "oculta": true
+        },
+        {
+            "nombre": "starly",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Audaz",
+    "descripcion": "Potencia los movimientos que dañan al usuario.",
+    "generacion_introduccion": "generation-iv"
+}

@@ -1,0 +1,47 @@
+{
+    "pokemon": [
+        {
+            "nombre": "absol",
+            "oculta": true
+        },
+        {
+            "nombre": "arcanine",
+            "oculta": true
+        },
+        {
+            "nombre": "cobalion",
+            "oculta": false
+        },
+        {
+            "nombre": "gallade",
+            "oculta": true
+        },
+        {
+            "nombre": "growlithe",
+            "oculta": true
+        },
+        {
+            "nombre": "keldeo-ordinary",
+            "oculta": false
+        },
+        {
+            "nombre": "keldeo-resolute",
+            "oculta": false
+        },
+        {
+            "nombre": "lucario",
+            "oculta": true
+        },
+        {
+            "nombre": "terrakion",
+            "oculta": false
+        },
+        {
+            "nombre": "virizion",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Justiciero",
+    "descripcion": "Sube el Ataque al recibir uno de tipo Siniestro.",
+    "generacion_introduccion": "generation-v"
+}

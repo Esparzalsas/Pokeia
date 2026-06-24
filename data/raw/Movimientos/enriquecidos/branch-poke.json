@@ -1,0 +1,20 @@
+{
+    "id": 785,
+    "nombre_en": "branch-poke",
+    "nombre_es": "Punzada Rama",
+    "tipo": "grass",
+    "categoria": "physical",
+    "potencia": 40,
+    "precision": 100,
+    "pp": 40,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "phantump",
+        "trevenant",
+        "grookey",
+        "thwackey",
+        "rillaboom"
+    ]
+}

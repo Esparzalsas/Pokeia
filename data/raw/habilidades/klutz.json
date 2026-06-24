@@ -1,0 +1,55 @@
+{
+    "pokemon": [
+        {
+            "nombre": "audino",
+            "oculta": true
+        },
+        {
+            "nombre": "bewear",
+            "oculta": false
+        },
+        {
+            "nombre": "buneary",
+            "oculta": false
+        },
+        {
+            "nombre": "capsakid",
+            "oculta": true
+        },
+        {
+            "nombre": "fidough",
+            "oculta": true
+        },
+        {
+            "nombre": "golett",
+            "oculta": false
+        },
+        {
+            "nombre": "golurk",
+            "oculta": false
+        },
+        {
+            "nombre": "lopunny",
+            "oculta": false
+        },
+        {
+            "nombre": "stufful",
+            "oculta": false
+        },
+        {
+            "nombre": "swoobat",
+            "oculta": false
+        },
+        {
+            "nombre": "toxel",
+            "oculta": true
+        },
+        {
+            "nombre": "woobat",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Zoquete",
+    "descripcion": "El Pokémon no puede usar objetos equipados.",
+    "generacion_introduccion": "generation-iv"
+}

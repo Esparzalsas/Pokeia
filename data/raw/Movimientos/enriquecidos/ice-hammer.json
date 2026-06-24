@@ -1,0 +1,17 @@
+{
+    "id": 665,
+    "nombre_en": "ice-hammer",
+    "nombre_es": "Martillo Hielo",
+    "tipo": "ice",
+    "categoria": "physical",
+    "potencia": 100,
+    "precision": 90,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "crabominable",
+        "tinkatink"
+    ]
+}

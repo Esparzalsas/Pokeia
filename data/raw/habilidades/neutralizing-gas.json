@@ -1,0 +1,19 @@
+{
+    "pokemon": [
+        {
+            "nombre": "koffing",
+            "oculta": false
+        },
+        {
+            "nombre": "weezing-galar",
+            "oculta": false
+        },
+        {
+            "nombre": "weezing",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Gas Reactivo",
+    "descripcion": "Anula los efectos de las habilidades de los demás Pokémon presentes mientras esté en el terreno de combate.",
+    "generacion_introduccion": "generation-viii"
+}

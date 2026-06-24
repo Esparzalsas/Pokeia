@@ -1,0 +1,33 @@
+{
+    "id": 418,
+    "nombre_en": "bullet-punch",
+    "nombre_es": "Puño Bala",
+    "tipo": "steel",
+    "categoria": "physical",
+    "potencia": 40,
+    "precision": 100,
+    "pp": 30,
+    "prioridad": 1,
+    "generacion": "generation-iv",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "machop",
+        "machoke",
+        "machamp",
+        "hitmonlee",
+        "hitmonchan",
+        "scizor",
+        "tyrogue",
+        "hitmontop",
+        "makuhita",
+        "meditite",
+        "metang",
+        "metagross",
+        "riolu",
+        "lucario",
+        "croagunk",
+        "pangoro",
+        "scizor-mega",
+        "metagross-mega"
+    ]
+}

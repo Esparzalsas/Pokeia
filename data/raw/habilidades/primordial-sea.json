@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "kyogre-primal",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Mar del Albor",
+    "descripcion": "Altera el clima para anular los ataques de tipo Fuego.",
+    "generacion_introduccion": "generation-vi"
+}

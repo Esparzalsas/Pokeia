@@ -1,0 +1,16 @@
+{
+    "id": 825,
+    "nombre_en": "astral-barrage",
+    "nombre_es": "Orbes Espectro",
+    "tipo": "ghost",
+    "categoria": "special",
+    "potencia": 120,
+    "precision": 100,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "calyrex-shadow"
+    ]
+}

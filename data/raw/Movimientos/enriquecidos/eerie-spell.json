@@ -1,0 +1,16 @@
+{
+    "id": 826,
+    "nombre_en": "eerie-spell",
+    "nombre_es": "Conjuro Funesto",
+    "tipo": "psychic",
+    "categoria": "special",
+    "potencia": 80,
+    "precision": 100,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "slowking-galar"
+    ]
+}

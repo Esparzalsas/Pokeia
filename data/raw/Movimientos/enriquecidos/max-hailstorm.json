@@ -1,0 +1,14 @@
+{
+    "id": 763,
+    "nombre_en": "max-hailstorm",
+    "nombre_es": "Maxihelada",
+    "tipo": "ice",
+    "categoria": "physical",
+    "potencia": 10,
+    "precision": null,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

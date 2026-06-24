@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "dhelmise",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Acero Templado",
+    "descripcion": "Potencia los movimientos de tipo Acero.",
+    "generacion_introduccion": "generation-vii"
+}

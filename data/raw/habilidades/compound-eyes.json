@@ -1,0 +1,59 @@
+{
+    "pokemon": [
+        {
+            "nombre": "blipbug",
+            "oculta": false
+        },
+        {
+            "nombre": "butterfree-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "butterfree",
+            "oculta": false
+        },
+        {
+            "nombre": "dottler",
+            "oculta": false
+        },
+        {
+            "nombre": "dustox",
+            "oculta": true
+        },
+        {
+            "nombre": "galvantula",
+            "oculta": false
+        },
+        {
+            "nombre": "joltik",
+            "oculta": false
+        },
+        {
+            "nombre": "nincada",
+            "oculta": false
+        },
+        {
+            "nombre": "rellor",
+            "oculta": false
+        },
+        {
+            "nombre": "scatterbug",
+            "oculta": false
+        },
+        {
+            "nombre": "venonat",
+            "oculta": false
+        },
+        {
+            "nombre": "vivillon",
+            "oculta": false
+        },
+        {
+            "nombre": "yanma",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Ojo Compuesto",
+    "descripcion": "Aumenta la Precisión del Pokémon.",
+    "generacion_introduccion": "generation-iii"
+}

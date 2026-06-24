@@ -1,0 +1,14 @@
+{
+    "id": 644,
+    "nombre_en": "bloom-doom--physical",
+    "nombre_es": "Megatón Floral",
+    "tipo": "grass",
+    "categoria": "physical",
+    "potencia": null,
+    "precision": null,
+    "pp": 1,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

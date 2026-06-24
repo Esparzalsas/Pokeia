@@ -1,0 +1,83 @@
+{
+    "pokemon": [
+        {
+            "nombre": "altaria",
+            "oculta": false
+        },
+        {
+            "nombre": "blissey",
+            "oculta": false
+        },
+        {
+            "nombre": "budew",
+            "oculta": false
+        },
+        {
+            "nombre": "celebi",
+            "oculta": false
+        },
+        {
+            "nombre": "chansey",
+            "oculta": false
+        },
+        {
+            "nombre": "comfey",
+            "oculta": true
+        },
+        {
+            "nombre": "corsola",
+            "oculta": false
+        },
+        {
+            "nombre": "happiny",
+            "oculta": false
+        },
+        {
+            "nombre": "pawmi",
+            "oculta": false
+        },
+        {
+            "nombre": "pawmo",
+            "oculta": false
+        },
+        {
+            "nombre": "pawmot",
+            "oculta": false
+        },
+        {
+            "nombre": "phantump",
+            "oculta": false
+        },
+        {
+            "nombre": "roselia",
+            "oculta": false
+        },
+        {
+            "nombre": "roserade",
+            "oculta": false
+        },
+        {
+            "nombre": "shaymin-land",
+            "oculta": false
+        },
+        {
+            "nombre": "starmie",
+            "oculta": false
+        },
+        {
+            "nombre": "staryu",
+            "oculta": false
+        },
+        {
+            "nombre": "swablu",
+            "oculta": false
+        },
+        {
+            "nombre": "trevenant",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Cura Natural",
+    "descripcion": "Cura problemas de estado al cambiar de Pokémon.",
+    "generacion_introduccion": "generation-iii"
+}

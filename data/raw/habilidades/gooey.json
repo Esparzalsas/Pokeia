@@ -1,0 +1,35 @@
+{
+    "pokemon": [
+        {
+            "nombre": "goodra-hisui",
+            "oculta": true
+        },
+        {
+            "nombre": "goodra",
+            "oculta": true
+        },
+        {
+            "nombre": "goomy",
+            "oculta": true
+        },
+        {
+            "nombre": "sliggoo-hisui",
+            "oculta": true
+        },
+        {
+            "nombre": "sliggoo",
+            "oculta": true
+        },
+        {
+            "nombre": "wiglett",
+            "oculta": false
+        },
+        {
+            "nombre": "wugtrio",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Baba",
+    "descripcion": "Baja la Velocidad del Pokémon con el que entra en contacto.",
+    "generacion_introduccion": "generation-vi"
+}

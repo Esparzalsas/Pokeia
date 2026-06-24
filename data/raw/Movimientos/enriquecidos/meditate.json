@@ -1,0 +1,30 @@
+{
+    "id": 96,
+    "nombre_en": "meditate",
+    "nombre_es": "Meditación",
+    "tipo": "psychic",
+    "categoria": "status",
+    "potencia": null,
+    "precision": null,
+    "pp": 40,
+    "prioridad": 0,
+    "generacion": "generation-i",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "mankey",
+        "machop",
+        "drowzee",
+        "hypno",
+        "hitmonlee",
+        "mr-mime",
+        "smoochum",
+        "elekid",
+        "meditite",
+        "medicham",
+        "mime-jr",
+        "croagunk",
+        "mienfoo",
+        "mienshao",
+        "medicham-mega"
+    ]
+}

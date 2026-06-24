@@ -1,0 +1,21 @@
+{
+    "id": 537,
+    "nombre_en": "steamroller",
+    "nombre_es": "Rodillo de Púas",
+    "tipo": "bug",
+    "categoria": "physical",
+    "potencia": 65,
+    "precision": 100,
+    "pp": 20,
+    "prioridad": 0,
+    "generacion": "generation-v",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "golem",
+        "venipede",
+        "whirlipede",
+        "scolipede",
+        "guzzlord",
+        "golem-alola"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "id": 755,
+    "nombre_en": "fishious-rend",
+    "nombre_es": "Branquibocado",
+    "tipo": "water",
+    "categoria": "physical",
+    "potencia": 85,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "dracovish",
+        "arctovish"
+    ]
+}

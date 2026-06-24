@@ -1,0 +1,70 @@
+{
+    "id": 366,
+    "nombre": "clamperl",
+    "tipos": [
+        "water"
+    ],
+    "stats_base": {
+        "hp": 35,
+        "attack": 64,
+        "defense": 85,
+        "special-attack": 74,
+        "special-defense": 55,
+        "speed": 32
+    },
+    "habilidades": {
+        "normales": [
+            "shell-armor"
+        ],
+        "oculta": "rattled"
+    },
+    "movimientos": [
+        "body-slam",
+        "double-edge",
+        "supersonic",
+        "water-gun",
+        "surf",
+        "ice-beam",
+        "blizzard",
+        "toxic",
+        "mimic",
+        "double-team",
+        "confuse-ray",
+        "barrier",
+        "waterfall",
+        "clamp",
+        "rest",
+        "substitute",
+        "snore",
+        "protect",
+        "icy-wind",
+        "endure",
+        "swagger",
+        "attract",
+        "sleep-talk",
+        "return",
+        "frustration",
+        "hidden-power",
+        "rain-dance",
+        "whirlpool",
+        "hail",
+        "facade",
+        "refresh",
+        "secret-power",
+        "dive",
+        "mud-sport",
+        "muddy-water",
+        "iron-defense",
+        "water-pulse",
+        "brine",
+        "natural-gift",
+        "aqua-ring",
+        "captivate",
+        "round",
+        "scald",
+        "shell-smash",
+        "confide"
+    ],
+    "peso": 525,
+    "altura": 4
+}

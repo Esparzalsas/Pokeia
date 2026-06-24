@@ -1,0 +1,199 @@
+{
+    "pokemon": [
+        {
+            "nombre": "aggron",
+            "oculta": false
+        },
+        {
+            "nombre": "archaludon",
+            "oculta": false
+        },
+        {
+            "nombre": "aron",
+            "oculta": false
+        },
+        {
+            "nombre": "avalugg-hisui",
+            "oculta": true
+        },
+        {
+            "nombre": "avalugg",
+            "oculta": true
+        },
+        {
+            "nombre": "bastiodon",
+            "oculta": false
+        },
+        {
+            "nombre": "bergmite",
+            "oculta": true
+        },
+        {
+            "nombre": "boldore",
+            "oculta": false
+        },
+        {
+            "nombre": "bonsly",
+            "oculta": false
+        },
+        {
+            "nombre": "carbink",
+            "oculta": true
+        },
+        {
+            "nombre": "carracosta",
+            "oculta": false
+        },
+        {
+            "nombre": "cosmoem",
+            "oculta": false
+        },
+        {
+            "nombre": "crustle",
+            "oculta": false
+        },
+        {
+            "nombre": "donphan",
+            "oculta": false
+        },
+        {
+            "nombre": "dwebble",
+            "oculta": false
+        },
+        {
+            "nombre": "forretress",
+            "oculta": false
+        },
+        {
+            "nombre": "garganacl",
+            "oculta": false
+        },
+        {
+            "nombre": "geodude-alola",
+            "oculta": false
+        },
+        {
+            "nombre": "geodude",
+            "oculta": false
+        },
+        {
+            "nombre": "gigalith",
+            "oculta": false
+        },
+        {
+            "nombre": "golem-alola",
+            "oculta": false
+        },
+        {
+            "nombre": "golem",
+            "oculta": false
+        },
+        {
+            "nombre": "graveler-alola",
+            "oculta": false
+        },
+        {
+            "nombre": "graveler",
+            "oculta": false
+        },
+        {
+            "nombre": "lairon",
+            "oculta": false
+        },
+        {
+            "nombre": "magnemite",
+            "oculta": false
+        },
+        {
+            "nombre": "magneton",
+            "oculta": false
+        },
+        {
+            "nombre": "magnezone",
+            "oculta": false
+        },
+        {
+            "nombre": "nacli",
+            "oculta": false
+        },
+        {
+            "nombre": "naclstack",
+            "oculta": false
+        },
+        {
+            "nombre": "nosepass",
+            "oculta": false
+        },
+        {
+            "nombre": "ogerpon-cornerstone-mask",
+            "oculta": false
+        },
+        {
+            "nombre": "onix",
+            "oculta": false
+        },
+        {
+            "nombre": "pineco",
+            "oculta": false
+        },
+        {
+            "nombre": "probopass",
+            "oculta": false
+        },
+        {
+            "nombre": "regirock",
+            "oculta": true
+        },
+        {
+            "nombre": "relicanth",
+            "oculta": true
+        },
+        {
+            "nombre": "roggenrola",
+            "oculta": false
+        },
+        {
+            "nombre": "sawk",
+            "oculta": false
+        },
+        {
+            "nombre": "shieldon",
+            "oculta": false
+        },
+        {
+            "nombre": "shuckle",
+            "oculta": false
+        },
+        {
+            "nombre": "skarmory",
+            "oculta": false
+        },
+        {
+            "nombre": "steelix",
+            "oculta": false
+        },
+        {
+            "nombre": "sudowoodo",
+            "oculta": false
+        },
+        {
+            "nombre": "tirtouga",
+            "oculta": false
+        },
+        {
+            "nombre": "togedemaru-totem",
+            "oculta": true
+        },
+        {
+            "nombre": "togedemaru",
+            "oculta": true
+        },
+        {
+            "nombre": "tyrunt",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Robustez",
+    "descripcion": "Evita que el rival pueda debilitarle de un solo golpe.",
+    "generacion_introduccion": "generation-iii"
+}

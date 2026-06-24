@@ -1,0 +1,14 @@
+{
+    "id": 762,
+    "nombre_en": "max-phantasm",
+    "nombre_es": "Maxiespectro",
+    "tipo": "ghost",
+    "categoria": "physical",
+    "potencia": 10,
+    "precision": null,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

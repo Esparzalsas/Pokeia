@@ -1,0 +1,14 @@
+{
+    "id": 637,
+    "nombre_en": "never-ending-nightmare--special",
+    "nombre_es": "Presa Espectral",
+    "tipo": "ghost",
+    "categoria": "special",
+    "potencia": null,
+    "precision": null,
+    "pp": 1,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

@@ -1,0 +1,17 @@
+{
+    "id": 786,
+    "nombre_en": "overdrive",
+    "nombre_es": "Amplificador",
+    "tipo": "electric",
+    "categoria": "special",
+    "potencia": 80,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "toxtricity-amped",
+        "toxtricity-low-key"
+    ]
+}

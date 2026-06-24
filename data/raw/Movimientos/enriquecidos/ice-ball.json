@@ -1,0 +1,30 @@
+{
+    "id": 301,
+    "nombre_en": "ice-ball",
+    "nombre_es": "Bola Hielo",
+    "tipo": "ice",
+    "categoria": "physical",
+    "potencia": 30,
+    "precision": 90,
+    "pp": 20,
+    "prioridad": 0,
+    "generacion": "generation-iii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "poliwag",
+        "delibird",
+        "mudkip",
+        "glalie",
+        "spheal",
+        "sealeo",
+        "walrein",
+        "bergmite",
+        "avalugg",
+        "sandshrew-alola",
+        "sandslash-alola",
+        "voltorb-hisui",
+        "electrode-hisui",
+        "qwilfish-hisui",
+        "avalugg-hisui"
+    ]
+}

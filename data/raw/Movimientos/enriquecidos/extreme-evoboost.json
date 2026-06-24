@@ -1,0 +1,14 @@
+{
+    "id": 702,
+    "nombre_en": "extreme-evoboost",
+    "nombre_es": "Novena Potencia",
+    "tipo": "normal",
+    "categoria": "status",
+    "potencia": null,
+    "precision": null,
+    "pp": 1,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

@@ -1,0 +1,19 @@
+{
+    "pokemon": [
+        {
+            "nombre": "geodude-alola",
+            "oculta": true
+        },
+        {
+            "nombre": "golem-alola",
+            "oculta": true
+        },
+        {
+            "nombre": "graveler-alola",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Piel Eléctrica",
+    "descripcion": "Convierte los movimientos de tipo Normal en tipo Eléctrico y aumenta ligeramente su potencia.",
+    "generacion_introduccion": "generation-vii"
+}

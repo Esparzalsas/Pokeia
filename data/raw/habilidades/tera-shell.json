@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "terapagos-terastal",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Teracaparazón",
+    "descripcion": null,
+    "generacion_introduccion": "generation-ix"
+}

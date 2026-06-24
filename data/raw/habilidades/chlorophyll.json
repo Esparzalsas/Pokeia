@@ -1,0 +1,163 @@
+{
+    "pokemon": [
+        {
+            "nombre": "bellossom",
+            "oculta": false
+        },
+        {
+            "nombre": "bellsprout",
+            "oculta": false
+        },
+        {
+            "nombre": "bulbasaur",
+            "oculta": true
+        },
+        {
+            "nombre": "capsakid",
+            "oculta": false
+        },
+        {
+            "nombre": "cherubi",
+            "oculta": false
+        },
+        {
+            "nombre": "cottonee",
+            "oculta": true
+        },
+        {
+            "nombre": "deerling",
+            "oculta": false
+        },
+        {
+            "nombre": "exeggcute",
+            "oculta": false
+        },
+        {
+            "nombre": "exeggutor",
+            "oculta": false
+        },
+        {
+            "nombre": "gloom",
+            "oculta": false
+        },
+        {
+            "nombre": "hoppip",
+            "oculta": false
+        },
+        {
+            "nombre": "ivysaur",
+            "oculta": true
+        },
+        {
+            "nombre": "jumpluff",
+            "oculta": false
+        },
+        {
+            "nombre": "leafeon",
+            "oculta": true
+        },
+        {
+            "nombre": "leavanny",
+            "oculta": false
+        },
+        {
+            "nombre": "lilligant-hisui",
+            "oculta": false
+        },
+        {
+            "nombre": "lilligant",
+            "oculta": false
+        },
+        {
+            "nombre": "maractus",
+            "oculta": false
+        },
+        {
+            "nombre": "nuzleaf",
+            "oculta": false
+        },
+        {
+            "nombre": "oddish",
+            "oculta": false
+        },
+        {
+            "nombre": "petilil",
+            "oculta": false
+        },
+        {
+            "nombre": "sawsbuck",
+            "oculta": false
+        },
+        {
+            "nombre": "scovillain",
+            "oculta": false
+        },
+        {
+            "nombre": "seedot",
+            "oculta": false
+        },
+        {
+            "nombre": "sewaddle",
+            "oculta": false
+        },
+        {
+            "nombre": "shiftry",
+            "oculta": false
+        },
+        {
+            "nombre": "skiploom",
+            "oculta": false
+        },
+        {
+            "nombre": "sunflora",
+            "oculta": false
+        },
+        {
+            "nombre": "sunkern",
+            "oculta": false
+        },
+        {
+            "nombre": "swadloon",
+            "oculta": false
+        },
+        {
+            "nombre": "tangela",
+            "oculta": false
+        },
+        {
+            "nombre": "tangrowth",
+            "oculta": false
+        },
+        {
+            "nombre": "tropius",
+            "oculta": false
+        },
+        {
+            "nombre": "venusaur-gmax",
+            "oculta": true
+        },
+        {
+            "nombre": "venusaur",
+            "oculta": true
+        },
+        {
+            "nombre": "victreebel",
+            "oculta": false
+        },
+        {
+            "nombre": "vileplume",
+            "oculta": false
+        },
+        {
+            "nombre": "weepinbell",
+            "oculta": false
+        },
+        {
+            "nombre": "whimsicott",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Clorofila",
+    "descripcion": "Sube la Velocidad cuando hay sol.",
+    "generacion_introduccion": "generation-iii"
+}

@@ -1,0 +1,16 @@
+{
+    "id": 910,
+    "nombre_en": "mighty-cleave",
+    "nombre_es": "Filo Potente",
+    "tipo": "rock",
+    "categoria": "physical",
+    "potencia": 95,
+    "precision": 100,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "iron-boulder"
+    ]
+}

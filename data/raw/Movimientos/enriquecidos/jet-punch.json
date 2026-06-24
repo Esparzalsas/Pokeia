@@ -1,0 +1,17 @@
+{
+    "id": 857,
+    "nombre_en": "jet-punch",
+    "nombre_es": null,
+    "tipo": "water",
+    "categoria": "physical",
+    "potencia": 60,
+    "precision": 100,
+    "pp": 15,
+    "prioridad": 1,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "palafin-zero",
+        "palafin-hero"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": 904,
+    "nombre_en": "ivy-cudgel",
+    "nombre_es": null,
+    "tipo": "grass",
+    "categoria": "physical",
+    "potencia": 100,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "ogerpon",
+        "ogerpon-wellspring-mask",
+        "ogerpon-hearthflame-mask",
+        "ogerpon-cornerstone-mask"
+    ]
+}

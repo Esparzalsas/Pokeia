@@ -1,0 +1,14 @@
+{
+    "id": 770,
+    "nombre_en": "max-rockfall",
+    "nombre_es": "Maxilito",
+    "tipo": "rock",
+    "categoria": "physical",
+    "potencia": 10,
+    "precision": null,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

@@ -1,0 +1,99 @@
+{
+    "pokemon": [
+        {
+            "nombre": "accelgor",
+            "oculta": false
+        },
+        {
+            "nombre": "alomomola",
+            "oculta": false
+        },
+        {
+            "nombre": "barboach",
+            "oculta": true
+        },
+        {
+            "nombre": "dewgong",
+            "oculta": false
+        },
+        {
+            "nombre": "ducklett",
+            "oculta": true
+        },
+        {
+            "nombre": "goodra",
+            "oculta": false
+        },
+        {
+            "nombre": "goomy",
+            "oculta": false
+        },
+        {
+            "nombre": "gorebyss",
+            "oculta": true
+        },
+        {
+            "nombre": "lapras-gmax",
+            "oculta": true
+        },
+        {
+            "nombre": "lapras",
+            "oculta": true
+        },
+        {
+            "nombre": "luvdisc",
+            "oculta": true
+        },
+        {
+            "nombre": "manaphy",
+            "oculta": false
+        },
+        {
+            "nombre": "palpitoad",
+            "oculta": false
+        },
+        {
+            "nombre": "phione",
+            "oculta": false
+        },
+        {
+            "nombre": "seel",
+            "oculta": false
+        },
+        {
+            "nombre": "shelmet",
+            "oculta": false
+        },
+        {
+            "nombre": "sliggoo",
+            "oculta": false
+        },
+        {
+            "nombre": "smoochum",
+            "oculta": true
+        },
+        {
+            "nombre": "swanna",
+            "oculta": true
+        },
+        {
+            "nombre": "tympole",
+            "oculta": false
+        },
+        {
+            "nombre": "vaporeon",
+            "oculta": true
+        },
+        {
+            "nombre": "whiscash",
+            "oculta": true
+        },
+        {
+            "nombre": "wingull",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Hidratación",
+    "descripcion": "Cura los problemas de estado si está lloviendo.",
+    "generacion_introduccion": "generation-iv"
+}

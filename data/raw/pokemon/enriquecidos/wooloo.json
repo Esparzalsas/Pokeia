@@ -1,0 +1,56 @@
+{
+    "id": 831,
+    "nombre": "wooloo",
+    "tipos": [
+        "normal"
+    ],
+    "stats_base": {
+        "hp": 42,
+        "attack": 40,
+        "defense": 55,
+        "special-attack": 40,
+        "special-defense": 45,
+        "speed": 48
+    },
+    "habilidades": {
+        "normales": [
+            "fluffy",
+            "run-away"
+        ],
+        "oculta": "bulletproof"
+    },
+    "movimientos": [
+        "stomp",
+        "double-kick",
+        "headbutt",
+        "tackle",
+        "take-down",
+        "double-edge",
+        "growl",
+        "counter",
+        "thunder-wave",
+        "agility",
+        "defense-curl",
+        "rest",
+        "substitute",
+        "snore",
+        "reversal",
+        "protect",
+        "endure",
+        "swagger",
+        "attract",
+        "sleep-talk",
+        "facade",
+        "payback",
+        "copycat",
+        "guard-swap",
+        "guard-split",
+        "electro-ball",
+        "round",
+        "wild-charge",
+        "cotton-guard",
+        "grassy-glide"
+    ],
+    "peso": 60,
+    "altura": 6
+}

@@ -1,0 +1,23 @@
+{
+    "pokemon": [
+        {
+            "nombre": "palafin-hero",
+            "oculta": false
+        },
+        {
+            "nombre": "palafin-hero",
+            "oculta": true
+        },
+        {
+            "nombre": "palafin-zero",
+            "oculta": false
+        },
+        {
+            "nombre": "palafin-zero",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Cambio Heroico",
+    "descripcion": null,
+    "generacion_introduccion": "generation-ix"
+}

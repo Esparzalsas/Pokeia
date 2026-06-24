@@ -1,0 +1,16 @@
+{
+    "id": 875,
+    "nombre_en": "psyblade",
+    "nombre_es": "Psicohojas",
+    "tipo": "psychic",
+    "categoria": "physical",
+    "potencia": 80,
+    "precision": 100,
+    "pp": 15,
+    "prioridad": 0,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "iron-leaves"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "id": 235,
+    "nombre": "smeargle",
+    "tipos": [
+        "normal"
+    ],
+    "stats_base": {
+        "hp": 55,
+        "attack": 20,
+        "defense": 35,
+        "special-attack": 20,
+        "special-defense": 45,
+        "speed": 75
+    },
+    "habilidades": {
+        "normales": [
+            "own-tempo",
+            "technician"
+        ],
+        "oculta": "moody"
+    },
+    "movimientos": [
+        "sketch"
+    ],
+    "peso": 580,
+    "altura": 12
+}

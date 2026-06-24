@@ -1,0 +1,14 @@
+{
+    "id": 699,
+    "nombre_en": "soul-stealing-7-star-strike",
+    "nombre_es": "Constelación Robaalmas",
+    "tipo": "ghost",
+    "categoria": "physical",
+    "potencia": 195,
+    "precision": null,
+    "pp": 1,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

@@ -1,0 +1,73 @@
+{
+    "id": 891,
+    "nombre": "kubfu",
+    "tipos": [
+        "fighting"
+    ],
+    "stats_base": {
+        "hp": 60,
+        "attack": 90,
+        "defense": 60,
+        "special-attack": 53,
+        "special-defense": 50,
+        "speed": 72
+    },
+    "habilidades": {
+        "normales": [
+            "inner-focus"
+        ],
+        "oculta": null
+    },
+    "movimientos": [
+        "mega-punch",
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "swords-dance",
+        "mega-kick",
+        "headbutt",
+        "body-slam",
+        "take-down",
+        "double-edge",
+        "leer",
+        "low-kick",
+        "counter",
+        "dig",
+        "focus-energy",
+        "rest",
+        "substitute",
+        "snore",
+        "reversal",
+        "protect",
+        "scary-face",
+        "detect",
+        "endure",
+        "attract",
+        "sleep-talk",
+        "dynamic-punch",
+        "metal-claw",
+        "rock-smash",
+        "facade",
+        "focus-punch",
+        "helping-hand",
+        "superpower",
+        "revenge",
+        "brick-break",
+        "aerial-ace",
+        "bulk-up",
+        "u-turn",
+        "close-combat",
+        "fling",
+        "zen-headbutt",
+        "iron-head",
+        "low-sweep",
+        "round",
+        "acrobatics",
+        "retaliate",
+        "work-up",
+        "coaching",
+        "tera-blast"
+    ],
+    "peso": 120,
+    "altura": 6
+}

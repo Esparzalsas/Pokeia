@@ -1,0 +1,19 @@
+{
+    "pokemon": [
+        {
+            "nombre": "cramorant-gorging",
+            "oculta": false
+        },
+        {
+            "nombre": "cramorant-gulping",
+            "oculta": false
+        },
+        {
+            "nombre": "cramorant",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Tragamisil",
+    "descripcion": "Tras usar Surf o Buceo, emerge con una presa en la boca. Al recibir daño, ataca escupiéndola al rival.",
+    "generacion_introduccion": "generation-viii"
+}

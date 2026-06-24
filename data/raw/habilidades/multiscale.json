@@ -1,0 +1,15 @@
+{
+    "pokemon": [
+        {
+            "nombre": "dragonite",
+            "oculta": true
+        },
+        {
+            "nombre": "lugia",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Multiescamas",
+    "descripcion": "Reduce el daño sufrido si los PS están al máximo.",
+    "generacion_introduccion": "generation-v"
+}

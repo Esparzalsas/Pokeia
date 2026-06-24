@@ -1,0 +1,19 @@
+{
+    "id": 853,
+    "nombre_en": "axe-kick",
+    "nombre_es": null,
+    "tipo": "fighting",
+    "categoria": "physical",
+    "potencia": 120,
+    "precision": 90,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "hitmonlee",
+        "medicham",
+        "lokix",
+        "lilligant-hisui"
+    ]
+}

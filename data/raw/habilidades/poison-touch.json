@@ -1,0 +1,51 @@
+{
+    "pokemon": [
+        {
+            "nombre": "croagunk",
+            "oculta": true
+        },
+        {
+            "nombre": "dragalge",
+            "oculta": false
+        },
+        {
+            "nombre": "grafaiai",
+            "oculta": false
+        },
+        {
+            "nombre": "grimer-alola",
+            "oculta": false
+        },
+        {
+            "nombre": "grimer",
+            "oculta": true
+        },
+        {
+            "nombre": "muk-alola",
+            "oculta": false
+        },
+        {
+            "nombre": "muk",
+            "oculta": true
+        },
+        {
+            "nombre": "seismitoad",
+            "oculta": false
+        },
+        {
+            "nombre": "skrelp",
+            "oculta": false
+        },
+        {
+            "nombre": "sneasler",
+            "oculta": true
+        },
+        {
+            "nombre": "toxicroak",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Toque Tóxico",
+    "descripcion": "Puede envenenar al objetivo con solo tocarlo.",
+    "generacion_introduccion": "generation-v"
+}

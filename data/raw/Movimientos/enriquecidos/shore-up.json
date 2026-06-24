@@ -1,0 +1,17 @@
+{
+    "id": 659,
+    "nombre_en": "shore-up",
+    "nombre_es": "Recogearena",
+    "tipo": "ground",
+    "categoria": "status",
+    "potencia": null,
+    "precision": null,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "sandygast",
+        "palossand"
+    ]
+}

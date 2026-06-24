@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "pyukumuku",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Revés",
+    "descripcion": "Al caer debilitado, inflige al rival un daño equivalente a los PS que le quedaran.",
+    "generacion_introduccion": "generation-vii"
+}

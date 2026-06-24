@@ -1,0 +1,14 @@
+{
+    "id": 727,
+    "nombre_en": "splintered-stormshards",
+    "nombre_es": "Tempestad Rocosa",
+    "tipo": "rock",
+    "categoria": "physical",
+    "potencia": 190,
+    "precision": null,
+    "pp": 1,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

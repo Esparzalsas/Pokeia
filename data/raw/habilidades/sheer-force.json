@@ -1,0 +1,155 @@
+{
+    "pokemon": [
+        {
+            "nombre": "bagon",
+            "oculta": true
+        },
+        {
+            "nombre": "braviary-hisui",
+            "oculta": false
+        },
+        {
+            "nombre": "braviary",
+            "oculta": false
+        },
+        {
+            "nombre": "camerupt-mega",
+            "oculta": false
+        },
+        {
+            "nombre": "cetitan",
+            "oculta": true
+        },
+        {
+            "nombre": "cetoddle",
+            "oculta": true
+        },
+        {
+            "nombre": "conkeldurr",
+            "oculta": false
+        },
+        {
+            "nombre": "copperajah-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "copperajah",
+            "oculta": false
+        },
+        {
+            "nombre": "cranidos",
+            "oculta": true
+        },
+        {
+            "nombre": "croconaw",
+            "oculta": true
+        },
+        {
+            "nombre": "cufant",
+            "oculta": false
+        },
+        {
+            "nombre": "darmanitan-standard",
+            "oculta": false
+        },
+        {
+            "nombre": "darmanitan-zen",
+            "oculta": false
+        },
+        {
+            "nombre": "druddigon",
+            "oculta": false
+        },
+        {
+            "nombre": "feraligatr",
+            "oculta": true
+        },
+        {
+            "nombre": "gurdurr",
+            "oculta": false
+        },
+        {
+            "nombre": "hariyama",
+            "oculta": true
+        },
+        {
+            "nombre": "kingler-gmax",
+            "oculta": true
+        },
+        {
+            "nombre": "kingler",
+            "oculta": true
+        },
+        {
+            "nombre": "kleavor",
+            "oculta": false
+        },
+        {
+            "nombre": "krabby",
+            "oculta": true
+        },
+        {
+            "nombre": "landorus-incarnate",
+            "oculta": true
+        },
+        {
+            "nombre": "makuhita",
+            "oculta": true
+        },
+        {
+            "nombre": "mawile",
+            "oculta": true
+        },
+        {
+            "nombre": "nidoking",
+            "oculta": true
+        },
+        {
+            "nombre": "nidoqueen",
+            "oculta": true
+        },
+        {
+            "nombre": "rampardos",
+            "oculta": true
+        },
+        {
+            "nombre": "rufflet",
+            "oculta": false
+        },
+        {
+            "nombre": "squawkabilly-white-plumage",
+            "oculta": true
+        },
+        {
+            "nombre": "squawkabilly-yellow-plumage",
+            "oculta": true
+        },
+        {
+            "nombre": "steelix",
+            "oculta": true
+        },
+        {
+            "nombre": "tauros",
+            "oculta": true
+        },
+        {
+            "nombre": "timburr",
+            "oculta": false
+        },
+        {
+            "nombre": "totodile",
+            "oculta": true
+        },
+        {
+            "nombre": "toucannon",
+            "oculta": true
+        },
+        {
+            "nombre": "trapinch",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Potencia Bruta",
+    "descripcion": "Sube la potencia y anula los efectos secundarios.",
+    "generacion_introduccion": "generation-v"
+}

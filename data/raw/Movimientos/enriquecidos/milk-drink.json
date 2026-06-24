@@ -1,0 +1,18 @@
+{
+    "id": 208,
+    "nombre_en": "milk-drink",
+    "nombre_es": "Batido",
+    "tipo": "normal",
+    "categoria": "status",
+    "potencia": null,
+    "precision": null,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-ii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "miltank",
+        "skiddo",
+        "gogoat"
+    ]
+}

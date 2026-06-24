@@ -1,0 +1,16 @@
+{
+    "id": 819,
+    "nombre_en": "thunder-cage",
+    "nombre_es": "Electrojaula",
+    "tipo": "electric",
+    "categoria": "special",
+    "potencia": 80,
+    "precision": 90,
+    "pp": 15,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "regieleki"
+    ]
+}

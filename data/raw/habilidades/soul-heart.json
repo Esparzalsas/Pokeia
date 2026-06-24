@@ -1,0 +1,15 @@
+{
+    "pokemon": [
+        {
+            "nombre": "magearna-original",
+            "oculta": false
+        },
+        {
+            "nombre": "magearna",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Coránima",
+    "descripcion": "Aumenta el Ataque Especial cada vez que un Pokémon cae debilitado.",
+    "generacion_introduccion": "generation-vii"
+}

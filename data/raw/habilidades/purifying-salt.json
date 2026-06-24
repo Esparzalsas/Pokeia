@@ -1,0 +1,19 @@
+{
+    "pokemon": [
+        {
+            "nombre": "garganacl",
+            "oculta": false
+        },
+        {
+            "nombre": "nacli",
+            "oculta": false
+        },
+        {
+            "nombre": "naclstack",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Sal Purificadora",
+    "descripcion": null,
+    "generacion_introduccion": "generation-ix"
+}

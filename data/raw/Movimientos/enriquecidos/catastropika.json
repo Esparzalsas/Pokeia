@@ -1,0 +1,14 @@
+{
+    "id": 658,
+    "nombre_en": "catastropika",
+    "nombre_es": "Pikavoltio Letal",
+    "tipo": "electric",
+    "categoria": "physical",
+    "potencia": 210,
+    "precision": null,
+    "pp": 1,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

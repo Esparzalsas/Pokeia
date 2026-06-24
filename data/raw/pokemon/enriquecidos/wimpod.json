@@ -1,0 +1,64 @@
+{
+    "id": 767,
+    "nombre": "wimpod",
+    "tipos": [
+        "bug",
+        "water"
+    ],
+    "stats_base": {
+        "hp": 25,
+        "attack": 35,
+        "defense": 40,
+        "special-attack": 20,
+        "special-defense": 30,
+        "speed": 80
+    },
+    "habilidades": {
+        "normales": [
+            "wimp-out"
+        ],
+        "oculta": null
+    },
+    "movimientos": [
+        "sand-attack",
+        "surf",
+        "toxic",
+        "screech",
+        "double-team",
+        "harden",
+        "defense-curl",
+        "waterfall",
+        "swift",
+        "leech-life",
+        "rest",
+        "substitute",
+        "snore",
+        "protect",
+        "spikes",
+        "endure",
+        "rollout",
+        "swagger",
+        "attract",
+        "sleep-talk",
+        "return",
+        "frustration",
+        "metal-claw",
+        "hidden-power",
+        "rain-dance",
+        "hail",
+        "facade",
+        "taunt",
+        "mud-shot",
+        "assurance",
+        "bug-buzz",
+        "aqua-jet",
+        "wide-guard",
+        "round",
+        "scald",
+        "struggle-bug",
+        "confide",
+        "skitter-smack"
+    ],
+    "peso": 120,
+    "altura": 5
+}

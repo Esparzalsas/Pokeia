@@ -1,0 +1,31 @@
+{
+    "id": 124,
+    "nombre_en": "sludge",
+    "nombre_es": "Residuos",
+    "tipo": "poison",
+    "categoria": "special",
+    "potencia": 65,
+    "precision": 100,
+    "pp": 20,
+    "prioridad": 0,
+    "generacion": "generation-i",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "bulbasaur",
+        "grimer",
+        "muk",
+        "koffing",
+        "weezing",
+        "mudkip",
+        "marshtomp",
+        "swampert",
+        "gulpin",
+        "swalot",
+        "shellos",
+        "trubbish",
+        "garbodor",
+        "varoom",
+        "revavroom",
+        "weezing-galar"
+    ]
+}

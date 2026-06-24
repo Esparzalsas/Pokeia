@@ -1,0 +1,16 @@
+{
+    "id": 865,
+    "nombre_en": "triple-dive",
+    "nombre_es": null,
+    "tipo": "water",
+    "categoria": "physical",
+    "potencia": 30,
+    "precision": 95,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "wugtrio"
+    ]
+}

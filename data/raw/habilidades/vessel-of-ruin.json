@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "ting-lu",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Caldero Debacle",
+    "descripcion": null,
+    "generacion_introduccion": "generation-ix"
+}

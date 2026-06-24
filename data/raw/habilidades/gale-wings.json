@@ -1,0 +1,19 @@
+{
+    "pokemon": [
+        {
+            "nombre": "fletchinder",
+            "oculta": true
+        },
+        {
+            "nombre": "fletchling",
+            "oculta": true
+        },
+        {
+            "nombre": "talonflame",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Alas Vendaval",
+    "descripcion": "Da prioridad a los movimientos de tipo Volador.",
+    "generacion_introduccion": "generation-vi"
+}

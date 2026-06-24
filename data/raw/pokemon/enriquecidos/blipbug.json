@@ -1,0 +1,31 @@
+{
+    "id": 824,
+    "nombre": "blipbug",
+    "tipos": [
+        "bug"
+    ],
+    "stats_base": {
+        "hp": 25,
+        "attack": 20,
+        "defense": 20,
+        "special-attack": 25,
+        "special-defense": 45,
+        "speed": 45
+    },
+    "habilidades": {
+        "normales": [
+            "swarm",
+            "compound-eyes"
+        ],
+        "oculta": "telepathy"
+    },
+    "movimientos": [
+        "supersonic",
+        "recover",
+        "struggle-bug",
+        "sticky-web",
+        "infestation"
+    ],
+    "peso": 80,
+    "altura": 4
+}

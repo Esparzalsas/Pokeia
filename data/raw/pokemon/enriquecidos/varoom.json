@@ -1,0 +1,72 @@
+{
+    "id": 965,
+    "nombre": "varoom",
+    "tipos": [
+        "steel",
+        "poison"
+    ],
+    "stats_base": {
+        "hp": 45,
+        "attack": 70,
+        "defense": 63,
+        "special-attack": 30,
+        "special-defense": 45,
+        "speed": 47
+    },
+    "habilidades": {
+        "normales": [
+            "overcoat"
+        ],
+        "oculta": "slow-start"
+    },
+    "movimientos": [
+        "headbutt",
+        "body-slam",
+        "take-down",
+        "double-edge",
+        "toxic",
+        "screech",
+        "haze",
+        "self-destruct",
+        "lick",
+        "smog",
+        "sludge",
+        "poison-gas",
+        "substitute",
+        "thief",
+        "curse",
+        "protect",
+        "scary-face",
+        "sludge-bomb",
+        "sandstorm",
+        "endure",
+        "swagger",
+        "sleep-talk",
+        "rain-dance",
+        "sunny-day",
+        "uproar",
+        "torment",
+        "facade",
+        "taunt",
+        "metal-sound",
+        "iron-defense",
+        "gyro-ball",
+        "assurance",
+        "toxic-spikes",
+        "poison-jab",
+        "zen-headbutt",
+        "flash-cannon",
+        "gunk-shot",
+        "iron-head",
+        "venoshock",
+        "sludge-wave",
+        "acid-spray",
+        "bulldoze",
+        "parting-shot",
+        "steel-beam",
+        "tera-blast",
+        "spin-out"
+    ],
+    "peso": 350,
+    "altura": 10
+}

@@ -1,0 +1,18 @@
+{
+    "id": 832,
+    "nombre_en": "mystical-power",
+    "nombre_es": null,
+    "tipo": "psychic",
+    "categoria": "special",
+    "potencia": 70,
+    "precision": 90,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "uxie",
+        "mesprit",
+        "azelf"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "id": 801,
+    "nombre_en": "shell-side-arm",
+    "nombre_es": "Moluscañón",
+    "tipo": "poison",
+    "categoria": "special",
+    "potencia": 90,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "slowbro-galar"
+    ]
+}

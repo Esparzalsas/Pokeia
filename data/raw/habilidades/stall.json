@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "sableye",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Rezagado",
+    "descripcion": "El Pokémon se mueve tras todos los demás.",
+    "generacion_introduccion": "generation-iv"
+}

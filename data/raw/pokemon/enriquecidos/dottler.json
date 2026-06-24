@@ -1,0 +1,67 @@
+{
+    "id": 825,
+    "nombre": "dottler",
+    "tipos": [
+        "bug",
+        "psychic"
+    ],
+    "stats_base": {
+        "hp": 50,
+        "attack": 35,
+        "defense": 80,
+        "special-attack": 50,
+        "special-defense": 90,
+        "speed": 30
+    },
+    "habilidades": {
+        "normales": [
+            "swarm",
+            "compound-eyes"
+        ],
+        "oculta": "telepathy"
+    },
+    "movimientos": [
+        "solar-beam",
+        "confusion",
+        "psychic",
+        "light-screen",
+        "reflect",
+        "leech-life",
+        "rest",
+        "substitute",
+        "snore",
+        "protect",
+        "endure",
+        "attract",
+        "sleep-talk",
+        "safeguard",
+        "shadow-ball",
+        "future-sight",
+        "facade",
+        "helping-hand",
+        "trick",
+        "skill-swap",
+        "imprison",
+        "iron-defense",
+        "calm-mind",
+        "payback",
+        "power-swap",
+        "guard-swap",
+        "bug-buzz",
+        "energy-ball",
+        "zen-headbutt",
+        "trick-room",
+        "wonder-room",
+        "psyshock",
+        "magic-room",
+        "round",
+        "stored-power",
+        "ally-switch",
+        "struggle-bug",
+        "psychic-terrain",
+        "body-press",
+        "expanding-force"
+    ],
+    "peso": 195,
+    "altura": 4
+}

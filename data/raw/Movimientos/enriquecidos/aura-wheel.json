@@ -1,0 +1,17 @@
+{
+    "id": 783,
+    "nombre_en": "aura-wheel",
+    "nombre_es": "Rueda Aural",
+    "tipo": "electric",
+    "categoria": "physical",
+    "potencia": 110,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "morpeko-full-belly",
+        "morpeko-hangry"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "id": 664,
+    "nombre_en": "sparkling-aria",
+    "nombre_es": "Aria Burbuja",
+    "tipo": "water",
+    "categoria": "special",
+    "potencia": 90,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "lapras",
+        "primarina"
+    ]
+}

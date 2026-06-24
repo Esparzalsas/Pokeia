@@ -1,0 +1,58 @@
+{
+    "id": 953,
+    "nombre": "rellor",
+    "tipos": [
+        "bug"
+    ],
+    "stats_base": {
+        "hp": 41,
+        "attack": 50,
+        "defense": 60,
+        "special-attack": 31,
+        "special-defense": 58,
+        "speed": 30
+    },
+    "habilidades": {
+        "normales": [
+            "compound-eyes"
+        ],
+        "oculta": "shed-skin"
+    },
+    "movimientos": [
+        "sand-attack",
+        "tackle",
+        "take-down",
+        "dig",
+        "recover",
+        "defense-curl",
+        "leech-life",
+        "rest",
+        "substitute",
+        "thief",
+        "protect",
+        "sludge-bomb",
+        "mud-slap",
+        "endure",
+        "rollout",
+        "sleep-talk",
+        "memento",
+        "facade",
+        "weather-ball",
+        "rock-tomb",
+        "cosmic-power",
+        "iron-defense",
+        "mud-shot",
+        "fling",
+        "x-scissor",
+        "bug-buzz",
+        "gunk-shot",
+        "bug-bite",
+        "struggle-bug",
+        "lunge",
+        "skitter-smack",
+        "tera-blast",
+        "pounce"
+    ],
+    "peso": 10,
+    "altura": 2
+}

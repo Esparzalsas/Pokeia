@@ -1,0 +1,79 @@
+{
+    "pokemon": [
+        {
+            "nombre": "abra",
+            "oculta": false
+        },
+        {
+            "nombre": "alakazam",
+            "oculta": false
+        },
+        {
+            "nombre": "beheeyem",
+            "oculta": false
+        },
+        {
+            "nombre": "elgyem",
+            "oculta": false
+        },
+        {
+            "nombre": "espeon",
+            "oculta": false
+        },
+        {
+            "nombre": "gardevoir",
+            "oculta": false
+        },
+        {
+            "nombre": "indeedee-female",
+            "oculta": false
+        },
+        {
+            "nombre": "indeedee-male",
+            "oculta": false
+        },
+        {
+            "nombre": "kadabra",
+            "oculta": false
+        },
+        {
+            "nombre": "kirlia",
+            "oculta": false
+        },
+        {
+            "nombre": "mew",
+            "oculta": false
+        },
+        {
+            "nombre": "munna",
+            "oculta": false
+        },
+        {
+            "nombre": "musharna",
+            "oculta": false
+        },
+        {
+            "nombre": "natu",
+            "oculta": false
+        },
+        {
+            "nombre": "rabsca",
+            "oculta": false
+        },
+        {
+            "nombre": "ralts",
+            "oculta": false
+        },
+        {
+            "nombre": "umbreon",
+            "oculta": false
+        },
+        {
+            "nombre": "xatu",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Sincronía",
+    "descripcion": "Contagia envenenamiento, parálisis o quemaduras.",
+    "generacion_introduccion": "generation-iii"
+}

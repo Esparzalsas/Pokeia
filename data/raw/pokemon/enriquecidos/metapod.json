@@ -1,0 +1,30 @@
+{
+    "id": 11,
+    "nombre": "metapod",
+    "tipos": [
+        "bug"
+    ],
+    "stats_base": {
+        "hp": 50,
+        "attack": 20,
+        "defense": 55,
+        "special-attack": 25,
+        "special-defense": 25,
+        "speed": 30
+    },
+    "habilidades": {
+        "normales": [
+            "shed-skin"
+        ],
+        "oculta": null
+    },
+    "movimientos": [
+        "string-shot",
+        "harden",
+        "iron-defense",
+        "bug-bite",
+        "electroweb"
+    ],
+    "peso": 99,
+    "altura": 7
+}

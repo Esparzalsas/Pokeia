@@ -1,0 +1,29 @@
+{
+    "id": 327,
+    "nombre_en": "sky-uppercut",
+    "nombre_es": "Gancho Alto",
+    "tipo": "fighting",
+    "categoria": "physical",
+    "potencia": 85,
+    "precision": 90,
+    "pp": 15,
+    "prioridad": 0,
+    "generacion": "generation-iii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "hitmonchan",
+        "gligar",
+        "combusken",
+        "blaziken",
+        "breloom",
+        "buneary",
+        "riolu",
+        "gliscor",
+        "pancham",
+        "pangoro",
+        "hakamo-o",
+        "kommo-o",
+        "blaziken-mega",
+        "kommo-o-totem"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "id": 704,
+    "nombre_en": "shell-trap",
+    "nombre_es": "Coraza Trampa",
+    "tipo": "fire",
+    "categoria": "special",
+    "potencia": 150,
+    "precision": 100,
+    "pp": 5,
+    "prioridad": -3,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "turtonator"
+    ]
+}

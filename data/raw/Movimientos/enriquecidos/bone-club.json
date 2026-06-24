@@ -1,0 +1,19 @@
+{
+    "id": 125,
+    "nombre_en": "bone-club",
+    "nombre_es": "Hueso Palo",
+    "tipo": "ground",
+    "categoria": "physical",
+    "potencia": 65,
+    "precision": 85,
+    "pp": 20,
+    "prioridad": 0,
+    "generacion": "generation-i",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "cubone",
+        "marowak",
+        "marowak-alola",
+        "marowak-totem"
+    ]
+}

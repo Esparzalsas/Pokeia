@@ -1,0 +1,33 @@
+{
+    "id": 412,
+    "nombre": "burmy",
+    "tipos": [
+        "bug"
+    ],
+    "stats_base": {
+        "hp": 40,
+        "attack": 29,
+        "defense": 45,
+        "special-attack": 29,
+        "special-defense": 45,
+        "speed": 36
+    },
+    "habilidades": {
+        "normales": [
+            "shed-skin"
+        ],
+        "oculta": "overcoat"
+    },
+    "movimientos": [
+        "tackle",
+        "string-shot",
+        "snore",
+        "protect",
+        "hidden-power",
+        "bug-bite",
+        "struggle-bug",
+        "electroweb"
+    ],
+    "peso": 34,
+    "altura": 2
+}

@@ -1,0 +1,28 @@
+{
+    "id": 233,
+    "nombre_en": "vital-throw",
+    "nombre_es": "Tiro Vital",
+    "tipo": "fighting",
+    "categoria": "physical",
+    "potencia": 70,
+    "precision": null,
+    "pp": 10,
+    "prioridad": -1,
+    "generacion": "generation-ii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "machop",
+        "machoke",
+        "machamp",
+        "pinsir",
+        "makuhita",
+        "hariyama",
+        "throh",
+        "mienfoo",
+        "pancham",
+        "pangoro",
+        "passimian",
+        "buzzwole",
+        "pinsir-mega"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "id": 647,
+    "nombre_en": "gigavolt-havoc--special",
+    "nombre_es": "Gigavoltio Destructor",
+    "tipo": "electric",
+    "categoria": "special",
+    "potencia": null,
+    "precision": null,
+    "pp": 1,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

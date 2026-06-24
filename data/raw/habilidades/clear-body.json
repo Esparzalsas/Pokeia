@@ -1,0 +1,83 @@
+{
+    "pokemon": [
+        {
+            "nombre": "beldum",
+            "oculta": false
+        },
+        {
+            "nombre": "carbink",
+            "oculta": false
+        },
+        {
+            "nombre": "diancie",
+            "oculta": false
+        },
+        {
+            "nombre": "dragapult",
+            "oculta": false
+        },
+        {
+            "nombre": "drakloak",
+            "oculta": false
+        },
+        {
+            "nombre": "dreepy",
+            "oculta": false
+        },
+        {
+            "nombre": "garganacl",
+            "oculta": true
+        },
+        {
+            "nombre": "klang",
+            "oculta": true
+        },
+        {
+            "nombre": "klink",
+            "oculta": true
+        },
+        {
+            "nombre": "klinklang",
+            "oculta": true
+        },
+        {
+            "nombre": "metagross",
+            "oculta": false
+        },
+        {
+            "nombre": "metang",
+            "oculta": false
+        },
+        {
+            "nombre": "nacli",
+            "oculta": true
+        },
+        {
+            "nombre": "naclstack",
+            "oculta": true
+        },
+        {
+            "nombre": "regice",
+            "oculta": false
+        },
+        {
+            "nombre": "regirock",
+            "oculta": false
+        },
+        {
+            "nombre": "registeel",
+            "oculta": false
+        },
+        {
+            "nombre": "tentacool",
+            "oculta": false
+        },
+        {
+            "nombre": "tentacruel",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Cuerpo Puro",
+    "descripcion": "Evita que bajen las características.",
+    "generacion_introduccion": "generation-iii"
+}

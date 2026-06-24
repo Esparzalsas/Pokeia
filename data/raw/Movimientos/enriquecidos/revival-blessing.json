@@ -1,0 +1,17 @@
+{
+    "id": 863,
+    "nombre_en": "revival-blessing",
+    "nombre_es": null,
+    "tipo": "normal",
+    "categoria": "status",
+    "potencia": 0,
+    "precision": null,
+    "pp": 1,
+    "prioridad": 0,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "pawmot",
+        "rabsca"
+    ]
+}

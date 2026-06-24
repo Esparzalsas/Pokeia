@@ -1,0 +1,64 @@
+{
+    "id": 850,
+    "nombre": "sizzlipede",
+    "tipos": [
+        "fire",
+        "bug"
+    ],
+    "stats_base": {
+        "hp": 50,
+        "attack": 65,
+        "defense": 45,
+        "special-attack": 50,
+        "special-defense": 50,
+        "speed": 45
+    },
+    "habilidades": {
+        "normales": [
+            "flash-fire",
+            "white-smoke"
+        ],
+        "oculta": "flame-body"
+    },
+    "movimientos": [
+        "slam",
+        "wrap",
+        "bite",
+        "ember",
+        "fire-spin",
+        "smokescreen",
+        "defense-curl",
+        "leech-life",
+        "rest",
+        "substitute",
+        "flame-wheel",
+        "snore",
+        "protect",
+        "endure",
+        "rollout",
+        "attract",
+        "sleep-talk",
+        "sunny-day",
+        "crunch",
+        "heat-wave",
+        "facade",
+        "knock-off",
+        "bug-buzz",
+        "power-whip",
+        "bug-bite",
+        "venoshock",
+        "coil",
+        "round",
+        "scald",
+        "struggle-bug",
+        "heat-crash",
+        "lunge",
+        "fire-lash",
+        "burn-up",
+        "brutal-swing",
+        "skitter-smack",
+        "scorching-sands"
+    ],
+    "peso": 10,
+    "altura": 7
+}

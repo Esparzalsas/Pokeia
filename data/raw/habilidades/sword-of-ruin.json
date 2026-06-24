@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "chien-pao",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Espada Debacle",
+    "descripcion": null,
+    "generacion_introduccion": "generation-ix"
+}

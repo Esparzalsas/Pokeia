@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "silvally",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Sistema Alfa",
+    "descripcion": "Cambia su tipo según el disco que lleve instalado.",
+    "generacion_introduccion": "generation-vii"
+}

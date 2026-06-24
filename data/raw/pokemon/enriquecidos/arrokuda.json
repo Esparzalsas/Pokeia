@@ -1,0 +1,71 @@
+{
+    "id": 846,
+    "nombre": "arrokuda",
+    "tipos": [
+        "water"
+    ],
+    "stats_base": {
+        "hp": 41,
+        "attack": 63,
+        "defense": 40,
+        "special-attack": 40,
+        "special-defense": 30,
+        "speed": 66
+    },
+    "habilidades": {
+        "normales": [
+            "swift-swim"
+        ],
+        "oculta": "propeller-tail"
+    },
+    "movimientos": [
+        "fury-attack",
+        "take-down",
+        "thrash",
+        "double-edge",
+        "bite",
+        "hydro-pump",
+        "surf",
+        "peck",
+        "agility",
+        "focus-energy",
+        "waterfall",
+        "swift",
+        "rest",
+        "slash",
+        "substitute",
+        "snore",
+        "protect",
+        "endure",
+        "attract",
+        "sleep-talk",
+        "rain-dance",
+        "crunch",
+        "whirlpool",
+        "facade",
+        "brick-break",
+        "dive",
+        "bounce",
+        "water-pulse",
+        "acupressure",
+        "close-combat",
+        "assurance",
+        "poison-jab",
+        "night-slash",
+        "ice-fang",
+        "aqua-jet",
+        "round",
+        "scald",
+        "drill-run",
+        "laser-focus",
+        "throat-chop",
+        "psychic-fangs",
+        "liquidation",
+        "scale-shot",
+        "flip-turn",
+        "tera-blast",
+        "chilling-water"
+    ],
+    "peso": 10,
+    "altura": 5
+}

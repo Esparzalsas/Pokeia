@@ -1,0 +1,28 @@
+{
+    "id": 660,
+    "nombre_en": "first-impression",
+    "nombre_es": "Escaramuza",
+    "tipo": "bug",
+    "categoria": "physical",
+    "potencia": 90,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 2,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "farfetchd",
+        "trapinch",
+        "vibrava",
+        "flygon",
+        "axew",
+        "durant",
+        "golisopod",
+        "sirfetchd",
+        "falinks",
+        "tarountula",
+        "nymble",
+        "lokix",
+        "slither-wing"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "id": 376,
+    "nombre_en": "trump-card",
+    "nombre_es": "As Oculto",
+    "tipo": "normal",
+    "categoria": "special",
+    "potencia": null,
+    "precision": null,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-iv",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "farfetchd",
+        "kangaskhan",
+        "eevee",
+        "slowking",
+        "dunsparce",
+        "minun",
+        "corphish",
+        "shellos",
+        "oshawott",
+        "magearna",
+        "kangaskhan-mega",
+        "magearna-original"
+    ]
+}

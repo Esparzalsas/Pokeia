@@ -1,0 +1,15 @@
+{
+    "pokemon": [
+        {
+            "nombre": "greninja-ash",
+            "oculta": false
+        },
+        {
+            "nombre": "greninja-battle-bond",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Fuerte Afecto",
+    "descripcion": "Al derrotar a un rival, los vínculos con su Entrenador se refuerzan y se convierte en Greninja Ash. Su Shuriken de Agua también se ve potenciado.",
+    "generacion_introduccion": "generation-vii"
+}

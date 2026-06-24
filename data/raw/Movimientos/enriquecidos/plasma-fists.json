@@ -1,0 +1,16 @@
+{
+    "id": 721,
+    "nombre_en": "plasma-fists",
+    "nombre_es": "Puños Plasma",
+    "tipo": "electric",
+    "categoria": "physical",
+    "potencia": 100,
+    "precision": 100,
+    "pp": 15,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "zeraora"
+    ]
+}

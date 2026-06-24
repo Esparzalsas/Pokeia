@@ -1,0 +1,16 @@
+{
+    "id": 891,
+    "nombre_en": "bitter-blade",
+    "nombre_es": null,
+    "tipo": "fire",
+    "categoria": "physical",
+    "potencia": 90,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "ceruledge"
+    ]
+}

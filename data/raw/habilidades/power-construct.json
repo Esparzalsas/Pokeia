@@ -1,0 +1,19 @@
+{
+    "pokemon": [
+        {
+            "nombre": "zygarde-10-power-construct",
+            "oculta": false
+        },
+        {
+            "nombre": "zygarde-50-power-construct",
+            "oculta": false
+        },
+        {
+            "nombre": "zygarde-complete",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Agrupamiento",
+    "descripcion": "Cuando sus PS se ven reducidos a la mitad, las células se reagrupan y adopta su Forma Completa.",
+    "generacion_introduccion": "generation-vii"
+}

@@ -1,0 +1,16 @@
+{
+    "id": 775,
+    "nombre_en": "clangorous-soul",
+    "nombre_es": "Estruendo Escama",
+    "tipo": "dragon",
+    "categoria": "status",
+    "potencia": null,
+    "precision": 100,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "kommo-o"
+    ]
+}

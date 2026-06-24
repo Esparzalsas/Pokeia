@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "arceus",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Multitipo",
+    "descripcion": "Cambia el tipo al de la tabla que lleve.",
+    "generacion_introduccion": "generation-iv"
+}

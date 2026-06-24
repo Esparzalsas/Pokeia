@@ -1,0 +1,19 @@
+{
+    "pokemon": [
+        {
+            "nombre": "necrozma-dawn",
+            "oculta": false
+        },
+        {
+            "nombre": "necrozma-dusk",
+            "oculta": false
+        },
+        {
+            "nombre": "necrozma",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Armadura Prisma",
+    "descripcion": "Mitiga el daño que le infligen los movimientos supereficaces.",
+    "generacion_introduccion": "generation-vii"
+}

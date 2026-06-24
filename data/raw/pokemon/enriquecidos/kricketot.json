@@ -1,0 +1,40 @@
+{
+    "id": 401,
+    "nombre": "kricketot",
+    "tipos": [
+        "bug"
+    ],
+    "stats_base": {
+        "hp": 37,
+        "attack": 25,
+        "defense": 41,
+        "special-attack": 25,
+        "special-defense": 41,
+        "speed": 25
+    },
+    "habilidades": {
+        "normales": [
+            "shed-skin"
+        ],
+        "oculta": "run-away"
+    },
+    "movimientos": [
+        "pound",
+        "tackle",
+        "growl",
+        "absorb",
+        "string-shot",
+        "bide",
+        "snore",
+        "mud-slap",
+        "uproar",
+        "endeavor",
+        "bug-bite",
+        "struggle-bug",
+        "lunge",
+        "skitter-smack",
+        "tera-blast"
+    ],
+    "peso": 22,
+    "altura": 3
+}

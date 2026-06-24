@@ -1,0 +1,16 @@
+{
+    "id": 844,
+    "nombre_en": "infernal-parade",
+    "nombre_es": null,
+    "tipo": "ghost",
+    "categoria": "special",
+    "potencia": 60,
+    "precision": 100,
+    "pp": 15,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "typhlosion-hisui"
+    ]
+}

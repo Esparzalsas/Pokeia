@@ -1,0 +1,14 @@
+{
+    "id": 700,
+    "nombre_en": "stoked-sparksurfer",
+    "nombre_es": "Surfeo Galvánico",
+    "tipo": "electric",
+    "categoria": "special",
+    "potencia": 175,
+    "precision": null,
+    "pp": 1,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

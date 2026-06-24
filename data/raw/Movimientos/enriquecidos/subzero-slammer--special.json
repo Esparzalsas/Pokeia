@@ -1,0 +1,14 @@
+{
+    "id": 651,
+    "nombre_en": "subzero-slammer--special",
+    "nombre_es": "Crioaliento Despiadado",
+    "tipo": "ice",
+    "categoria": "special",
+    "potencia": null,
+    "precision": null,
+    "pp": 1,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

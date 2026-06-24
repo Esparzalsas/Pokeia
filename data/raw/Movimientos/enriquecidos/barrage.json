@@ -1,0 +1,18 @@
+{
+    "id": 140,
+    "nombre_en": "barrage",
+    "nombre_es": "Bombardeo",
+    "tipo": "normal",
+    "categoria": "physical",
+    "potencia": 15,
+    "precision": 85,
+    "pp": 20,
+    "prioridad": 0,
+    "generacion": "generation-i",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "exeggcute",
+        "exeggutor",
+        "exeggutor-alola"
+    ]
+}

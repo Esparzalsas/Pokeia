@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "regidrago",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Mandíbula Dragón",
+    "descripcion": "Potencia los movimientos de tipo Dragón.",
+    "generacion_introduccion": "generation-viii"
+}

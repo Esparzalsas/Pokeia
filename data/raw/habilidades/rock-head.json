@@ -1,0 +1,103 @@
+{
+    "pokemon": [
+        {
+            "nombre": "aerodactyl",
+            "oculta": false
+        },
+        {
+            "nombre": "aggron",
+            "oculta": false
+        },
+        {
+            "nombre": "arcanine-hisui",
+            "oculta": true
+        },
+        {
+            "nombre": "aron",
+            "oculta": false
+        },
+        {
+            "nombre": "bagon",
+            "oculta": false
+        },
+        {
+            "nombre": "basculin-blue-striped",
+            "oculta": false
+        },
+        {
+            "nombre": "bonsly",
+            "oculta": false
+        },
+        {
+            "nombre": "cubone",
+            "oculta": false
+        },
+        {
+            "nombre": "geodude",
+            "oculta": false
+        },
+        {
+            "nombre": "golem",
+            "oculta": false
+        },
+        {
+            "nombre": "graveler",
+            "oculta": false
+        },
+        {
+            "nombre": "growlithe-hisui",
+            "oculta": true
+        },
+        {
+            "nombre": "lairon",
+            "oculta": false
+        },
+        {
+            "nombre": "marowak-alola",
+            "oculta": true
+        },
+        {
+            "nombre": "marowak-totem",
+            "oculta": true
+        },
+        {
+            "nombre": "marowak",
+            "oculta": false
+        },
+        {
+            "nombre": "onix",
+            "oculta": false
+        },
+        {
+            "nombre": "relicanth",
+            "oculta": false
+        },
+        {
+            "nombre": "rhydon",
+            "oculta": false
+        },
+        {
+            "nombre": "rhyhorn",
+            "oculta": false
+        },
+        {
+            "nombre": "shelgon",
+            "oculta": false
+        },
+        {
+            "nombre": "steelix",
+            "oculta": false
+        },
+        {
+            "nombre": "sudowoodo",
+            "oculta": false
+        },
+        {
+            "nombre": "tyrantrum",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Cabeza Roca",
+    "descripcion": "Impide que el Pokémon se dañe con sus movimientos.",
+    "generacion_introduccion": "generation-iii"
+}

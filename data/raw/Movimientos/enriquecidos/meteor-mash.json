@@ -1,0 +1,24 @@
+{
+    "id": 309,
+    "nombre_en": "meteor-mash",
+    "nombre_es": "Puño Meteoro",
+    "tipo": "steel",
+    "categoria": "physical",
+    "potencia": 90,
+    "precision": 90,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-iii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "clefairy",
+        "clefable",
+        "metang",
+        "metagross",
+        "jirachi",
+        "riolu",
+        "lucario",
+        "metagross-mega",
+        "pikachu-rock-star"
+    ]
+}

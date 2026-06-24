@@ -1,0 +1,16 @@
+{
+    "id": 822,
+    "nombre_en": "fiery-wrath",
+    "nombre_es": "Furia Candente",
+    "tipo": "dark",
+    "categoria": "special",
+    "potencia": 90,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "moltres-galar"
+    ]
+}

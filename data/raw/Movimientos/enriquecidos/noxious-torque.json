@@ -1,0 +1,14 @@
+{
+    "id": 898,
+    "nombre_en": "noxious-torque",
+    "nombre_es": null,
+    "tipo": "poison",
+    "categoria": "physical",
+    "potencia": 100,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

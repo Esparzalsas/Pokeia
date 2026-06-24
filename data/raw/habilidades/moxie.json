@@ -1,0 +1,71 @@
+{
+    "pokemon": [
+        {
+            "nombre": "gyarados",
+            "oculta": true
+        },
+        {
+            "nombre": "heracross",
+            "oculta": true
+        },
+        {
+            "nombre": "honchkrow",
+            "oculta": true
+        },
+        {
+            "nombre": "krokorok",
+            "oculta": false
+        },
+        {
+            "nombre": "krookodile",
+            "oculta": false
+        },
+        {
+            "nombre": "litleo",
+            "oculta": true
+        },
+        {
+            "nombre": "mightyena",
+            "oculta": true
+        },
+        {
+            "nombre": "pinsir",
+            "oculta": true
+        },
+        {
+            "nombre": "pyroar",
+            "oculta": true
+        },
+        {
+            "nombre": "quaquaval",
+            "oculta": true
+        },
+        {
+            "nombre": "quaxly",
+            "oculta": true
+        },
+        {
+            "nombre": "quaxwell",
+            "oculta": true
+        },
+        {
+            "nombre": "salamence",
+            "oculta": true
+        },
+        {
+            "nombre": "sandile",
+            "oculta": false
+        },
+        {
+            "nombre": "scrafty",
+            "oculta": false
+        },
+        {
+            "nombre": "scraggy",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Autoestima",
+    "descripcion": "Potencia el Ataque al debilitar a un objetivo.",
+    "generacion_introduccion": "generation-v"
+}

@@ -1,0 +1,17 @@
+{
+    "id": 144,
+    "nombre_en": "transform",
+    "nombre_es": "Transformación",
+    "tipo": "normal",
+    "categoria": "status",
+    "potencia": null,
+    "precision": null,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-i",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "ditto",
+        "mew"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 887,
+    "nombre_en": "hyper-drill",
+    "nombre_es": null,
+    "tipo": "normal",
+    "categoria": "physical",
+    "potencia": 100,
+    "precision": 100,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "dunsparce",
+        "dudunsparce-two-segment",
+        "dudunsparce-three-segment"
+    ]
+}

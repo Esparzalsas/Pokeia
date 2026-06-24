@@ -1,0 +1,63 @@
+{
+    "pokemon": [
+        {
+            "nombre": "blaziken-mega",
+            "oculta": false
+        },
+        {
+            "nombre": "blaziken",
+            "oculta": true
+        },
+        {
+            "nombre": "carvanha",
+            "oculta": true
+        },
+        {
+            "nombre": "combusken",
+            "oculta": true
+        },
+        {
+            "nombre": "espathra",
+            "oculta": true
+        },
+        {
+            "nombre": "flittle",
+            "oculta": true
+        },
+        {
+            "nombre": "ninjask",
+            "oculta": false
+        },
+        {
+            "nombre": "scolipede",
+            "oculta": true
+        },
+        {
+            "nombre": "sharpedo",
+            "oculta": true
+        },
+        {
+            "nombre": "torchic",
+            "oculta": true
+        },
+        {
+            "nombre": "venipede",
+            "oculta": true
+        },
+        {
+            "nombre": "whirlipede",
+            "oculta": true
+        },
+        {
+            "nombre": "yanma",
+            "oculta": false
+        },
+        {
+            "nombre": "yanmega",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Impulso",
+    "descripcion": "Aumenta la Velocidad gradualmente.",
+    "generacion_introduccion": "generation-iii"
+}

@@ -1,0 +1,28 @@
+{
+    "id": 274,
+    "nombre_en": "assist",
+    "nombre_es": "Ayuda",
+    "tipo": "normal",
+    "categoria": "status",
+    "potencia": null,
+    "precision": null,
+    "pp": 20,
+    "prioridad": 0,
+    "generacion": "generation-iii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "meowth",
+        "drowzee",
+        "sentret",
+        "sneasel",
+        "skitty",
+        "spinda",
+        "chimchar",
+        "glameow",
+        "purugly",
+        "purrloin",
+        "liepard",
+        "espurr",
+        "meowth-alola"
+    ]
+}

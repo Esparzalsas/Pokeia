@@ -1,0 +1,260 @@
+{
+    "bug": {
+        "doble": [
+            "grass",
+            "psychic",
+            "dark"
+        ],
+        "mitad": [
+            "fighting",
+            "flying",
+            "poison",
+            "ghost",
+            "steel",
+            "fire",
+            "fairy"
+        ],
+        "inmune": []
+    },
+    "dark": {
+        "doble": [
+            "ghost",
+            "psychic"
+        ],
+        "mitad": [
+            "fighting",
+            "dark",
+            "fairy"
+        ],
+        "inmune": []
+    },
+    "dragon": {
+        "doble": [
+            "dragon"
+        ],
+        "mitad": [
+            "steel"
+        ],
+        "inmune": [
+            "fairy"
+        ]
+    },
+    "electric": {
+        "doble": [
+            "flying",
+            "water"
+        ],
+        "mitad": [
+            "grass",
+            "electric",
+            "dragon"
+        ],
+        "inmune": [
+            "ground"
+        ]
+    },
+    "fairy": {
+        "doble": [
+            "fighting",
+            "dragon",
+            "dark"
+        ],
+        "mitad": [
+            "poison",
+            "steel",
+            "fire"
+        ],
+        "inmune": []
+    },
+    "fighting": {
+        "doble": [
+            "normal",
+            "rock",
+            "steel",
+            "ice",
+            "dark"
+        ],
+        "mitad": [
+            "flying",
+            "poison",
+            "bug",
+            "psychic",
+            "fairy"
+        ],
+        "inmune": [
+            "ghost"
+        ]
+    },
+    "fire": {
+        "doble": [
+            "bug",
+            "steel",
+            "grass",
+            "ice"
+        ],
+        "mitad": [
+            "rock",
+            "fire",
+            "water",
+            "dragon"
+        ],
+        "inmune": []
+    },
+    "flying": {
+        "doble": [
+            "fighting",
+            "bug",
+            "grass"
+        ],
+        "mitad": [
+            "rock",
+            "steel",
+            "electric"
+        ],
+        "inmune": []
+    },
+    "ghost": {
+        "doble": [
+            "ghost",
+            "psychic"
+        ],
+        "mitad": [
+            "dark"
+        ],
+        "inmune": [
+            "normal"
+        ]
+    },
+    "grass": {
+        "doble": [
+            "ground",
+            "rock",
+            "water"
+        ],
+        "mitad": [
+            "flying",
+            "poison",
+            "bug",
+            "steel",
+            "fire",
+            "grass",
+            "dragon"
+        ],
+        "inmune": []
+    },
+    "ground": {
+        "doble": [
+            "poison",
+            "rock",
+            "steel",
+            "fire",
+            "electric"
+        ],
+        "mitad": [
+            "bug",
+            "grass"
+        ],
+        "inmune": [
+            "flying"
+        ]
+    },
+    "ice": {
+        "doble": [
+            "flying",
+            "ground",
+            "grass",
+            "dragon"
+        ],
+        "mitad": [
+            "steel",
+            "fire",
+            "water",
+            "ice"
+        ],
+        "inmune": []
+    },
+    "normal": {
+        "doble": [],
+        "mitad": [
+            "rock",
+            "steel"
+        ],
+        "inmune": [
+            "ghost"
+        ]
+    },
+    "poison": {
+        "doble": [
+            "grass",
+            "fairy"
+        ],
+        "mitad": [
+            "poison",
+            "ground",
+            "rock",
+            "ghost"
+        ],
+        "inmune": [
+            "steel"
+        ]
+    },
+    "psychic": {
+        "doble": [
+            "fighting",
+            "poison"
+        ],
+        "mitad": [
+            "steel",
+            "psychic"
+        ],
+        "inmune": [
+            "dark"
+        ]
+    },
+    "rock": {
+        "doble": [
+            "flying",
+            "bug",
+            "fire",
+            "ice"
+        ],
+        "mitad": [
+            "fighting",
+            "ground",
+            "steel"
+        ],
+        "inmune": []
+    },
+    "steel": {
+        "doble": [
+            "rock",
+            "ice",
+            "fairy"
+        ],
+        "mitad": [
+            "steel",
+            "fire",
+            "water",
+            "electric"
+        ],
+        "inmune": []
+    },
+    "stellar": {
+        "doble": [],
+        "mitad": [],
+        "inmune": []
+    },
+    "water": {
+        "doble": [
+            "ground",
+            "rock",
+            "fire"
+        ],
+        "mitad": [
+            "water",
+            "grass",
+            "dragon"
+        ],
+        "inmune": []
+    }
+}

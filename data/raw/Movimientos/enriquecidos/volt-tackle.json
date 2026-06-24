@@ -1,0 +1,24 @@
+{
+    "id": 344,
+    "nombre_en": "volt-tackle",
+    "nombre_es": "Placaje Eléc",
+    "tipo": "electric",
+    "categoria": "physical",
+    "potencia": 120,
+    "precision": 100,
+    "pp": 15,
+    "prioridad": 0,
+    "generacion": "generation-iii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "pikachu",
+        "pichu",
+        "pikachu-original-cap",
+        "pikachu-hoenn-cap",
+        "pikachu-sinnoh-cap",
+        "pikachu-unova-cap",
+        "pikachu-kalos-cap",
+        "pikachu-alola-cap",
+        "pikachu-partner-cap"
+    ]
+}

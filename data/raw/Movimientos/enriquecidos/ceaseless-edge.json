@@ -1,0 +1,16 @@
+{
+    "id": 845,
+    "nombre_en": "ceaseless-edge",
+    "nombre_es": null,
+    "tipo": "dark",
+    "categoria": "physical",
+    "potencia": 65,
+    "precision": 90,
+    "pp": 15,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "samurott-hisui"
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "id": 975,
+    "nombre": "cetitan",
+    "tipos": [
+        "ice"
+    ],
+    "stats_base": {
+        "hp": 170,
+        "attack": 113,
+        "defense": 65,
+        "special-attack": 45,
+        "special-defense": 55,
+        "speed": 73
+    },
+    "habilidades": {
+        "normales": [
+            "thick-fat",
+            "slush-rush"
+        ],
+        "oculta": "sheer-force"
+    },
+    "movimientos": [
+        "ice-punch",
+        "tackle",
+        "body-slam",
+        "take-down",
+        "double-edge",
+        "growl",
+        "ice-beam",
+        "blizzard",
+        "hyper-beam",
+        "earthquake",
+        "amnesia",
+        "rest",
+        "substitute",
+        "curse",
+        "flail",
+        "powder-snow",
+        "protect",
+        "icy-wind",
+        "endure",
+        "charm",
+        "sleep-talk",
+        "rain-dance",
+        "facade",
+        "helping-hand",
+        "knock-off",
+        "hyper-voice",
+        "icicle-spear",
+        "bounce",
+        "water-pulse",
+        "giga-impact",
+        "avalanche",
+        "ice-shard",
+        "ice-fang",
+        "heavy-slam",
+        "echoed-voice",
+        "bulldoze",
+        "play-rough",
+        "high-horsepower",
+        "stomping-tantrum",
+        "liquidation",
+        "body-press",
+        "tera-blast",
+        "ice-spinner",
+        "snowscape",
+        "chilling-water",
+        "hard-press"
+    ],
+    "peso": 7000,
+    "altura": 45
+}

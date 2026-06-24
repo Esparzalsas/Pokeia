@@ -1,0 +1,16 @@
+{
+    "id": 856,
+    "nombre_en": "order-up",
+    "nombre_es": null,
+    "tipo": "dragon",
+    "categoria": "physical",
+    "potencia": 80,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "dondozo"
+    ]
+}

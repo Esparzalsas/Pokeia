@@ -1,0 +1,19 @@
+{
+    "pokemon": [
+        {
+            "nombre": "altaria-mega",
+            "oculta": false
+        },
+        {
+            "nombre": "gardevoir-mega",
+            "oculta": false
+        },
+        {
+            "nombre": "sylveon",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Piel Feérica",
+    "descripcion": "Convierte movimientos de tipo Normal en tipo Hada.",
+    "generacion_introduccion": "generation-vi"
+}

@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "wo-chien",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Tablilla Debacle",
+    "descripcion": null,
+    "generacion_introduccion": "generation-ix"
+}

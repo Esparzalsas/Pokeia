@@ -1,0 +1,70 @@
+{
+    "id": 822,
+    "nombre": "corvisquire",
+    "tipos": [
+        "flying"
+    ],
+    "stats_base": {
+        "hp": 68,
+        "attack": 67,
+        "defense": 55,
+        "special-attack": 43,
+        "special-defense": 55,
+        "speed": 77
+    },
+    "habilidades": {
+        "normales": [
+            "keen-eye",
+            "unnerve"
+        ],
+        "oculta": "big-pecks"
+    },
+    "movimientos": [
+        "fly",
+        "fury-attack",
+        "take-down",
+        "leer",
+        "peck",
+        "drill-peck",
+        "agility",
+        "focus-energy",
+        "swift",
+        "rest",
+        "substitute",
+        "thief",
+        "snore",
+        "reversal",
+        "spite",
+        "protect",
+        "scary-face",
+        "endure",
+        "swagger",
+        "attract",
+        "sleep-talk",
+        "sunny-day",
+        "facade",
+        "taunt",
+        "revenge",
+        "fake-tears",
+        "air-cutter",
+        "aerial-ace",
+        "pluck",
+        "tailwind",
+        "u-turn",
+        "payback",
+        "assurance",
+        "air-slash",
+        "brave-bird",
+        "nasty-plot",
+        "hone-claws",
+        "round",
+        "retaliate",
+        "work-up",
+        "hurricane",
+        "power-trip",
+        "dual-wingbeat",
+        "tera-blast"
+    ],
+    "peso": 160,
+    "altura": 8
+}

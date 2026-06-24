@@ -1,0 +1,19 @@
+{
+    "pokemon": [
+        {
+            "nombre": "fezandipiti",
+            "oculta": false
+        },
+        {
+            "nombre": "munkidori",
+            "oculta": false
+        },
+        {
+            "nombre": "okidogi",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Cadena Tóxica",
+    "descripcion": null,
+    "generacion_introduccion": "generation-ix"
+}

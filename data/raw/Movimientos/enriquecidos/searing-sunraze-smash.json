@@ -1,0 +1,14 @@
+{
+    "id": 724,
+    "nombre_en": "searing-sunraze-smash",
+    "nombre_es": "Embestida Solar",
+    "tipo": "steel",
+    "categoria": "physical",
+    "potencia": 200,
+    "precision": null,
+    "pp": 1,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

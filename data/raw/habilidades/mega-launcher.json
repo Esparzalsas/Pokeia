@@ -1,0 +1,19 @@
+{
+    "pokemon": [
+        {
+            "nombre": "blastoise-mega",
+            "oculta": false
+        },
+        {
+            "nombre": "clauncher",
+            "oculta": false
+        },
+        {
+            "nombre": "clawitzer",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Megadisparador",
+    "descripcion": "Aumenta la potencia de algunos movimientos de pulsos y auras.",
+    "generacion_introduccion": "generation-vi"
+}

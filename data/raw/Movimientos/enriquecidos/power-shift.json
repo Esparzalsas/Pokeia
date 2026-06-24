@@ -1,0 +1,17 @@
+{
+    "id": 829,
+    "nombre_en": "power-shift",
+    "nombre_es": null,
+    "tipo": "normal",
+    "categoria": "status",
+    "potencia": 0,
+    "precision": null,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "braviary-hisui",
+        "avalugg-hisui"
+    ]
+}

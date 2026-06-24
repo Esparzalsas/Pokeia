@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "rayquaza-mega",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Ráfaga Delta",
+    "descripcion": "Altera el clima para anular las vulnerabilidades del tipo Volador.",
+    "generacion_introduccion": "generation-vi"
+}

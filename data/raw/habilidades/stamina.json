@@ -1,0 +1,19 @@
+{
+    "pokemon": [
+        {
+            "nombre": "archaludon",
+            "oculta": false
+        },
+        {
+            "nombre": "mudbray",
+            "oculta": false
+        },
+        {
+            "nombre": "mudsdale",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Firmeza",
+    "descripcion": "Aumenta la Defensa al recibir un ataque físico.",
+    "generacion_introduccion": "generation-vii"
+}

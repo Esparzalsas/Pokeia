@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "solgaleo",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Guardia Metálica",
+    "descripcion": "Evita que bajen sus características a causa de movimientos o habilidades de otros Pokémon.",
+    "generacion_introduccion": "generation-vii"
+}

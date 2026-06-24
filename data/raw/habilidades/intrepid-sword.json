@@ -1,0 +1,15 @@
+{
+    "pokemon": [
+        {
+            "nombre": "zacian-crowned",
+            "oculta": false
+        },
+        {
+            "nombre": "zacian",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Espada Indómita",
+    "descripcion": "Aumenta su Ataque al entrar en combate.",
+    "generacion_introduccion": "generation-viii"
+}

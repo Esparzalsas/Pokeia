@@ -1,0 +1,56 @@
+{
+    "id": 919,
+    "nombre": "nymble",
+    "tipos": [
+        "bug"
+    ],
+    "stats_base": {
+        "hp": 33,
+        "attack": 46,
+        "defense": 40,
+        "special-attack": 21,
+        "special-defense": 25,
+        "speed": 45
+    },
+    "habilidades": {
+        "normales": [
+            "swarm"
+        ],
+        "oculta": "tinted-lens"
+    },
+    "movimientos": [
+        "double-kick",
+        "tackle",
+        "take-down",
+        "leer",
+        "counter",
+        "agility",
+        "screech",
+        "leech-life",
+        "rest",
+        "substitute",
+        "thief",
+        "protect",
+        "endure",
+        "sleep-talk",
+        "rain-dance",
+        "sunny-day",
+        "facade",
+        "astonish",
+        "feint",
+        "u-turn",
+        "assurance",
+        "sucker-punch",
+        "x-scissor",
+        "bug-buzz",
+        "bug-bite",
+        "struggle-bug",
+        "first-impression",
+        "skitter-smack",
+        "tera-blast",
+        "pounce",
+        "trailblaze"
+    ],
+    "peso": 10,
+    "altura": 2
+}

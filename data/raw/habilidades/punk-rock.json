@@ -1,0 +1,23 @@
+{
+    "pokemon": [
+        {
+            "nombre": "toxtricity-amped-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "toxtricity-amped",
+            "oculta": false
+        },
+        {
+            "nombre": "toxtricity-low-key-gmax",
+            "oculta": false
+        },
+        {
+            "nombre": "toxtricity-low-key",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Punk Rock",
+    "descripcion": "Potencia los movimientos que usan sonido y reduce a la mitad el daño que le infligen dichos movimientos.",
+    "generacion_introduccion": "generation-viii"
+}

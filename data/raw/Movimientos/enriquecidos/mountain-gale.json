@@ -1,0 +1,16 @@
+{
+    "id": 836,
+    "nombre_en": "mountain-gale",
+    "nombre_es": null,
+    "tipo": "ice",
+    "categoria": "physical",
+    "potencia": 100,
+    "precision": 85,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "avalugg-hisui"
+    ]
+}

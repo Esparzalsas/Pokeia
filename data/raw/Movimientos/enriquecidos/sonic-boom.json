@@ -1,0 +1,30 @@
+{
+    "id": 49,
+    "nombre_en": "sonic-boom",
+    "nombre_es": "Bomba Sónica",
+    "tipo": "normal",
+    "categoria": "special",
+    "potencia": null,
+    "precision": 90,
+    "pp": 20,
+    "prioridad": 0,
+    "generacion": "generation-i",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "magnemite",
+        "magneton",
+        "voltorb",
+        "electrode",
+        "spinarak",
+        "yanma",
+        "vibrava",
+        "flygon",
+        "buizel",
+        "floatzel",
+        "magnezone",
+        "yanmega",
+        "munna",
+        "magearna",
+        "magearna-original"
+    ]
+}

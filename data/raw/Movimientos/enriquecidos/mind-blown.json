@@ -1,0 +1,16 @@
+{
+    "id": 720,
+    "nombre_en": "mind-blown",
+    "nombre_es": "Cabeza Sorpresa",
+    "tipo": "fire",
+    "categoria": "special",
+    "potencia": 150,
+    "precision": 100,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "blacephalon"
+    ]
+}

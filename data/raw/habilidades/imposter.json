@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "ditto",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Impostor",
+    "descripcion": "Se transforma en el Pokémon que tiene enfrente.",
+    "generacion_introduccion": "generation-v"
+}

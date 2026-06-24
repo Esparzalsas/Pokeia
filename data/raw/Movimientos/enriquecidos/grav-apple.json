@@ -1,0 +1,16 @@
+{
+    "id": 788,
+    "nombre_en": "grav-apple",
+    "nombre_es": "Fuerza G",
+    "tipo": "grass",
+    "categoria": "physical",
+    "potencia": 80,
+    "precision": 100,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "flapple"
+    ]
+}

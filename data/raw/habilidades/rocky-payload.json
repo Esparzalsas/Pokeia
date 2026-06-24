@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "bombirdier",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Transportarrocas",
+    "descripcion": null,
+    "generacion_introduccion": "generation-ix"
+}

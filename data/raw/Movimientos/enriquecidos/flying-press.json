@@ -1,0 +1,17 @@
+{
+    "id": 560,
+    "nombre_en": "flying-press",
+    "nombre_es": "Plancha Voladora",
+    "tipo": "fighting",
+    "categoria": "physical",
+    "potencia": 100,
+    "precision": 95,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-vi",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "hawlucha",
+        "pikachu-libre"
+    ]
+}

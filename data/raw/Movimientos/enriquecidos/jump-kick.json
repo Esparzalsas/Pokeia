@@ -1,0 +1,28 @@
+{
+    "id": 26,
+    "nombre_en": "jump-kick",
+    "nombre_es": "Patada Salto",
+    "tipo": "fighting",
+    "categoria": "physical",
+    "potencia": 100,
+    "precision": 95,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-i",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "doduo",
+        "dodrio",
+        "hitmonlee",
+        "stantler",
+        "buneary",
+        "lopunny",
+        "deerling",
+        "sawsbuck",
+        "mienfoo",
+        "mienshao",
+        "pheromosa",
+        "marshadow",
+        "lopunny-mega"
+    ]
+}

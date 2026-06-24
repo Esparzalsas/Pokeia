@@ -1,0 +1,91 @@
+{
+    "pokemon": [
+        {
+            "nombre": "azumarill",
+            "oculta": true
+        },
+        {
+            "nombre": "azurill",
+            "oculta": true
+        },
+        {
+            "nombre": "blitzle",
+            "oculta": true
+        },
+        {
+            "nombre": "bouffalant",
+            "oculta": false
+        },
+        {
+            "nombre": "deerling",
+            "oculta": false
+        },
+        {
+            "nombre": "drampa",
+            "oculta": false
+        },
+        {
+            "nombre": "farigiraf",
+            "oculta": true
+        },
+        {
+            "nombre": "girafarig",
+            "oculta": true
+        },
+        {
+            "nombre": "gogoat",
+            "oculta": false
+        },
+        {
+            "nombre": "goodra-hisui",
+            "oculta": false
+        },
+        {
+            "nombre": "goodra",
+            "oculta": false
+        },
+        {
+            "nombre": "goomy",
+            "oculta": false
+        },
+        {
+            "nombre": "marill",
+            "oculta": true
+        },
+        {
+            "nombre": "miltank",
+            "oculta": true
+        },
+        {
+            "nombre": "sawsbuck",
+            "oculta": false
+        },
+        {
+            "nombre": "skiddo",
+            "oculta": false
+        },
+        {
+            "nombre": "sliggoo-hisui",
+            "oculta": false
+        },
+        {
+            "nombre": "sliggoo",
+            "oculta": false
+        },
+        {
+            "nombre": "stantler",
+            "oculta": true
+        },
+        {
+            "nombre": "wyrdeer",
+            "oculta": true
+        },
+        {
+            "nombre": "zebstrika",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Herbívoro",
+    "descripcion": "Neutraliza los movimientos de tipo Planta y sube el Ataque.",
+    "generacion_introduccion": "generation-v"
+}

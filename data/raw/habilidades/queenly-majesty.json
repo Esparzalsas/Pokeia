@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "tsareena",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Regia Presencia",
+    "descripcion": "Intimida al rival y le impide usar movimientos con prioridad dirigidos al Pokémon.",
+    "generacion_introduccion": "generation-vii"
+}

@@ -1,0 +1,19 @@
+{
+    "id": 354,
+    "nombre_en": "psycho-boost",
+    "nombre_es": "Psicoataque",
+    "tipo": "psychic",
+    "categoria": "special",
+    "potencia": 140,
+    "precision": 90,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-iii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "deoxys-normal",
+        "deoxys-attack",
+        "deoxys-defense",
+        "deoxys-speed"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "id": 628,
+    "nombre_en": "acid-downpour--physical",
+    "nombre_es": "Diluvio Corrosivo",
+    "tipo": "poison",
+    "categoria": "physical",
+    "potencia": null,
+    "precision": null,
+    "pp": 1,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

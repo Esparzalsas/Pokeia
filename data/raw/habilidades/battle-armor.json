@@ -1,0 +1,51 @@
+{
+    "pokemon": [
+        {
+            "nombre": "anorith",
+            "oculta": false
+        },
+        {
+            "nombre": "armaldo",
+            "oculta": false
+        },
+        {
+            "nombre": "cubone",
+            "oculta": true
+        },
+        {
+            "nombre": "drapion",
+            "oculta": false
+        },
+        {
+            "nombre": "falinks",
+            "oculta": false
+        },
+        {
+            "nombre": "kabuto",
+            "oculta": false
+        },
+        {
+            "nombre": "kabutops",
+            "oculta": false
+        },
+        {
+            "nombre": "marowak",
+            "oculta": true
+        },
+        {
+            "nombre": "perrserker",
+            "oculta": false
+        },
+        {
+            "nombre": "skorupi",
+            "oculta": false
+        },
+        {
+            "nombre": "type-null",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Armadura Batalla",
+    "descripcion": "Bloquea golpes críticos.",
+    "generacion_introduccion": "generation-iii"
+}

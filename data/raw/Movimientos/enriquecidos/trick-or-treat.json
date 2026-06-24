@@ -1,0 +1,23 @@
+{
+    "id": 567,
+    "nombre_en": "trick-or-treat",
+    "nombre_es": "Halloween",
+    "tipo": "ghost",
+    "categoria": "status",
+    "potencia": null,
+    "precision": 100,
+    "pp": 20,
+    "prioridad": 0,
+    "generacion": "generation-vi",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "pumpkaboo-average",
+        "gourgeist-average",
+        "pumpkaboo-small",
+        "pumpkaboo-large",
+        "pumpkaboo-super",
+        "gourgeist-small",
+        "gourgeist-large",
+        "gourgeist-super"
+    ]
+}

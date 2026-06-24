@@ -1,0 +1,23 @@
+{
+    "id": 578,
+    "nombre_en": "crafty-shield",
+    "nombre_es": "Truco Defensa",
+    "tipo": "fairy",
+    "categoria": "status",
+    "potencia": null,
+    "precision": null,
+    "pp": 10,
+    "prioridad": 3,
+    "generacion": "generation-vi",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "chimecho",
+        "yamask",
+        "cofagrigus",
+        "klefki",
+        "magearna",
+        "runerigus",
+        "magearna-original",
+        "yamask-galar"
+    ]
+}

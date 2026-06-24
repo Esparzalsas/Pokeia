@@ -1,0 +1,17 @@
+{
+    "id": 831,
+    "nombre_en": "springtide-storm",
+    "nombre_es": null,
+    "tipo": "fairy",
+    "categoria": "special",
+    "potencia": 100,
+    "precision": 80,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-viii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "enamorus-incarnate",
+        "enamorus-therian"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "id": 665,
+    "nombre": "spewpa",
+    "tipos": [
+        "bug"
+    ],
+    "stats_base": {
+        "hp": 45,
+        "attack": 22,
+        "defense": 60,
+        "special-attack": 27,
+        "special-defense": 30,
+        "speed": 29
+    },
+    "habilidades": {
+        "normales": [
+            "shed-skin"
+        ],
+        "oculta": "friend-guard"
+    },
+    "movimientos": [
+        "harden",
+        "protect",
+        "iron-defense",
+        "bug-bite",
+        "struggle-bug",
+        "electroweb",
+        "tera-blast",
+        "pounce"
+    ],
+    "peso": 84,
+    "altura": 3
+}

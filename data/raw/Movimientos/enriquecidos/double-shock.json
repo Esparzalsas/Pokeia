@@ -1,0 +1,16 @@
+{
+    "id": 892,
+    "nombre_en": "double-shock",
+    "nombre_es": null,
+    "tipo": "electric",
+    "categoria": "physical",
+    "potencia": 120,
+    "precision": 100,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "pawmot"
+    ]
+}

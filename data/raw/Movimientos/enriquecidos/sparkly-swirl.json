@@ -1,0 +1,16 @@
+{
+    "id": 740,
+    "nombre_en": "sparkly-swirl",
+    "nombre_es": "Sylveotornado",
+    "tipo": "fairy",
+    "categoria": "special",
+    "potencia": 120,
+    "precision": 85,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-vii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "eevee-starter"
+    ]
+}

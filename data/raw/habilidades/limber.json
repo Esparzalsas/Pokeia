@@ -1,0 +1,63 @@
+{
+    "pokemon": [
+        {
+            "nombre": "buneary",
+            "oculta": true
+        },
+        {
+            "nombre": "clobbopus",
+            "oculta": false
+        },
+        {
+            "nombre": "ditto",
+            "oculta": false
+        },
+        {
+            "nombre": "glameow",
+            "oculta": false
+        },
+        {
+            "nombre": "grapploct",
+            "oculta": false
+        },
+        {
+            "nombre": "hawlucha",
+            "oculta": false
+        },
+        {
+            "nombre": "hitmonlee",
+            "oculta": false
+        },
+        {
+            "nombre": "liepard",
+            "oculta": false
+        },
+        {
+            "nombre": "lopunny",
+            "oculta": true
+        },
+        {
+            "nombre": "mareanie",
+            "oculta": false
+        },
+        {
+            "nombre": "persian",
+            "oculta": false
+        },
+        {
+            "nombre": "purrloin",
+            "oculta": false
+        },
+        {
+            "nombre": "stunfisk",
+            "oculta": false
+        },
+        {
+            "nombre": "toxapex",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Flexibilidad",
+    "descripcion": "Evita ser paralizado.",
+    "generacion_introduccion": "generation-iii"
+}

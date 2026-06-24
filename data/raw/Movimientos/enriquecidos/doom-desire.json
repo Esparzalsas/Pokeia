@@ -1,0 +1,16 @@
+{
+    "id": 353,
+    "nombre_en": "doom-desire",
+    "nombre_es": "Deseo Oculto",
+    "tipo": "steel",
+    "categoria": "special",
+    "potencia": 140,
+    "precision": 100,
+    "pp": 5,
+    "prioridad": 0,
+    "generacion": "generation-iii",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "jirachi"
+    ]
+}

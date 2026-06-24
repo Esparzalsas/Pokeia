@@ -1,0 +1,11 @@
+{
+    "pokemon": [
+        {
+            "nombre": "charjabug",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Batería",
+    "descripcion": "Potencia los movimientos especiales de los aliados.",
+    "generacion_introduccion": "generation-vii"
+}

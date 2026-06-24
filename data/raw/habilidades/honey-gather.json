@@ -1,0 +1,27 @@
+{
+    "pokemon": [
+        {
+            "nombre": "combee",
+            "oculta": false
+        },
+        {
+            "nombre": "cutiefly",
+            "oculta": false
+        },
+        {
+            "nombre": "ribombee-totem",
+            "oculta": false
+        },
+        {
+            "nombre": "ribombee",
+            "oculta": false
+        },
+        {
+            "nombre": "teddiursa",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Recogemiel",
+    "descripcion": "El Pokémon recoge Miel de donde puede.",
+    "generacion_introduccion": "generation-iv"
+}

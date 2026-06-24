@@ -1,0 +1,127 @@
+{
+    "pokemon": [
+        {
+            "nombre": "cacnea",
+            "oculta": false
+        },
+        {
+            "nombre": "cacturne",
+            "oculta": false
+        },
+        {
+            "nombre": "diglett-alola",
+            "oculta": false
+        },
+        {
+            "nombre": "diglett",
+            "oculta": false
+        },
+        {
+            "nombre": "donphan",
+            "oculta": true
+        },
+        {
+            "nombre": "dugtrio-alola",
+            "oculta": false
+        },
+        {
+            "nombre": "dugtrio",
+            "oculta": false
+        },
+        {
+            "nombre": "gabite",
+            "oculta": false
+        },
+        {
+            "nombre": "garchomp",
+            "oculta": false
+        },
+        {
+            "nombre": "geodude",
+            "oculta": true
+        },
+        {
+            "nombre": "gible",
+            "oculta": false
+        },
+        {
+            "nombre": "gligar",
+            "oculta": false
+        },
+        {
+            "nombre": "gliscor",
+            "oculta": false
+        },
+        {
+            "nombre": "golem",
+            "oculta": true
+        },
+        {
+            "nombre": "graveler",
+            "oculta": true
+        },
+        {
+            "nombre": "heliolisk",
+            "oculta": false
+        },
+        {
+            "nombre": "helioptile",
+            "oculta": false
+        },
+        {
+            "nombre": "larvitar",
+            "oculta": true
+        },
+        {
+            "nombre": "orthworm",
+            "oculta": true
+        },
+        {
+            "nombre": "palossand",
+            "oculta": true
+        },
+        {
+            "nombre": "phanpy",
+            "oculta": true
+        },
+        {
+            "nombre": "sandaconda-gmax",
+            "oculta": true
+        },
+        {
+            "nombre": "sandaconda",
+            "oculta": true
+        },
+        {
+            "nombre": "sandshrew",
+            "oculta": false
+        },
+        {
+            "nombre": "sandslash",
+            "oculta": false
+        },
+        {
+            "nombre": "sandygast",
+            "oculta": true
+        },
+        {
+            "nombre": "silicobra",
+            "oculta": true
+        },
+        {
+            "nombre": "stunfisk",
+            "oculta": true
+        },
+        {
+            "nombre": "wiglett",
+            "oculta": true
+        },
+        {
+            "nombre": "wugtrio",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Velo Arena",
+    "descripcion": "Aumenta la Evasión en las tormentas de arena.",
+    "generacion_introduccion": "generation-iii"
+}

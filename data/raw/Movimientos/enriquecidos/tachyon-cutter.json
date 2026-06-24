@@ -1,0 +1,16 @@
+{
+    "id": 911,
+    "nombre_en": "tachyon-cutter",
+    "nombre_es": "Tajo Taquión",
+    "tipo": "steel",
+    "categoria": "special",
+    "potencia": 50,
+    "precision": 0,
+    "pp": 10,
+    "prioridad": 0,
+    "generacion": "generation-ix",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": [
+        "iron-crown"
+    ]
+}

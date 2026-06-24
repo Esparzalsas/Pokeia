@@ -1,0 +1,19 @@
+{
+    "pokemon": [
+        {
+            "nombre": "araquanid-totem",
+            "oculta": false
+        },
+        {
+            "nombre": "araquanid",
+            "oculta": false
+        },
+        {
+            "nombre": "dewpider",
+            "oculta": false
+        }
+    ],
+    "nombre_es": "Pompa",
+    "descripcion": "Reduce el daño que le provocan los movimientos de tipo Fuego e impide que sufra quemaduras.",
+    "generacion_introduccion": "generation-vii"
+}

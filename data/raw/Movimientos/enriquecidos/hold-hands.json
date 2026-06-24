@@ -1,0 +1,14 @@
+{
+    "id": 607,
+    "nombre_en": "hold-hands",
+    "nombre_es": "Manos Juntas",
+    "tipo": "normal",
+    "categoria": "status",
+    "potencia": null,
+    "precision": null,
+    "pp": 40,
+    "prioridad": 0,
+    "generacion": "generation-vi",
+    "efecto": null,
+    "pokemon_que_lo_aprenden": []
+}

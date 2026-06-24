@@ -1,0 +1,111 @@
+{
+    "pokemon": [
+        {
+            "nombre": "burmy",
+            "oculta": true
+        },
+        {
+            "nombre": "cloyster",
+            "oculta": true
+        },
+        {
+            "nombre": "duosion",
+            "oculta": false
+        },
+        {
+            "nombre": "enamorus-therian",
+            "oculta": false
+        },
+        {
+            "nombre": "escavalier",
+            "oculta": true
+        },
+        {
+            "nombre": "forretress",
+            "oculta": true
+        },
+        {
+            "nombre": "hakamo-o",
+            "oculta": true
+        },
+        {
+            "nombre": "jangmo-o",
+            "oculta": true
+        },
+        {
+            "nombre": "kommo-o-totem",
+            "oculta": true
+        },
+        {
+            "nombre": "kommo-o",
+            "oculta": true
+        },
+        {
+            "nombre": "leavanny",
+            "oculta": true
+        },
+        {
+            "nombre": "mandibuzz",
+            "oculta": false
+        },
+        {
+            "nombre": "pineco",
+            "oculta": true
+        },
+        {
+            "nombre": "reuniclus",
+            "oculta": false
+        },
+        {
+            "nombre": "revavroom",
+            "oculta": false
+        },
+        {
+            "nombre": "sewaddle",
+            "oculta": true
+        },
+        {
+            "nombre": "shelgon",
+            "oculta": true
+        },
+        {
+            "nombre": "shellder",
+            "oculta": true
+        },
+        {
+            "nombre": "shelmet",
+            "oculta": true
+        },
+        {
+            "nombre": "solosis",
+            "oculta": false
+        },
+        {
+            "nombre": "swadloon",
+            "oculta": true
+        },
+        {
+            "nombre": "varoom",
+            "oculta": false
+        },
+        {
+            "nombre": "vullaby",
+            "oculta": false
+        },
+        {
+            "nombre": "wormadam-plant",
+            "oculta": true
+        },
+        {
+            "nombre": "wormadam-sandy",
+            "oculta": true
+        },
+        {
+            "nombre": "wormadam-trash",
+            "oculta": true
+        }
+    ],
+    "nombre_es": "Funda",
+    "descripcion": "Protege del polvo, la arena y el granizo.",
+    "generacion_introduccion": "generation-v"
+}
