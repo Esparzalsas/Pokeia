@@ -32,6 +32,8 @@ Analiza efectividad de tipos, maneja la tabla de efectividades y analiza enfrent
 ### Ejemplo
 
 ![Ejemplo de análisis](https://github.com/user-attachments/assets/3da0d8f9-8856-441b-ad0b-fec221cd1545)
+<img width="461" height="682" alt="image" src="https://github.com/user-attachments/assets/eb26131a-f6d3-4318-8e9c-703cf762a27a" />
+
 
 
 ## ❌ Limitaciones actuales
