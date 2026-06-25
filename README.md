@@ -26,9 +26,12 @@ py main.py
 Una vez iniciado, escribe `ayuda` para ver los comandos disponibles.
 
 ## QUÉ HACE❓❓
-        Analiza efectividad de tipos, maneja la tabla de efectividades, analiza matchs de dos Pokémon teniendo en cuenta habilidades, STAB, tipos de ambos Pokémon y coberturas aprendibles por ambos Pokémon
-        
-        <img width="1077" height="581" alt="image" src="https://github.com/user-attachments/assets/3da0d8f9-8856-441b-ad0b-fec221cd1545" />
+
+Analiza efectividad de tipos, maneja la tabla de efectividades y analiza enfrentamientos entre dos Pokémon teniendo en cuenta habilidades, STAB, tipos y coberturas.
+
+### Ejemplo
+
+![Ejemplo de análisis](https://github.com/user-attachments/assets/3da0d8f9-8856-441b-ad0b-fec221cd1545)
 
 
 ## ❌ Limitaciones actuales
